@@ -2,17 +2,11 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "EXoJMJh9",
-      "imgUrl" : "https://image.kurier.at/images/original/4751538/46-168791998.jpg",
-      "titleSource" : "Kurz bei Macron: IS-Kämpfer nach Gefängnis \"ständig überwachen\"",
-      "titleTarget" : "Pe scurt la Macron: „Monitorizează constant” luptătorii IS după închisoare",
-      "url" : "https://kurier.at/politik/inland/kurz-bei-macron-staerkerer-schutz-der-eu-aussengrenzen-als-terrorpraevention/401093343"
-    }, {
-      "id" : "D7xkon3v",
-      "imgUrl" : "https://image.kurier.at/images/original/4725846/20201028-ABD0090-1-1.jpg",
-      "titleSource" : "ÖVP fordert Wiedereinführung von Intensivmedizin als Fach für Chirurgen",
-      "titleTarget" : "ÖVP solicită reintroducerea medicinii de terapie intensivă ca specialist pentru chirurgi",
-      "url" : "https://kurier.at/politik/inland/oevp-fordert-wiedereinfuehrung-von-intensivmedizin-als-fach-fuer-chirurgen/401092770"
+      "id" : "ZzM4atBe",
+      "imgUrl" : "https://image.kurier.at/images/original/4739367/46-165823573.jpg",
+      "titleSource" : "\"Tickende Zeitbomben\": Regierung will Gefährder \"wegsperren\"",
+      "titleTarget" : "„Marcarea bombelor cu ceas”: guvernul vrea să „blocheze” amenințările",
+      "url" : "https://kurier.at/politik/inland/anti-terror-paket-regierung-beschliesst-20-massnahmen/401093967"
     }, {
       "id" : "p8HFkgwo",
       "imgUrl" : "https://image.kurier.at/images/original/4737369/78350011457315082_BLD_Online.jpg",
@@ -32,50 +26,32 @@
       "titleTarget" : "Coronavirus: închiderea școlilor provoacă „costuri enorme”",
       "url" : "https://kurier.at/politik/inland/coronavirus-schulschliessungen-verursachen-enorme-kosten/401093529"
     }, {
-      "id" : "02xeLSzO",
-      "imgUrl" : "https://image.kurier.at/images/original/4752072/ema_dsc5938_hires-min.jpg",
-      "titleSource" : "Corona: SPÖ will der Verlängerung des Lockdowns zustimmen",
-      "titleTarget" : "Corona: SPÖ vrea să fie de acord cu extinderea blocării",
-      "url" : "https://kurier.at/politik/inland/corona-spoe-will-der-verlaengerung-des-lockdowns-zustimmen/401093430"
+      "id" : "BNX69NwE",
+      "imgUrl" : "https://image.kurier.at/images/original/4682493/46-167700390.jpg",
+      "titleSource" : "Coronavirus - Breite Front gegen mögliche Schulschließungen",
+      "titleTarget" : "Coronavirus - front larg împotriva posibilelor închideri de școli",
+      "url" : "https://kurier.at/politik/inland/coronavirus-breite-front-gegen-moegliche-schulschliessungen/401094195"
     }, {
-      "id" : "00aEjLl8",
-      "imgUrl" : "https://image.kurier.at/images/original/4638848/46-167363127.jpg",
-      "titleSource" : "Klimaschutzministerium neu organisiert",
-      "titleTarget" : "Ministerul Protecției Climei s-a reorganizat",
-      "url" : "https://kurier.at/politik/inland/klimaschutzministerium-neu-organisiert/401093010"
+      "id" : "thFrlB9h",
+      "imgUrl" : "https://image.kurier.at/images/original/4193918/46-162956594.jpg",
+      "titleSource" : "Coronavirus - Lehrer wollen Aufwandsentschädigung für Fernunterricht",
+      "titleTarget" : "Coronavirus - profesorii doresc rambursarea pentru învățarea la distanță",
+      "url" : "https://kurier.at/politik/inland/coronavirus-lehrer-wollen-aufwandsentschaedigung-fuer-fernunterricht/401093769"
+    }, {
+      "id" : "gLYu1lv2",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/2/2/5895970/FE40880C-2159-4BDA-BFA5-74671AAF695B_v0_h.jpg",
+      "titleSource" : "Anti-Terror-Paket: Das wollen natürlich die Grünen auch",
+      "titleTarget" : "Pachetul anti-terorism: Desigur, și verzii vor asta",
+      "url" : "https://www.diepresse.com/5895970/Massnahmen_AntiTerrorPaket_Das-wollen-natuerlich-die-Gruenen-auch?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "LPVLCfwQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4752174/46-168796365.jpg",
-      "titleSource" : "Österreicher sparen sich durch die Corona-Krise",
-      "titleTarget" : "Austriecii se salvează din cauza crizei coroanei",
-      "url" : "https://kurier.at/wirtschaft/oesterreicher-sparen-sich-durch-die-corona-krise/401093475"
-    }, {
-      "id" : "HSHhvXZ6",
-      "imgUrl" : "https://image.kurier.at/images/original/4708224/46-168070543.jpg",
-      "titleSource" : "Strom aus erneuerbaren Energiequellen legt weiter stark zu",
-      "titleTarget" : "Electricitatea din surse regenerabile de energie continuă să crească puternic",
-      "url" : "https://kurier.at/wirtschaft/strom-aus-erneuerbaren-energiequellen-legt-weiter-stark-zu/401092995"
-    }, {
-      "id" : "0bczHHbU",
-      "imgUrl" : "https://image.kurier.at/images/original/4752255/46-145658315.jpg",
-      "titleSource" : "Ex-Google-Chef beantragte in Zypern \"goldenen Pass\"",
-      "titleTarget" : "Fostul șef Google a solicitat „pașaportul de aur” în Cipru",
-      "url" : "https://kurier.at/wirtschaft/ex-google-chef-beantragte-in-zypern-goldenen-pass/401093499"
-    }, {
-      "id" : "bnQHxVKu",
-      "imgUrl" : "https://image.kurier.at/images/original/4752144/46-84746370.jpg",
-      "titleSource" : "1,5 Prozent mehr Gehalt auch in der IT-Branche",
-      "titleTarget" : "Salariu cu 1,5 la sută mai mare și în industria IT",
-      "url" : "https://kurier.at/wirtschaft/15-prozent-mehr-gehalt-auch-in-der-it-branche/401093454"
-    }, {
-      "id" : "yRqbS1J2",
-      "imgUrl" : "https://image.kurier.at/images/original/4751238/46-168789801.jpg",
-      "titleSource" : "Agrana-Zuckerfabrik dürfte durch Nothilfen für Rübenbauern gerettet sein",
-      "titleTarget" : "Fabrica de zahăr Agrana este probabil să fi fost salvată de ajutorul de urgență pentru fermierii de sfeclă",
-      "url" : "https://kurier.at/wirtschaft/agrana-zuckerfabrik-duerfte-durch-nothilfen-fuer-ruebenbauern-gerettet-sein/401093115"
+      "id" : "rHIpl6xP",
+      "imgUrl" : "https://image.kurier.at/images/original/4753311/46-168810444.jpg",
+      "titleSource" : "\"Muss man 18-Jährige vor Käpt'n Iglo und Fischstäbchen schützen?\"",
+      "titleTarget" : "\"Trebuie să protejezi tinerii de 18 ani de căpitanul Iglo și degetele de pește?\"",
+      "url" : "https://kurier.at/wirtschaft/muss-man-18-jaehrige-vor-kaeptn-iglo-und-fischstaebchen-schuetzen/401094129"
     }, {
       "id" : "d9HhNzg3",
       "imgUrl" : "https://image.kurier.at/images/original/4542431/78350011455681204_BLD_Online.jpg",
@@ -83,65 +59,89 @@
       "titleTarget" : "Söder din Bavaria pentru o cotă de femei în consiliile de administrație germane",
       "url" : "https://kurier.at/wirtschaft/bayerns-soeder-fuer-frauenquote-in-deutschen-konzern-vorstaenden/401093754"
     }, {
-      "id" : "7feBzkXH",
-      "imgUrl" : "https://image.kurier.at/images/original/4751742/46-168678880.jpg",
-      "titleSource" : "Taubenabwehr: Ist der Vermieter zuständig?",
-      "titleTarget" : "Apărarea porumbeilor: este proprietarul responsabil?",
-      "url" : "https://kurier.at/wirtschaft/immobiz/taubenabwehr-ist-der-vermieter-zustaendig/401093307"
+      "id" : "hhSnETND",
+      "imgUrl" : "https://image.kurier.at/images/original/4700118/20201015-ABD0104-1-1.jpg",
+      "titleSource" : "Bei MAN geht nichts mehr: Verhandlung über Stellenabbau abgebrochen",
+      "titleTarget" : "La MAN nu mai funcționează nimic: negocierile despre reducerea locurilor de muncă au fost anulate",
+      "url" : "https://kurier.at/wirtschaft/bei-man-geht-nichts-mehr-verhandlung-ueber-stellenabbau-abgebrochen/401094048"
+    }, {
+      "id" : "LPVLCfwQ",
+      "imgUrl" : "https://image.kurier.at/images/original/4752174/46-168796365.jpg",
+      "titleSource" : "Österreicher sparen sich durch die Corona-Krise",
+      "titleTarget" : "Austriecii se salvează din cauza crizei coroanei",
+      "url" : "https://kurier.at/wirtschaft/oesterreicher-sparen-sich-durch-die-corona-krise/401093475"
+    }, {
+      "id" : "0bczHHbU",
+      "imgUrl" : "https://image.kurier.at/images/original/4752255/46-145658315.jpg",
+      "titleSource" : "Ex-Google-Chef beantragte in Zypern \"goldenen Pass\"",
+      "titleTarget" : "Fostul șef Google a solicitat „pașaportul de aur” în Cipru",
+      "url" : "https://kurier.at/wirtschaft/ex-google-chef-beantragte-in-zypern-goldenen-pass/401093499"
+    }, {
+      "id" : "HXjiZnwg",
+      "imgUrl" : "https://image.kurier.at/images/original/4754076/46-163481044.jpg",
+      "titleSource" : "Zu enge Schulungsräume? Maskenpflicht soll Kurse retten",
+      "titleTarget" : "Săli de antrenament prea înguste? Cerința de mască ar trebui să salveze cursurile",
+      "url" : "https://kurier.at/wirtschaft/zu-enge-schulungsraeume-maskenpflicht-soll-kurse-retten/401094573"
+    }, {
+      "id" : "Kz2DsgBH",
+      "imgUrl" : "https://image.kurier.at/images/original/97695/frauenquote-000_AP_Nigel%252BTreblin.jpg",
+      "titleSource" : "Markus Söder für Frauenquote in DAX-Vorständen",
+      "titleTarget" : "Markus Söder pentru cota de femei pe tabelele DAX",
+      "url" : "https://kurier.at/wirtschaft/markus-soeder-fuer-frauenquote-in-dax-vorstaenden/401094564"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "oSk6PGrx",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/10/70/crops/w=1280/493876_opener_166370_p3050028.jpg?s=9ece11393a7c9ee161737aa34b2a1315f28e9f33",
-      "titleSource" : "Infektiologe Weiss: „Es ist fünf vor zwölf“",
-      "titleTarget" : "Infectiologul Weiss: „Sunt cinci până la doisprezece”",
-      "url" : "https://tirol.orf.at/stories/3075399/"
+      "id" : "5EkgYCPU",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/20/crops/w=1280/747568_opener_259420_bergung_der_gletscherbahn-garnitur_von_kaprun.jpg?s=6791bd82214eaa71f2322b1202f99d76134dd82d",
+      "titleSource" : "20 Jahre Kaprun-Unglück: Ein langer Weg zurück",
+      "titleTarget" : "20 de ani de la dezastrul Kaprun: un drum lung înapoi",
+      "url" : "https://salzburg.orf.at/stories/3075130/"
     }, {
-      "id" : "J7EeHQ7W",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/60/crops/w=1280/748771_opener_259860_unbenanntdddd-1.jpg?s=a69befbc38cd37d43599310088bfa07346364ae4",
-      "titleSource" : "Krankenhaus Hall schließt Psychotherapie-Station",
-      "titleTarget" : "Sala Spitalului închide secția de psihoterapie",
-      "url" : "https://tirol.orf.at/stories/3075358/"
+      "id" : "Z1jZZHDg",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/76/crops/w=1280/749060_opener_259976_apfel.jpg?s=6ea2d4a11bd6940c5753b9f8bb07065797c09bb5",
+      "titleSource" : "4.000 Jahre alter Apfel aus Oberlaa",
+      "titleTarget" : "Mar vechi de 4.000 de ani din Oberlaa",
+      "url" : "https://wien.orf.at/stories/3075415/"
     }, {
-      "id" : "HiNE6QpU",
-      "imgUrl" : "https://image.kurier.at/images/original/4735938/46-167961868.jpg",
-      "titleSource" : "Hausdurchsuchungen bei Rechtsextremen in sieben Bundesländern",
-      "titleTarget" : "Percheziții la domiciliu ale extremiștilor de dreapta din șapte state federale",
-      "url" : "https://kurier.at/chronik/oesterreich/hausdurchsuchungen-bei-rechtsextremen-in-sieben-bundeslaendern/401093130"
+      "id" : "kk7tqi0i",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/05/27/crops/w=1280/449463_opener_149627_landtag.jpg?s=dee2581540e001f3909ae9ad8d66d2bc12ab5a16",
+      "titleSource" : "Landtag: Vom „Zusammenhalt“ zu kritischen Fragen",
+      "titleTarget" : "Etichetă: De la „coeziune” la întrebări critice",
+      "url" : "https://salzburg.orf.at/stories/3075531/"
     }, {
-      "id" : "BwLwspf5",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/49/crops/w=1280/748990_opener_259949_gepa_full_8223_gepa-202011101011240115.jpg?s=d5d6cc4231d11b1a87fab118d4861488ef44af7a",
-      "titleSource" : "Thiem und Dadic Sportler des Jahres",
-      "titleTarget" : "Sportivul anului Thiem și Dadic",
-      "url" : "https://noe.orf.at/stories/3075380/"
+      "id" : "dDMztVwY",
+      "imgUrl" : "https://image.kurier.at/images/original/4752954/46-168495579.jpg",
+      "titleSource" : "Die aktuelle Corona-Lage: Mehr als 7.500 Neuinfektionen in Österreich",
+      "titleTarget" : "Situația actuală a coroanei: peste 7.500 de infecții noi în Austria",
+      "url" : "https://kurier.at/chronik/oesterreich/die-aktuelle-corona-lage-7514-neuinfektionen-in-oesterreich/401093757"
     }, {
-      "id" : "A5rUeBwJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4707678/46-168266108.jpg",
-      "titleSource" : "Mehr als 6.100 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "Peste 6.100 de noi infecții coronare în Austria",
-      "url" : "https://kurier.at/chronik/oesterreich/mehr-als-6100-neue-corona-infektionen-in-oesterreich/401092605"
+      "id" : "RHQujF1Z",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/72/crops/w=1280/749310_opener_260072_prinzenpaar_2021.jpg?s=d95722f0de73c6f8a8465584db65018e86ad400c",
+      "titleSource" : "Villach präsentiert Prinzenpaare",
+      "titleTarget" : "Villach prezintă cupluri de prinți",
+      "url" : "https://kaernten.orf.at/stories/3075459/"
     }, {
-      "id" : "exl8Pc1t",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/74/crops/w=1280/748807_opener_259874_bildschirmfoto_2020-11-10_um_17.12.06_2.jpg?s=3be38bca9d7368e4fc181061e8494784bc4616cd",
-      "titleSource" : "Zweiter Lockdown in Südtirol ab Samstag",
-      "titleTarget" : "Al doilea blocaj în Tirolul de Sud de sâmbătă",
-      "url" : "https://tirol.orf.at/stories/3075348/"
+      "id" : "flQircUA",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/98/crops/w=1280/749335_opener_259698_1.jpg?s=8c94e4c1bc4f0cf2caac618a18348f4989d9cd1e",
+      "titleSource" : "Bedingte Haft für Lokführer nach tödlichem Unfall",
+      "titleTarget" : "Închisoare condiționată pentru șoferii de tren după un accident fatal",
+      "url" : "https://steiermark.orf.at/stories/3075255/"
     }, {
-      "id" : "YQ59IaBI",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/46/37/crops/w=1280/747061_opener_259237_20201106_140809.jpg?s=af138f62bee9854ff2cd62621a225018037a9a4f",
-      "titleSource" : "Angespannte Lage bei Intensivbetten",
-      "titleTarget" : "Situație tensionată în paturile de terapie intensivă",
-      "url" : "https://ooe.orf.at/stories/3075406/"
+      "id" : "Irf7DRwO",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2019/38/73/crops/w=1280/296943_opener_91873__d857333.jpg?s=5fba7136fd2e85e517e52b0dbeb2857fa2771985",
+      "titleSource" : "Trotz Quarantäne verreist: 29-Jähriger verurteilt",
+      "titleTarget" : "A călătorit în ciuda carantinei: tânărul de 29 de ani a fost condamnat",
+      "url" : "https://salzburg.orf.at/stories/3075389/"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "iOa7SThk",
-      "imgUrl" : "https://image.kurier.at/images/original/4752003/46-168784969.jpg",
-      "titleSource" : "\"Schwere Gewichte\": Doku über Österreichs stärkste Familie",
-      "titleTarget" : "„Greutăți grele”: Documentar despre cea mai puternică familie din Austria",
-      "url" : "https://kurier.at/kultur/schwere-gewichte-doku-ueber-oesterreichs-staerkste-familie/401093331"
+      "id" : "sVbRU6ys",
+      "imgUrl" : "https://image.kurier.at/images/original/4752891/321.jpg",
+      "titleSource" : "Otto-Mauer-Preis geht an Barbara Kapusta",
+      "titleTarget" : "Premiul Otto Mauer revine Barbara Kapusta",
+      "url" : "https://kurier.at/kultur/otto-mauer-preis-geht-an-barbara-kapusta/401093829"
     }, {
       "id" : "4KpmPSjQ",
       "imgUrl" : "https://image.kurier.at/images/original/4198325/46-143103613.jpg",
@@ -149,34 +149,35 @@
       "titleTarget" : "Thomas Stipsits câștigă „Salzburg Bull 2021”",
       "url" : "https://kurier.at/kultur/thomas-stipsits-gewinnt-den-salzburger-stier-2021/401093637"
     }, {
-      "id" : "VKmHzevb",
-      "titleSource" : "Nun trauert Schlagerstar Heintje um seine Mama",
-      "titleTarget" : "Acum, starul pop Heintje își plânge mama",
-      "url" : "https://kurier.at/kultur/nun-trauert-schlagerstar-heintje-um-seine-mama/401092719"
-    }, {
-      "id" : "43hUTmde",
-      "imgUrl" : "https://image.kurier.at/images/original/4749723/46-168776630.jpg",
-      "titleSource" : "Der Skateshop um 2,1 Milliarden",
-      "titleTarget" : "Magazinul de skate cu 2,1 miliarde",
-      "url" : "https://kurier.at/kultur/der-skateshop-um-21-milliarden/401093247"
-    }, {
       "id" : "rxGv9tkp",
       "imgUrl" : "https://image.kurier.at/images/original/4751673/46-168701703.jpg",
       "titleSource" : "Elektro-Pop-Duo Mynth: Von Unsicherheit zum Optimismus",
       "titleTarget" : "Duo de electro-pop Mynth: De la incertitudine la optimism",
       "url" : "https://kurier.at/kultur/elektro-pop-duo-mynth-von-unsicherheit-zum-optimismus/401093259"
     }, {
-      "id" : "YrhPWp2c",
-      "imgUrl" : "https://image.kurier.at/images/original/4751373/46-168201954.jpg",
-      "titleSource" : "Neues bei Netflix: \"Barbaren\" bekommt Staffel 2, Olli Schulz baut ein Hausboot",
-      "titleTarget" : "Știri de pe Netflix: „Barbarii” primesc sezonul 2, Olli Schulz construiește o barcă de casa",
-      "url" : "https://kurier.at/kultur/medien/neues-bei-netflix-barbaren-bekommt-staffel-2-olli-schulz-baut-ein-hausboot/401093163"
+      "id" : "G7FZeyap",
+      "imgUrl" : "https://image.kurier.at/images/original/4753938/46-146853403.jpg",
+      "titleSource" : "Campino hofft auf ein Comeback großer Konzerte",
+      "titleTarget" : "Campino speră la o mare revenire la concert",
+      "url" : "https://kurier.at/kultur/campino-hofft-auf-ein-comeback-grosser-konzerte/401094471"
     }, {
-      "id" : "GHSD3ekX",
-      "imgUrl" : "https://image.kurier.at/images/original/4485110/46-165827137.jpg",
-      "titleSource" : "\"Undine\" und \"Berlin Alexanderplatz\" für Europäischen Filmpreis nominiert",
-      "titleTarget" : "„Undine” și „Berlin Alexanderplatz” nominalizate la Premiul pentru film european",
-      "url" : "https://kurier.at/kultur/undine-und-berlin-alexanderplatz-fuer-europaeischen-filmpreis-nominiert/401093055"
+      "id" : "muUR1IR7",
+      "imgUrl" : "https://image.kurier.at/images/original/4752918/46-149650816.jpg",
+      "titleSource" : "Corona-Hilfe: 18,5 Millionen für Bundesmuseen und Bundestheater",
+      "titleTarget" : "Ajutor Corona: 18,5 milioane pentru muzee federale și teatre federale",
+      "url" : "https://kurier.at/kultur/corona-hilfe-185-millionen-fuer-bundesmuseen-und-bundestheater/401093880"
+    }, {
+      "id" : "JU1eJNe2",
+      "imgUrl" : "https://image.kurier.at/images/original/3650564/46-147706254.jpg",
+      "titleSource" : "Trenklers Tratsch: Die Baustellen auf der Bundesmuseumsautobahn",
+      "titleTarget" : "Bârfa lui Trenkler: șantierele de pe autostrada federală a muzeului",
+      "url" : "https://kurier.at/kultur/trenklers-tratsch-die-baustellen-auf-der-bundesmuseumsautobahn/401093883"
+    }, {
+      "id" : "43hUTmde",
+      "imgUrl" : "https://image.kurier.at/images/original/4749723/46-168776630.jpg",
+      "titleSource" : "Der Skateshop um 2,1 Milliarden",
+      "titleTarget" : "Magazinul de skate cu 2,1 miliarde",
+      "url" : "https://kurier.at/kultur/der-skateshop-um-21-milliarden/401093247"
     } ]
   }, {
     "category" : "HEALTH",
@@ -195,31 +196,32 @@
       "titleTarget" : "Sportivul anului al lui Dadic și Thiem",
       "url" : "https://sport.orf.at/stories/3069196/"
     }, {
-      "id" : "8osVba53",
-      "titleSource" : "Labor erklärt Testkonfusion bei Salzburger Fußballern",
-      "titleTarget" : "Laboratorul explică confuzia testelor în rândul fotbaliștilor din Salzburg",
-      "url" : "https://sport.orf.at/stories/3069189/"
+      "id" : "Q28bloIN",
+      "imgUrl" : "https://image.kurier.at/images/original/4752726/obs_20201111_obs0005.jpg",
+      "titleSource" : "Hermann Maier zeigt, wie Skifahren trotz Corona funktionieren kann",
+      "titleTarget" : "Hermann Maier arată cum poate funcționa schiul în ciuda Corona",
+      "url" : "https://kurier.at/sport/wintersport/video-hermann-maier-zeigt-wie-skifahren-trotz-corona-funktionieren-kann/401093730"
     }, {
-      "id" : "aFmYtfbN",
-      "titleSource" : "Nüßle dank Wildcard bei German Masters Qualifier",
-      "titleTarget" : "Nüßle datorită wildcard-ului în calificarea germană Masters",
-      "url" : "https://sport.orf.at/stories/3069185/"
+      "id" : "YO8QFnjf",
+      "imgUrl" : "https://image.kurier.at/images/original/4752831/46-166868023.jpg",
+      "titleSource" : "Alaba-Vater: David \"enttäuscht und verletzt\"",
+      "titleTarget" : "Tatăl Alaba: David „dezamăgit și rănit”",
+      "url" : "https://kurier.at/sport/fussball/oefb-star-david-alaba-gedachte-der-terroropfer-in-wien/401093799"
     }, {
-      "id" : "cJEO5s98",
-      "imgUrl" : "https://image.kurier.at/images/original/4750620/46-121961385.jpg",
-      "titleSource" : "Kombinierer Gruber nach Herz-OP: \"Das ist mein größter Sieg!\"",
-      "titleTarget" : "Gruber combinat după o intervenție chirurgicală la inimă: \"Aceasta este cea mai mare victorie a mea!\"",
-      "url" : "https://kurier.at/sport/wintersport/kombinierer-gruber-nach-herz-op-das-ist-mein-groesster-sieg/401092689"
+      "id" : "nv9a2Pbz",
+      "titleSource" : "Luxemburg-Test für Foda nicht „sinnlos“",
+      "titleTarget" : "Testul de la Luxemburg nu este „inutil” pentru Foda",
+      "url" : "https://sport.orf.at/stories/3069188/"
     }, {
-      "id" : "0JazQcPw",
-      "titleSource" : "Grünes Licht für Grubers Karrierefortsetzung",
-      "titleTarget" : "Semnal verde pentru continuarea carierei lui Gruber",
-      "url" : "https://sport.orf.at/stories/3069181/"
+      "id" : "Btwd05tL",
+      "titleSource" : "ÖVV organisiert Training für den Nachwuchs",
+      "titleTarget" : "ÖVV organizează cursuri pentru următoarea generație",
+      "url" : "https://sport.orf.at/stories/3069212/"
     }, {
-      "id" : "MrVTrRt9",
-      "titleSource" : "Test gegen ÖFB-Team als Aufwärmübung",
-      "titleTarget" : "Testează împotriva echipei ÖFB ca un exercițiu de încălzire",
-      "url" : "https://sport.orf.at/stories/3069146/"
+      "id" : "DdPiXMSe",
+      "titleSource" : "Zauberschlag von Rahm sorgt für Aufsehen",
+      "titleTarget" : "Magia cremei provoacă agitație",
+      "url" : "https://sport.orf.at/stories/3069205/"
     } ]
   } ],
   "country" : "austria",
