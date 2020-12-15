@@ -8,23 +8,17 @@
       "titleTarget" : "Anschober se bazează pe testare în loc de blocare dură ca în Germania",
       "url" : "https://kurier.at/politik/inland/anschober-setzt-auf-testen-statt-hartem-lockdown-wie-in-deutschland/401129022"
     }, {
-      "id" : "V4OXw4uK",
-      "imgUrl" : "https://image.kurier.at/images/original/4819995/46-165767123.jpg",
-      "titleSource" : "\"Noch nie wurde ein U-Ausschuss so heftig bekämpft\": Halbzeit im Ibiza-Ausschuss",
-      "titleTarget" : "„Niciodată până acum nu s-a luptat atât de acerb un Comitet U”: Jumatate în Comitetul de la Ibiza",
-      "url" : "https://kurier.at/politik/inland/noch-nie-wurde-ein-u-ausschuss-so-heftig-bekaempft-halbzeit-im-ibiza-ausschuss/401129064"
-    }, {
       "id" : "iMHKatc0",
       "imgUrl" : "https://image.kurier.at/images/original/1887619/studenten-000_APA_HELMUT%252BFOHRINGER.jpg",
       "titleSource" : "800 Euro: Wegen Corona soll ein neuer Härtefonds Studenten helfen",
       "titleTarget" : "800 de euro: Din cauza Corona, un nou fond de dificultăți ar trebui să ajute studenții",
       "url" : "https://kurier.at/politik/inland/800-euro-wegen-corona-soll-ein-neuer-haertefonds-studenten-helfen/401129193"
     }, {
-      "id" : "CVJrfvEC",
-      "imgUrl" : "https://image.kurier.at/images/original/4820682/46-173551638.jpg",
-      "titleSource" : "Österreichs erster Corona-Spürhund: Die goldene Nase von \"Fantasy Forever\"",
-      "titleTarget" : "Primul câine sniffer din Austria: nasul auriu al „Fantasy Forever”",
-      "url" : "https://kurier.at/politik/inland/oesterreichs-erster-corona-spuerhund-die-goldene-nase-von-fantasy-forever/401129451"
+      "id" : "V4OXw4uK",
+      "imgUrl" : "https://image.kurier.at/images/original/4819995/46-165767123.jpg",
+      "titleSource" : "\"Noch nie wurde ein U-Ausschuss so heftig bekämpft\": Halbzeit im Ibiza-Ausschuss",
+      "titleTarget" : "„Niciodată până acum nu s-a luptat atât de acerb un Comitet U”: Jumatate în Comitetul de la Ibiza",
+      "url" : "https://kurier.at/politik/inland/noch-nie-wurde-ein-u-ausschuss-so-heftig-bekaempft-halbzeit-im-ibiza-ausschuss/401129064"
     }, {
       "id" : "1Q5Dni8G",
       "imgUrl" : "https://image.kurier.at/images/original/4819674/46-173321311.jpg",
@@ -42,6 +36,11 @@
       "titleSource" : "Wann muss man sich, wann darf man sich impfen lassen?",
       "titleTarget" : "Când trebuie, când te poți vaccina?",
       "url" : "https://www.diepresse.com/5911463/Impfstrategie_Wann-muss-man-sich-wann-darf-man-sich-impfen-lassen?from=rss"
+    }, {
+      "id" : "XGjPzGhk",
+      "titleSource" : "Nationalrat: Parteien wollen erweitertes Begutachtungsverfahren",
+      "titleTarget" : "Consiliul Național: părțile doresc un proces extins de revizuire",
+      "url" : "https://www.diepresse.com/5911337/Nationalrat_Parteien-wollen-erweitertes-Begutachtungsverfahren?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -52,11 +51,11 @@
       "titleTarget" : "Wilhelm Rasinger - domnul pieței de capital este mort",
       "url" : "https://kurier.at/wirtschaft/wilhelm-rasinger-der-sir-des-kapitalmarktes-ist-tot/401128890"
     }, {
-      "id" : "1GGaOFl6",
-      "imgUrl" : "https://image.kurier.at/images/original/4819140/46-145411544.jpg",
-      "titleSource" : "Forstwirtschaft: Holzpreise sind im Keller",
-      "titleTarget" : "Silvicultură: prețurile lemnului sunt la subsol",
-      "url" : "https://kurier.at/wirtschaft/forstwirtschaft-holzpreise-sind-im-keller/401128440"
+      "id" : "f7A6PSPb",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/2/6/5/5911141/-THEMENBILD--CORONA-EINKAUFSSTRASSE--HANDEL_1607929677857890_v0_l.jpg",
+      "titleSource" : "Österreicher bei finanziellem Wohlergehen europaweit auf Rang 2",
+      "titleTarget" : "Austriecii pe locul doi în Europa pentru bunăstare financiară",
+      "url" : "https://www.diepresse.com/5911141/Wohlstandsbarometer_Oesterreicher-bei-finanziellem-Wohlergehen?from=rss"
     }, {
       "id" : "2zhMoCWX",
       "imgUrl" : "https://image.kurier.at/images/original/1675539/46-28518711.jpg",
@@ -64,17 +63,11 @@
       "titleTarget" : "S-a descoperit instalația de producere a șampaniei și a uleiului de măsline contrafăcute",
       "url" : "https://kurier.at/wirtschaft/produktionsstaette-fuer-gefaelschten-champagner-und-olivenoel-entdeckt/401129037"
     }, {
-      "id" : "f7A6PSPb",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/2/6/5/5911141/-THEMENBILD--CORONA-EINKAUFSSTRASSE--HANDEL_1607929677857890_v0_l.jpg",
-      "titleSource" : "Österreicher bei finanziellem Wohlergehen europaweit auf Rang 2",
-      "titleTarget" : "Austriecii pe locul doi în Europa pentru bunăstare financiară",
-      "url" : "https://www.diepresse.com/5911141/Wohlstandsbarometer_Oesterreicher-bei-finanziellem-Wohlergehen?from=rss"
-    }, {
-      "id" : "jUaiEBkm",
-      "imgUrl" : "https://image.kurier.at/images/original/4795320/46-106615492.jpg",
-      "titleSource" : "Die Österreicher sind finanziell gut aufgestellt: Rang zwei in Europa",
-      "titleTarget" : "Austriecii sunt bine poziționați financiar: al doilea în Europa",
-      "url" : "https://kurier.at/wirtschaft/die-oesterreicher-sind-finanziell-gut-aufgestellt/401128452"
+      "id" : "lWoG6sXh",
+      "imgUrl" : "https://image.kurier.at/images/original/4566017/46-163679547.jpg",
+      "titleSource" : "ÖBB betreiben erstmals Nahverkehr zwischen Bratislava und Komarno",
+      "titleTarget" : "ÖBB operează transportul local între Bratislava și Komarno pentru prima dată",
+      "url" : "https://kurier.at/wirtschaft/oebb-betreiben-erstmals-nahverkehr-zwischen-bratislava-und-komarno/401128887"
     }, {
       "id" : "oSSNwrZr",
       "imgUrl" : "https://image.kurier.at/images/original/4818720/46-173504825.jpg",
@@ -87,6 +80,12 @@
       "titleSource" : "Prime Video: Amazon und Sky verkünden Partnerschaft",
       "titleTarget" : "Prime Video: Amazon și Sky anunță parteneriatul",
       "url" : "https://kurier.at/wirtschaft/amazon-und-sky-verkuenden-partnerschaft/401128644"
+    }, {
+      "id" : "6saioDJS",
+      "imgUrl" : "https://image.kurier.at/images/original/4820982/46-173381890.jpg",
+      "titleSource" : "VW-Aufsichtsrat beschließt Neuzuschnitt des Vorstands, Diess bleibt",
+      "titleTarget" : "Consiliul de supraveghere VW decide să reproiecteze consiliul, rămâne Diess",
+      "url" : "https://kurier.at/wirtschaft/vw-aufsichtsrat-beschliesst-neuzuschnitt-des-vorstands-diess-bleibt/401129637"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -97,22 +96,17 @@
       "titleTarget" : "Stirianul de 15 ani se plânge că este necesară o mască la școală",
       "url" : "https://kurier.at/chronik/oesterreich/15-jaehrige-steirerin-klagt-gegen-maskenpflicht-in-der-schule/401128707"
     }, {
+      "id" : "MUjN8Gc3",
+      "imgUrl" : "https://oekastatic.orf.at/mims/2020/37/48/crops/w=1280/682411_opener_235648_coronavirustest.jpg?s=eb6dab4ef02bb885772942e03a26b2a2e1a2a4e9",
+      "titleSource" : "LH Kaiser will verlängerte Weihnachtsferien",
+      "titleTarget" : "LH Kaiser vrea sărbători de Crăciun prelungite",
+      "url" : "https://kaernten.orf.at/stories/3080560/"
+    }, {
       "id" : "MdJq2R1u",
       "imgUrl" : "https://image.kurier.at/images/original/4820496/46-173548302.jpg",
       "titleSource" : "Anschober setzt statt hartem Lockdown auf Testen; Massentests in Wien: Favoritner blieben daheim",
       "titleTarget" : "2.588 de noi infecții în Austria; Încercări gratuite vin înainte de Crăciun",
       "url" : "https://kurier.at/chronik/oesterreich/gratis-tests-vor-weihnachten-kommen-massentests-4000-infizierte-bei-zwei-millionen-tests/401128383"
-    }, {
-      "id" : "GYPneJT7",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2020/51/80/crops/w=1280/784292_opener_273080_meldungsliste8_4.jpg?s=287833434272b8e41db27176ce1ffa244d95a39c",
-      "titleSource" : "Spürhunde sollen CoV-Infizierte erschnüffeln",
-      "titleTarget" : "Câinii sniffer ar trebui să adulmece persoanele infectate cu CoV",
-      "url" : "https://wien.orf.at/stories/3080537/"
-    }, {
-      "id" : "0GY6rB1l",
-      "titleSource" : "Niederösterreich für freiwillige Impfung",
-      "titleTarget" : "Austria Inferioară pentru vaccinare voluntară",
-      "url" : "https://noe.orf.at/stories/3080422/"
     }, {
       "id" : "7NpS5rVi",
       "imgUrl" : "https://image.kurier.at/images/original/4778679/46-168465991.jpg",
@@ -131,6 +125,12 @@
       "titleSource" : "2.588 neue Corona-Infektionen in Österreich",
       "titleTarget" : "2.588 de noi infecții coronare în Austria",
       "url" : "https://kurier.at/chronik/oesterreich/2588-neue-corona-infektionen-in-oesterreich/401128647"
+    }, {
+      "id" : "4xg9PdJy",
+      "imgUrl" : "https://image.kurier.at/images/original/4820646/46-169057524.jpg",
+      "titleSource" : "Klare Absage an Impfpflicht aus Salzburg",
+      "titleTarget" : "Respingerea clară a vaccinării obligatorii din Salzburg",
+      "url" : "https://kurier.at/chronik/oesterreich/klare-absage-an-impfpflicht-aus-salzburg/401129445"
     } ]
   }, {
     "category" : "CULTURE",
@@ -153,17 +153,17 @@
       "titleTarget" : "Cu cobai prin noul an",
       "url" : "https://kurier.at/kultur/mit-meerschweinchen-durchs-neue-jahr/401128689"
     }, {
-      "id" : "QJohsMVl",
+      "id" : "jXhLQH1A",
       "imgUrl" : "https://image.kurier.at/images/original/4819005/46-173537863.jpg",
-      "titleSource" : "John le Carré starb mit 89 Jahren an Lungenentzündung",
-      "titleTarget" : "John le Carré a murit de pneumonie la vârsta de 89 de ani",
-      "url" : "https://kurier.at/kultur/john-le-carre-starb-mit-89-jahren-an-lungenentzuendung/401128344"
+      "titleSource" : "Nachruf auf John le Carré: Diesseits von Gut und Böse",
+      "titleTarget" : "Necrolog pentru John le Carré: Această latură a binelui și a răului",
+      "url" : "https://kurier.at/kultur/nachruf-auf-john-le-carre-diesseits-von-gut-und-boese/401129430"
     }, {
-      "id" : "y9LBGj5Y",
-      "imgUrl" : "https://image.kurier.at/images/original/4818987/46-173502940.jpg",
-      "titleSource" : "Netrebkos erste Wiener Tosca: Ein Triumph",
-      "titleTarget" : "Prima Tosca vieneză a lui Netrebko: un triumf",
-      "url" : "https://kurier.at/kultur/netrebkos-erste-wiener-tosca-ein-triumph/401128332"
+      "id" : "prpgWfka",
+      "imgUrl" : "https://image.kurier.at/images/original/4820610/46-163727648.jpg",
+      "titleSource" : "\"Danke für nichts, 2020\": Jede Menge satirische TV-Jahresrückblicke",
+      "titleTarget" : "„Mulțumesc pentru nimic, 2020”: O mulțime de recenzii TV satirice ale anului",
+      "url" : "https://kurier.at/kultur/medien/danke-fuer-nichts-2020-jede-menge-satirische-tv-jahresrueckblicke/401129328"
     }, {
       "id" : "weMfqIKa",
       "imgUrl" : "https://image.kurier.at/images/original/4819050/bildschirmfoto_2020-12-14_um_05.20.02.png",
@@ -183,12 +183,6 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "j3UbPt3O",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/1/8/5911064/4920A56B-6376-4742-8810-C69854239337_v0_h.jpg",
-      "titleSource" : "Otto Bari ist tot: Er war ein Vulkan an der Seitenlinie",
-      "titleTarget" : "Otto Bari este mort: era un vulcan pe margine",
-      "url" : "https://www.diepresse.com/5911064/Nachruf_Otto-Baric-ist-tot_Er-war-ein-Vulkan-an-der-Seitenlinie?from=rss"
-    }, {
       "id" : "XaZ2IeX1",
       "titleSource" : "Shiffrin gewinnt zweiten RTL in Courchevel",
       "titleTarget" : "Shiffrin câștigă al doilea RTL la Courchevel",
@@ -200,26 +194,32 @@
       "titleTarget" : "Rapidul a rămas fără suc: „Suntem la limită, de fapt am trecut”",
       "url" : "https://kurier.at/sport/fussball/rapid-geht-der-saft-aus-wir-sind-am-limit-eigentlich-drueber/401128269"
     }, {
-      "id" : "lrp6Ly9P",
-      "titleSource" : "Zwölfjähriger Wels-Spieler gewinnt sensationell CL-Partie",
-      "titleTarget" : "Un jucător de somn de 12 ani câștigă senzațional jocul CL",
-      "url" : "https://sport.orf.at/stories/3070639/"
-    }, {
       "id" : "r1GEXgcO",
       "titleSource" : "Hohe Hürden für WAC und „Bullen“",
       "titleTarget" : "Obstacole mari pentru WAC și „polițiști”",
       "url" : "https://sport.orf.at/stories/3070665/"
-    }, {
-      "id" : "nK1QPavv",
-      "titleSource" : "Erster Sieg im Europacup für Lahnsteiner",
-      "titleTarget" : "Prima victorie în Cupa Europei pentru Lahnsteiner",
-      "url" : "https://sport.orf.at/stories/3070664/"
     }, {
       "id" : "lxUlrz73",
       "imgUrl" : "https://image.kurier.at/images/original/4819785/1.jpg",
       "titleSource" : "David Alaba sorgt für Freude im St. Anna Kinderspital",
       "titleTarget" : "David Alaba aduce bucurie Spitalului de Copii Sf. Ana",
       "url" : "https://kurier.at/sport/fussball/david-alaba-sorgt-fuer-freude-im-st-anna-kinderspital/401128980"
+    }, {
+      "id" : "WRXEj48n",
+      "titleSource" : "Shiffrin feiert emotionalen Comebacksieg",
+      "titleTarget" : "Shiffrin sărbătorește victoria emoțională a revenirii",
+      "url" : "https://sport.orf.at/stories/3070658/"
+    }, {
+      "id" : "Ec3xceWB",
+      "imgUrl" : "https://image.kurier.at/images/original/4819530/46-145624957.jpg",
+      "titleSource" : "Trauer um Trainer-Legende: Ex-Red-Bull-Fußballchef ist tot",
+      "titleTarget" : "Plângând legenda antrenorului: fostul șef de fotbal Red Bull a murit",
+      "url" : "https://kurier.at/sport/fussball/einen-tag-nach-otto-baric-frankreichs-fussball-trauert-auch-um-legende-gerard-houllier/401128782"
+    }, {
+      "id" : "nK1QPavv",
+      "titleSource" : "Erster Sieg im Europacup für Lahnsteiner",
+      "titleTarget" : "Prima victorie în Cupa Europei pentru Lahnsteiner",
+      "url" : "https://sport.orf.at/stories/3070664/"
     } ]
   } ],
   "country" : "austria",
