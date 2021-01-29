@@ -2,225 +2,271 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "tDyPrVUY",
-      "imgUrl" : "https://image.kurier.at/images/original/4886481/20210121-ABD0049-1-1.jpg",
-      "titleSource" : "Kogler: Abschiebung von Schülerinnen \"unmenschlich\"",
-      "titleTarget" : "Kogler: deportarea elevelor „inumane”",
-      "url" : "https://kurier.at/politik/inland/abschiebung-vizekanzler-kogler-spricht-von-verpflichtung-zur-menschlichkeit/401171224"
-    }, {
-      "id" : "wPwvuvGe",
+      "id" : "fmfbLBHo",
       "imgUrl" : "https://image.kurier.at/images/original/1973185/ballhausplatz-000_KURIER_Reinhard%252BVogel.jpg",
       "titleSource" : "Corona: \"Menschenlose Demo\" zu Covid19-Maßnahmen am Ballhausplatz",
       "titleTarget" : "Corona: „Demo fără om” pe măsurile Covid19 la Ballhausplatz",
       "url" : "https://kurier.at/politik/inland/corona-menschenlose-demo-zu-covid19-massnahmen-am-ballhausplatz/401171290"
     }, {
-      "id" : "Rr8Gs7AG",
+      "id" : "bSUHfwEx",
       "imgUrl" : "https://image.kurier.at/images/original/4902841/46-173998643.jpg",
       "titleSource" : "Van der Bellen von Abschiebungen \"zutiefst betroffen\"",
       "titleTarget" : "Van der Bellen „profund afectat” de deportări",
       "url" : "https://kurier.at/politik/inland/van-der-bellen-von-abschiebungen-zutiefst-betroffen/401171560"
     }, {
-      "id" : "3cH3HLyf",
-      "imgUrl" : "https://image.kurier.at/images/original/4901140/46-174102863.jpg",
-      "titleSource" : "Ibiza-Video: Information an Hofburg für Strache \"schier unglaublich\"",
-      "titleTarget" : "Videoclip din Ibiza: Informații către Hofburg pentru Strache „aproape de necrezut”",
-      "url" : "https://kurier.at/politik/inland/ibiza-video-information-an-hofburg-fuer-strache-schier-unglaublich/401170399"
+      "id" : "3VpRGE6Y",
+      "imgUrl" : "https://image.kurier.at/images/original/4879515/20210118-ABD0044-1-1.jpg",
+      "titleSource" : "Abschiebungen: SPÖ fordert Entschuldigung wegen Kritik am Präsidenten",
+      "titleTarget" : "Deportări: SPÖ cere scuze pentru criticarea președintelui",
+      "url" : "https://kurier.at/politik/inland/abschiebungen-spoe-fordert-entschuldigung-wegen-kritik-am-praesidenten/401172094"
     }, {
-      "id" : "3XqAzFkQ",
+      "id" : "KwFQt1xb",
       "imgUrl" : "https://image.kurier.at/images/original/4842735/20201227-ABD0058-1-1.jpg",
       "titleSource" : "Impfung: Neos sehen Verordnung als Freibrief zur Impfung für alle",
       "titleTarget" : "Vaccinarea: Neos vede reglementarea ca o licență de vaccinare pentru toată lumea",
       "url" : "https://kurier.at/politik/inland/impfung-neos-sehen-verordnung-als-freibrief-zur-impfung-fuer-alle/401171401"
     }, {
-      "id" : "UBQlFwG1",
-      "imgUrl" : "https://image.kurier.at/images/original/4901773/20210128-ABD0046-1-1.jpg",
-      "titleSource" : "Einwegpfand: Umweltministerium und Lidl präsentierten Automaten",
-      "titleTarget" : "Depozit unic: Ministerul Mediului și Lidl au prezentat mașini",
-      "url" : "https://kurier.at/politik/inland/einwegpfand-umweltministerium-und-lidl-praesentierten-automaten/401170813"
+      "id" : "1qanuKze",
+      "imgUrl" : "https://image.kurier.at/images/original/4373813/6229810.jpg",
+      "titleSource" : "Abschiebungen: \"Dann ist Nehammer Problem für Koalition\"",
+      "titleTarget" : "Deportări: „Atunci Nehammer este o problemă pentru coaliție”",
+      "url" : "https://kurier.at/politik/inland/abschiebungen-gruene-fordern-haertefallkommissionen-und-kritisieren-oevp/401172496"
     }, {
-      "id" : "j6laQHUF",
-      "imgUrl" : "https://image.kurier.at/images/original/4845576/20201229-ABD0030-1-1.jpg",
-      "titleSource" : "Homeschooling: FPÖ fordert 13. Familienbeihilfe",
-      "titleTarget" : "Educație la domiciliu: FPÖ solicită al 13-lea alocație familială",
-      "url" : "https://kurier.at/politik/inland/live-fpoe-chef-norbert-hofer-ueber-schulsituation/401170600"
+      "id" : "A7J1BMeN",
+      "imgUrl" : "https://image.kurier.at/images/original/4896618/20210125-ABD0158-1-1.jpg",
+      "titleSource" : "Coronavirus: Regierung entscheidet am Montag über Lockdown",
+      "titleTarget" : "Coronavirus: Guvernul va decide luni asupra blocării",
+      "url" : "https://kurier.at/politik/inland/coronavirus-regierung-entscheidet-am-montag-ueber-lockdown/401172568"
+    }, {
+      "id" : "tCYbKc21",
+      "imgUrl" : "https://image.kurier.at/images/original/1877149/grenzkontrolle-000_APA_HERBERT%252BNEUBAUER.jpg",
+      "titleSource" : "Coronavirus: Österreich verschärft kommende Woche Einreiseregeln",
+      "titleTarget" : "Coronavirus: Austria va întări regulile de intrare săptămâna viitoare",
+      "url" : "https://kurier.at/politik/inland/coronavirus-oesterreich-verschaerft-kommende-woche-einreiseregeln/401172529"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "id" : "wxMfi8eG",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/8/e/6/5929190/billa_1611828604747866_v0_h.jpg",
-      "titleSource" : "Merkur heißt künftig Billa Plus",
-      "titleTarget" : "Mercur va fi numit în viitor Billa Plus",
-      "url" : "https://www.diepresse.com/5929190/Supermarkt_Merkur-heisst-kuenftig-Billa-Plus?from=rss"
-    }, {
-      "id" : "GjKoU1CO",
-      "imgUrl" : "https://image.kurier.at/images/original/4899589/20210127-ABD0058-1-1.jpg",
-      "titleSource" : "Blümel erhöht Druck auf EU für höhere Limits bei Wirtschaftshilfen",
-      "titleTarget" : "Blümel crește presiunea asupra UE pentru limite mai mari de ajutor economic",
-      "url" : "https://kurier.at/wirtschaft/bluemel-erhoeht-druck-auf-eu-fuer-hoehere-limits-bei-wirtschaftshilfen/401171077"
-    }, {
-      "id" : "SBObb625",
+      "id" : "cCTVwZ75",
       "imgUrl" : "https://image.kurier.at/images/original/4122864/20200213-ABD0006-1-1.jpg",
       "titleSource" : "Commerzbank streicht 10.000 Jobs und schließt jede zweite Filiale",
       "titleTarget" : "Commerzbank reduce 10.000 de locuri de muncă și închide fiecare a doua sucursală",
       "url" : "https://kurier.at/wirtschaft/commerzbank-streicht-10000-jobs-und-schliesst-jede-zweite-filiale/401171422"
     }, {
-      "id" : "ZgcF2HU2",
-      "imgUrl" : "https://image.kurier.at/images/original/4867155/20210112-ABD0057-1-1.jpg",
-      "titleSource" : "Österreich auch im Corona-Jahr als Standort attraktiv",
-      "titleTarget" : "Austria este, de asemenea, o locație atractivă în anul Corona",
-      "url" : "https://kurier.at/wirtschaft/oesterreich-auch-im-corona-jahr-als-standort-attraktiv/401171011"
+      "id" : "c8lfNMrM",
+      "imgUrl" : "https://image.kurier.at/images/original/4904587/46-175094030.jpg",
+      "titleSource" : "Handel drängt auf Gesamtöffnung ab 8. Februar",
+      "titleTarget" : "Comerțul face presiuni pentru deschiderea totală din 8 februarie",
+      "url" : "https://kurier.at/wirtschaft/handel-draengt-auf-gesamtoeffnung-ab-8-februar/401172493"
     }, {
-      "id" : "tBcI9har",
-      "imgUrl" : "https://image.kurier.at/images/original/4687419/46-166218550.jpg",
-      "titleSource" : "Novomatic-Gründer Graf verschenkt 20 Prozent des Konzerns",
-      "titleTarget" : "Fondatorul Novomatic, Graf, oferă 20% din grup",
-      "url" : "https://kurier.at/wirtschaft/novomatic-gruender-graf-verschenkt-20-prozent-des-konzerns/401170936"
+      "id" : "AvMgdpHr",
+      "imgUrl" : "https://image.kurier.at/images/original/4873167/46-143758781.jpg",
+      "titleSource" : "GameStop-Hype: Verluste von 70 Mrd. für US-Shortseller",
+      "titleTarget" : "GameStop hype: vânzătorii de pantaloni scurți din SUA pierd 70 de miliarde",
+      "url" : "https://kurier.at/wirtschaft/gamestop-hype-verluste-von-70-mrd-fuer-us-shortseller/401171671"
     }, {
-      "id" : "NN2XSSJ6",
-      "imgUrl" : "https://image.kurier.at/images/original/4637093/jan-trionow_drei.jpg",
-      "titleSource" : "Drei-Chef Jan Trionow geht",
-      "titleTarget" : "Șeful Drei Jan Trionow pleacă",
-      "url" : "https://kurier.at/wirtschaft/drei-chef-jan-trionow-geht/401171125"
-    }, {
-      "id" : "w3gn1cQJ",
+      "id" : "XaSrQAqP",
       "imgUrl" : "https://image.kurier.at/images/original/4546229/78370011355705550_BLD_Online.jpg",
       "titleSource" : "Kreditkarten-Riese Visa muss in Corona-Krise Abstriche machen",
       "titleTarget" : "Gigantul cardului de credit Visa trebuie să reducă criza coroanei",
       "url" : "https://kurier.at/wirtschaft/kreditkarten-riese-visa-muss-in-corona-krise-abstriche-machen/401171770"
+    }, {
+      "id" : "udC0T81d",
+      "imgUrl" : "https://image.kurier.at/images/original/4861845/wirecard.jpg",
+      "titleSource" : "Übernahme von Wirecard-Kerngeschäft durch Santander abgeschlossen",
+      "titleTarget" : "Preluarea activității de bază a Wirecard de către Santander a fost finalizată",
+      "url" : "https://kurier.at/wirtschaft/uebernahme-von-wirecard-kerngeschaeft-durch-santander-abgeschlossen/401171602"
+    }, {
+      "id" : "atAvKI5C",
+      "imgUrl" : "https://image.kurier.at/images/original/4472342/78370011355162218_BLD_Online.jpg",
+      "titleSource" : "Deutsches Kartellamt prüft Marktmacht-Missbrauch durch Lufthansa",
+      "titleTarget" : "Oficiul german al cartelului investighează abuzul de putere pe piață de către Lufthansa",
+      "url" : "https://kurier.at/wirtschaft/deutsches-kartellamt-prueft-marktmacht-missbrauch-durch-lufthansa/401171647"
+    }, {
+      "id" : "3a2kmNvC",
+      "imgUrl" : "https://image.kurier.at/images/original/4700673/46-164293732.jpg",
+      "titleSource" : "Gesetzliche Corona-Kreditstundungen laufen am Sonntag aus",
+      "titleTarget" : "Amânările statutare ale împrumuturilor Corona expiră duminică",
+      "url" : "https://kurier.at/wirtschaft/gesetzliche-corona-kreditstundungen-laufen-am-sonntag-aus/401171680"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "kOSUXiBs",
-      "imgUrl" : "https://image.kurier.at/images/original/4900447/46-175069575.jpg",
-      "titleSource" : "7-Tages-Inzidenz: Wirtschaft kritisiert Lockdown-Kennzahl",
-      "titleTarget" : "Incidență de 7 zile: Economia critică metrica de blocare",
-      "url" : "https://kurier.at/chronik/oesterreich/7-tages-inzidenz-wirtschaft-kritisiert-lockdown-kennzahl/401170096"
+      "id" : "Rkgcp5u9",
+      "imgUrl" : "https://image.kurier.at/images/original/4875072/46-174085891.jpg",
+      "titleSource" : "Plagiatsaffäre: Villacher Nationalratsabgeordneter legt Magistertitel zurück",
+      "titleTarget" : "Afacere cu plagiat: Villach, membru al Consiliului Național, demisionează din masterat",
+      "url" : "https://kurier.at/chronik/oesterreich/plagiatsaffaere-villacher-nationalratsabgeordneter-legt-magistertitel-zurueck/401171977"
     }, {
-      "id" : "D1QSiR9l",
-      "imgUrl" : "https://image.kurier.at/images/original/4839801/46-173676087.jpg",
-      "titleSource" : "AGES: Kaum Infektionsrisiko durch Skifahren",
-      "titleTarget" : "VÂRSTE: Risc redus de infecție din schi",
-      "url" : "https://kurier.at/chronik/oesterreich/ages-kaum-infektionsrisiko-durch-skifahren/401171092"
+      "id" : "TNpcsUuy",
+      "imgUrl" : "https://image.kurier.at/images/original/4903507/46-167840271.jpg",
+      "titleSource" : "Kinder- und Jugendpsychiatrie: Experten schlagen Alarm",
+      "titleTarget" : "Psihiatrie pentru copii și adolescenți: experții trag alarma",
+      "url" : "https://kurier.at/chronik/oesterreich/kinder-und-jugendpsychiatrie-experten-schlagen-alarm/401171830"
     }, {
-      "id" : "8Ke0aYPc",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/29/crops/w=1280/827621_opener_288629_weiss.jpg?s=64cf4fbc07b2bd9fba99b66dd363ada6341a7725",
-      "titleSource" : "Wasserstoff-Lkw im Testbetrieb",
-      "titleTarget" : "Camion cu hidrogen în funcțiune de testare",
-      "url" : "https://vorarlberg.orf.at/stories/3087300/"
-    }, {
-      "id" : "ZsAX3LtT",
-      "imgUrl" : "https://oekastatic.orf.at/mims/2021/05/39/crops/w=1280/826790_opener_288339_54708398-8f0f-40c7-ba77-82d7a05aaeff.jpeg?s=349dd454607d4b7835c672764ae1d08c7154a4ea",
-      "titleSource" : "Arbeitspensum für Pädagogen deutlich gestiegen",
-      "titleTarget" : "Volumul de muncă pentru educatori a crescut semnificativ",
-      "url" : "https://noe.orf.at/stories/3087183/"
-    }, {
-      "id" : "bhpJ0O9T",
-      "imgUrl" : "https://image.kurier.at/images/original/4900534/46-175069518.jpg",
-      "titleSource" : "Lipizzaner-Hengstfohlen macht seine ersten Schritte",
-      "titleTarget" : "Mânzul Lipizzaner face primii pași",
-      "url" : "https://kurier.at/chronik/oesterreich/lipizzaner-hengstfohlen-macht-seine-ersten-schritte/401170129"
-    }, {
-      "id" : "rd3nCSZT",
+      "id" : "qNjcfTN9",
       "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.449 Corona-Neuinfektionen in Österreich",
-      "titleTarget" : "1.449 de noi infecții coronare în Austria",
-      "url" : "https://kurier.at/chronik/oesterreich/1449-corona-neuinfektionen-in-oesterreich/401170582"
+      "titleSource" : "1.500 Neuinfektionen in Österreich",
+      "titleTarget" : "1.500 de noi infecții în Austria",
+      "url" : "https://kurier.at/chronik/oesterreich/1500-neuinfektionen-in-oesterreich/401172106"
     }, {
-      "id" : "qGJnBcnD",
-      "titleSource" : "AK: OGH-Urteil für sechste Urlaubswoche",
-      "titleTarget" : "AK: Hotărârea Curții Supreme pentru a șasea săptămână de vacanță",
-      "url" : "https://ooe.orf.at/stories/3087309/"
+      "id" : "PR4iQ6L9",
+      "imgUrl" : "https://image.kurier.at/images/original/4890456/46-174082288.jpg",
+      "titleSource" : "8,1 Prozent von Tirols Jänner-Proben zeigen Verdacht auf Mutation",
+      "titleTarget" : "8,1 la sută din probele tiroleze din ianuarie prezintă mutații suspectate",
+      "url" : "https://kurier.at/chronik/oesterreich/81-prozent-von-tirols-jaenner-proben-zeigen-verdacht-auf-mutation/401171701"
+    }, {
+      "id" : "0OkM1yhA",
+      "imgUrl" : "https://image.kurier.at/images/original/4767000/78350011457564124_BLD_Online.jpg",
+      "titleSource" : "Polizei löst Coronaparty auf Parkplatz in Klagenfurt auf",
+      "titleTarget" : "Poliția dizolvă petrecerea Corona în parcarea Klagenfurt",
+      "url" : "https://kurier.at/chronik/oesterreich/polizei-loest-coronaparty-auf-parkplatz-auf/401171923"
+    }, {
+      "id" : "linewKdc",
+      "imgUrl" : "https://image.kurier.at/images/original/4902640/46-36489454.jpg",
+      "titleSource" : "Der Fall Zogaj: Wo Arigona heute lebt",
+      "titleTarget" : "Cazul Zogaj: Unde trăiește astăzi Arigona",
+      "url" : "https://kurier.at/chronik/oesterreich/der-fall-zogaj-wo-arigona-heute-lebt/401171350"
+    }, {
+      "id" : "oK3N3MII",
+      "imgUrl" : "https://image.kurier.at/images/original/4891746/46-174082321.jpg",
+      "titleSource" : "Corona: Datenleck auf Test-Anmeldeseite in Salzburg",
+      "titleTarget" : "Corona: scurgere de date pe pagina de autentificare a testului din Salzburg",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-datenleck-auf-test-anmeldeseite-in-salzburg/401171512"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "HChiPBUF",
-      "imgUrl" : "https://image.kurier.at/images/original/4901059/46-157185752.jpg",
-      "titleSource" : "ORF-General Wrabetz versucht den Spin-Doctor und scheitert",
-      "titleTarget" : "Generalul ORF Wrabetz îl încearcă pe Spin Doctor și nu reușește",
-      "url" : "https://kurier.at/kultur/medien/orf-general-wrabetz-versucht-den-spin-doctor-und-scheitert/401170351"
-    }, {
-      "id" : "rlNVCZSL",
+      "id" : "4BflUP1W",
       "imgUrl" : "https://image.kurier.at/images/original/3530914/46-146567799.jpg",
       "titleSource" : "Phil Collins und Justin Timberlake feiern runde Geburtstage",
       "titleTarget" : "Phil Collins și Justin Timberlake sărbătoresc zile de naștere speciale",
       "url" : "https://kurier.at/kultur/phil-collins-und-justin-timberlake-feiern-runde-geburtstage/401171158"
     }, {
-      "id" : "aLtYzubC",
+      "id" : "fBuHJGy9",
+      "imgUrl" : "https://image.kurier.at/images/original/4901059/46-157185752.jpg",
+      "titleSource" : "ORF-General Wrabetz versucht den Spin-Doctor und scheitert",
+      "titleTarget" : "Generalul ORF Wrabetz îl încearcă pe Spin Doctor și nu reușește",
+      "url" : "https://kurier.at/kultur/medien/orf-general-wrabetz-versucht-den-spin-doctor-und-scheitert/401170351"
+    }, {
+      "id" : "YIBu8QVY",
+      "imgUrl" : "https://image.kurier.at/images/original/4903654/46-175101724.jpg",
+      "titleSource" : "Rekordpreis für Botticelli-Gemälde bei Online-Auktion",
+      "titleTarget" : "Preț record pentru pictura Botticelli la licitație online",
+      "url" : "https://kurier.at/kultur/rekordpreis-fuer-botticelli-gemaelde-bei-online-auktion/401171914"
+    }, {
+      "id" : "t6zoACJR",
       "imgUrl" : "https://image.kurier.at/images/original/4902208/arabellainterviewneu.jpg",
       "titleSource" : "„Willkommen zuhause“: So lief Arabella Kiesbauers Rückkehr im ORF",
       "titleTarget" : "„Bun venit acasă”: Așa a revenit Arabella Kiesbauer pe ORF",
       "url" : "https://kurier.at/kultur/medien/willkommen-zuhause-im-orf-fuer-starmania-moderatorin-arabella-kiesbauer-im-fruehstuecks-tv/401171035"
     }, {
-      "id" : "2ySEiDQH",
+      "id" : "TWnzOUTU",
       "imgUrl" : "https://image.kurier.at/images/original/4883625/bridgerton_108_unit_00543r.jpg",
       "titleSource" : "\"Bridgerton\" bricht Netflix-Rekord",
       "titleTarget" : "„Bridgerton” bate recordul Netflix",
       "url" : "https://kurier.at/kultur/medien/bridgerton-bricht-netflix-rekord/401170825"
     }, {
-      "id" : "uMElmjVy",
-      "imgUrl" : "https://image.kurier.at/images/original/3372847/GOT_S8.jpg",
-      "titleSource" : "\"Game of Thrones\"-Animationsserie soll in Planung sein",
-      "titleTarget" : "Seria de animație „Game of Thrones” ar trebui să fie planificată",
-      "url" : "https://kurier.at/kultur/medien/game-of-thrones-animationsserie-soll-in-planung-sein/401170927"
+      "id" : "lDwfjo9G",
+      "imgUrl" : "https://image.kurier.at/images/original/4904530/46-112323830.jpg",
+      "titleSource" : "Franz West: Nun erbt die Schwester - zugunsten der Stiftung",
+      "titleTarget" : "Franz West: Acum sora moștenește - în favoarea fundației",
+      "url" : "https://kurier.at/kultur/franz-west-nun-erbt-die-schwester-zugunsten-der-stiftung/401172451"
     }, {
-      "id" : "VwWhEZv5",
-      "imgUrl" : "https://image.kurier.at/images/original/4901281/46-108340901.jpg",
-      "titleSource" : "Start für die KURIER ROMY 2021 mit wichtigen Neuerungen",
-      "titleTarget" : "Începeți pentru KURIER ROMY 2021 cu inovații importante",
-      "url" : "https://kurier.at/kultur/start-fuer-die-kurier-romy-2021-mit-wichtigen-neuerungen/401170471"
-    }, {
-      "id" : "TQ2AnqHZ",
-      "imgUrl" : "https://image.kurier.at/images/original/4901728/46-81872401.jpg",
-      "titleSource" : "Grazer Elevate Festival auf Mai verschoben",
-      "titleTarget" : "Festivalul Graz Elevate a fost amânat pentru luna mai",
-      "url" : "https://kurier.at/kultur/grazer-elevate-festival-auf-mai-verschoben/401170714"
+      "id" : "Kx7Aos6m",
+      "imgUrl" : "https://image.kurier.at/images/original/4896183/46-174282972.jpg",
+      "titleSource" : "Kunst: Diese Ausstellungen gehen in die Verlängerung",
+      "titleTarget" : "Artă: Aceste expoziții sunt extinse",
+      "url" : "https://kurier.at/kultur/diese-ausstellungen-gehen-in-die-verlaengerung/401171389"
     } ]
   }, {
     "category" : "HEALTH",
-    "newsArticles" : [ ]
+    "newsArticles" : [ {
+      "id" : "awGRmwGf",
+      "imgUrl" : "https://image.kurier.at/images/original/4897732/46-174180637.jpg",
+      "titleSource" : "Testpflicht oder FFP2-Maske für alle: AHS-Lehrer notfalls für Ausschluss von Präsenzunterricht",
+      "titleTarget" : "Test obligatoriu sau mască FFP2 pentru toată lumea: profesorii AHS, dacă este necesar, pentru a exclude lecțiile la clasă",
+      "url" : "https://kurier.at/wissen/gesundheit/corona-ahs-lehrer-wollen-testpflicht-fuer-praesenzunterricht/401168560"
+    }, {
+      "id" : "eujYWed3",
+      "imgUrl" : "https://image.kurier.at/images/original/4904494/46-174136481.jpg",
+      "titleSource" : "Bundeskanzler und Berater wollen öffnen, \"was irgendwie geht\"",
+      "titleTarget" : "Cancelarul și consilierul vor să deschidă „orice funcționează”",
+      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-bundeskanzler-und-berater-wollen-oeffnen-was-irgendwie-geht/401172388"
+    }, {
+      "id" : "EMm0lv4i",
+      "imgUrl" : "https://image.kurier.at/images/original/4889328/20210122-ABD0087-1-1.jpg",
+      "titleSource" : "Infektiologe: Auch vierte und fünfte Welle möglich",
+      "titleTarget" : "Infectiolog: Valurile a patra și a cincea sunt, de asemenea, posibile",
+      "url" : "https://kurier.at/wissen/gesundheit/infektiologe-auch-vierte-und-fuenfte-welle-moeglich/401168095"
+    }, {
+      "id" : "aFktlvmT",
+      "imgUrl" : "https://image.kurier.at/images/original/4779591/46-168953464.jpg",
+      "titleSource" : "Corona: Neuer PCR-Test erkennt sofort auch Mutationen",
+      "titleTarget" : "Corona: Noul test PCR recunoaște, de asemenea, mutațiile imediat",
+      "url" : "https://kurier.at/wissen/gesundheit/corona-neuer-pcr-test-erkennt-sofort-auch-mutationen/401168518"
+    }, {
+      "id" : "yUs8IJcX",
+      "imgUrl" : "https://image.kurier.at/images/original/4899841/46-175066003.jpg",
+      "titleSource" : "Heilsam für die Leber: Mariendistel ist Arzneipflanze 2021",
+      "titleTarget" : "Benefic pentru ficat: ciulinul de lapte va fi o plantă medicinală în 2021",
+      "url" : "https://kurier.at/wissen/gesundheit/heilsam-fuer-die-leber-mariendistel-ist-arzneipflanze-2021/401169754"
+    }, {
+      "id" : "hIUWqFHq",
+      "imgUrl" : "https://image.kurier.at/images/original/4903735/46-175060391.jpg",
+      "titleSource" : "Erstmals Infektionen mit zwei Virus-Typen gleichzeitig",
+      "titleTarget" : "Infecții cu două tipuri de virus în același timp pentru prima dată",
+      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-erstmals-infektionen-mit-zwei-virus-typen-gleichzeitig/401172061"
+    }, {
+      "id" : "5scIOk9B",
+      "imgUrl" : "https://image.kurier.at/images/original/4903477/46-175106583.jpg",
+      "titleSource" : "Novavax: Neuer Impfstoff mit guter Wirksamkeit",
+      "titleTarget" : "Novavax: nou vaccin cu o eficacitate bună",
+      "url" : "https://kurier.at/wissen/gesundheit/novavax-neuer-impfstoff-mit-guter-wirksamkeit/401171815"
+    } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "Q4NWx1E0",
-      "imgUrl" : "https://image.kurier.at/images/original/4900942/46-175079362.jpg",
-      "titleSource" : "Lob von der Konkurrenz: \"So spielt Rapid sicher um den Titel mit\"",
-      "titleTarget" : "Laudă din partea competiției: „Acesta este modul în care Rapid va juca cu siguranță pentru titlu”",
-      "url" : "https://kurier.at/sport/fussball/lob-von-der-konkurrenz-nach-dem-21-gegen-den-skn-so-spielt-rapid-sicher-um-den-titel-mit/401170300"
-    }, {
-      "id" : "kcE55cQr",
+      "id" : "qMmaas8h",
       "imgUrl" : "https://image.kurier.at/images/original/4902574/46-175091253.jpg",
       "titleSource" : "Rapid-Erfolgsgarant Kara: \"Ich hab mir das von Zlatan abgeschaut\"",
       "titleTarget" : "Succesul rapid garantează Kara: „Am copiat asta de la Zlatan”",
       "url" : "https://kurier.at/sport/fussball/rapid-erfolgsgarant-ercan-kara-ich-hab-mir-das-von-zlatan-abgeschaut/401171314"
     }, {
-      "id" : "msJD6KxD",
-      "imgUrl" : "https://image.kurier.at/images/original/4901842/campos.png",
-      "titleSource" : "Die Formel 1 trauert um einen ehemaligen Piloten",
-      "titleTarget" : "Formula 1 deplânge pierderea unui fost șofer",
-      "url" : "https://kurier.at/sport/motorsport/die-formel-1-trauert-um-ehemaligen-piloten-adrian-campos/401170771"
+      "id" : "BXQmIW5M",
+      "imgUrl" : "https://image.kurier.at/images/original/4904785/46-169041161.jpg",
+      "titleSource" : "Kühbauer: \"Marco Grüll würde mir bei Rapid extrem taugen\"",
+      "titleTarget" : "Kühbauer: „Marco Grüll mi-ar fi extrem de util la Rapid”",
+      "url" : "https://kurier.at/sport/fussball/kuehbauer-marco-gruell-wuerde-mir-bei-rapid-extrem-taugen/401172574"
     }, {
-      "id" : "u7moGlLI",
-      "titleSource" : "Für Steu/Koller zählt nur eine Medaille",
-      "titleTarget" : "Doar o medalie contează pentru Steu / Koller",
-      "url" : "https://sport.orf.at/stories/3072381/"
+      "id" : "WPgrb1K1",
+      "imgUrl" : "https://image.kurier.at/images/original/4903237/46-175099241.jpg",
+      "titleSource" : "Ermittlungen gegen Ronaldo nach einem Ausflug in die Alpen",
+      "titleTarget" : "Investigații împotriva lui Ronaldo după o călătorie în Alpi",
+      "url" : "https://kurier.at/sport/fussball/ermittlungen-gegen-ronaldo-nach-einem-ausflug-in-die-alpen/401171683"
     }, {
-      "id" : "1Vek7rY3",
-      "titleSource" : "Ehemaliger Formel-1-Pilot Campos 60-jährig gestorben",
-      "titleTarget" : "Fostul pilot de Formula 1 Campos a murit la vârsta de 60 de ani",
-      "url" : "https://sport.orf.at/stories/3072416/"
+      "id" : "bLEtoU9y",
+      "imgUrl" : "https://image.kurier.at/images/original/4904749/46-173971091.jpg",
+      "titleSource" : "Rodeln: WM-Gold und Bronze für Gleirscher-Brüder",
+      "titleTarget" : "Tobogan: Cupa Mondială de aur și bronz pentru frații Gleirscher",
+      "url" : "https://kurier.at/sport/wintersport/rodeln-wm-gold-und-bronze-fuer-gleirscher-brueder/401172571"
     }, {
-      "id" : "drTHM1fE",
-      "titleSource" : "Rapid nach Kara-Traumtor weiter makellos",
-      "titleTarget" : "Rapid după obiectivul visului Kara continuă fără cusur",
-      "url" : "https://sport.orf.at/stories/3072407/"
+      "id" : "Rq9eqfLD",
+      "imgUrl" : "https://image.kurier.at/images/original/3740687/46-125312770.jpg",
+      "titleSource" : "Suljovic: \"Ich hatte Angst, dass ich wieder Dartitis bekomme\"",
+      "titleTarget" : "Suljovic: „Mi-era teamă că voi mai avea dartită din nou”",
+      "url" : "https://kurier.at/sport/darts-profi-mensur-suljovic-ich-hatte-angst-dass-ich-wieder-dartitis-bekomme/401171185"
     }, {
-      "id" : "DIxzTuRa",
-      "titleSource" : "Bericht belastet ehemalige IBU-Spitze",
-      "titleTarget" : "Raportați povara foștilor lideri IBU",
-      "url" : "https://sport.orf.at/stories/3072418/"
+      "id" : "WIuv0MKd",
+      "titleSource" : "Sebastian Vettel zeigte sich im Aston Martin \"oben ohne\"",
+      "titleTarget" : "Sebastian Vettel a fost „topless” în Aston Martin",
+      "url" : "https://kurier.at/sport/motorsport/formel-1-sebastian-vettel-zeigte-sich-im-aston-martin-oben-ohne/401171749"
+    }, {
+      "id" : "dMRZrlfM",
+      "imgUrl" : "https://image.kurier.at/images/original/4902061/46-175079564.jpg",
+      "titleSource" : "Rieds Abschlussschwäche kaschierte Salzburger Abwehrfehler",
+      "titleTarget" : "Slăbiciunea finală a lui Ried a ascuns erorile defensive ale Salzburgului",
+      "url" : "https://kurier.at/sport/fussball/rieds-abschlussschwaeche-kaschierte-salzburger-abwehrfehler/401171005"
     } ]
   } ],
   "country" : "austria",
