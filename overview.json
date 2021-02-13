@@ -2,12 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "BHoNBrbD",
-      "imgUrl" : "https://image.kurier.at/images/original/4933615/46-175559149.jpg",
-      "titleSource" : "„Wie das türkise Kartenhaus zusammenstürzt...“",
-      "titleTarget" : "„Cum se prăbușește casa de cărți turcoaz ...”",
-      "url" : "https://kurier.at/politik/inland/wie-das-tuerkise-kartenhaus-zusammenstuerzt/401186017"
-    }, {
       "id" : "d840G4sk",
       "imgUrl" : "https://image.kurier.at/images/original/4934902/20210212-ABD0082-1-1.jpg",
       "titleSource" : "Eidesstattliche Erklärung Blümels: Keine Spendengelder an ÖVP-nahe Vereine",
@@ -19,6 +13,12 @@
       "titleSource" : "Causa Blümel: Rot, Blau und Pink beantragen Sondersitzung kommende Woche",
       "titleTarget" : "Causa Blümel: Roșu, albastru și roz aplică pentru o sesiune specială săptămâna viitoare",
       "url" : "https://kurier.at/politik/inland/causa-bluemel-rot-blau-und-pink-beantragen-sondersitzung-kommende-woche/401186458"
+    }, {
+      "id" : "KnKs3TR6",
+      "imgUrl" : "https://image.kurier.at/images/original/4935454/46-175679786.jpg",
+      "titleSource" : "Die „Affäre Blümel“ unter  der Lupe",
+      "titleTarget" : "„Afacerea Blümel” la microscop",
+      "url" : "https://kurier.at/politik/inland/die-affaere-bluemel-unter-der-lupe/401187070"
     }, {
       "id" : "BFloYHkW",
       "imgUrl" : "https://image.kurier.at/images/original/4934296/46-175671950.jpg",
@@ -47,23 +47,29 @@
       "titleTarget" : "Centrele de fitness speră să se redeschidă în martie",
       "url" : "https://kurier.at/wirtschaft/fitnesscenter-hoffen-auf-wiedereroeffnung-im-maerz/401186605"
     }, {
-      "id" : "kZDsBHnp",
-      "imgUrl" : "https://image.kurier.at/images/original/4733625/20201101-ABD0091-1-1.jpg",
-      "titleSource" : "Gastronomie und Hotels rechnen nicht mit baldigen Öffnungen",
-      "titleTarget" : "Gastronomia și hotelurile nu se așteaptă la deschideri în curând",
-      "url" : "https://kurier.at/wirtschaft/gastronomie-und-hotels-rechnen-nicht-mit-baldigen-oeffnungen/401186626"
-    }, {
       "id" : "3J5vehRk",
       "imgUrl" : "https://image.kurier.at/images/original/3330703/78350011447415774_BLD_Online.jpg",
       "titleSource" : "US-Waffenhersteller Colt wird tschechisch",
       "titleTarget" : "Producătorul american de arme Colt devine ceh",
       "url" : "https://kurier.at/wirtschaft/us-waffenhersteller-colt-wird-tschechisch/401186260"
     }, {
+      "id" : "kZDsBHnp",
+      "imgUrl" : "https://image.kurier.at/images/original/4733625/20201101-ABD0091-1-1.jpg",
+      "titleSource" : "Gastronomie und Hotels rechnen nicht mit baldigen Öffnungen",
+      "titleTarget" : "Gastronomia și hotelurile nu se așteaptă la deschideri în curând",
+      "url" : "https://kurier.at/wirtschaft/gastronomie-und-hotels-rechnen-nicht-mit-baldigen-oeffnungen/401186626"
+    }, {
       "id" : "3HOY8XSy",
       "imgUrl" : "https://image.kurier.at/images/original/4926046/merkel.jpg",
       "titleSource" : "Deutsche Regierung einigt sich auf Lieferkettengesetz",
       "titleTarget" : "Guvernul german este de acord cu legea lanțului de aprovizionare",
       "url" : "https://kurier.at/wirtschaft/deutsche-regierung-einigt-sich-auf-lieferkettengesetz/401186359"
+    }, {
+      "id" : "dAu5CYl3",
+      "imgUrl" : "https://image.kurier.at/images/original/4934971/46-174088130.jpg",
+      "titleSource" : "Hoteliers wollen im März wieder aufsperren",
+      "titleTarget" : "Hotelierii vor să se redeschidă în martie",
+      "url" : "https://kurier.at/wirtschaft/hoteliers-wollen-im-maerz-wieder-aufsperren/401186779"
     }, {
       "id" : "Fzx92Qyv",
       "imgUrl" : "https://image.kurier.at/images/original/4934884/46-175675153.jpg",
@@ -76,16 +82,16 @@
       "titleSource" : "Coronajahr brachte auch mehr Geschäft für kleinere Supermärkte",
       "titleTarget" : "Anul Corona a adus, de asemenea, mai multe afaceri în supermarketurile mai mici",
       "url" : "https://kurier.at/wirtschaft/coronajahr-brachte-auch-mehr-geschaeft-fuer-kleinere-supermaerkte/401186425"
-    }, {
-      "id" : "ZBwUq1cX",
-      "imgUrl" : "https://image.kurier.at/images/original/901023/disney-locations-real-life-inspirations-301.jpg",
-      "titleSource" : "Disney dank Streaming-Geschäft in den schwarzen Zahlen",
-      "titleTarget" : "Disney în negru datorită activității de streaming",
-      "url" : "https://kurier.at/wirtschaft/disney-dank-streaming-geschaeft-in-den-schwarzen-zahlen/401186851"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
+      "id" : "rBBmvtcc",
+      "imgUrl" : "https://image.kurier.at/images/original/4934194/20210212-ABD0034-1-1.jpg",
+      "titleSource" : "Südafrika-Mutation: Mann aus NÖ dürfte Virus nach Tirol gebracht haben",
+      "titleTarget" : "Mutația din Africa de Sud: căutare confuză de indicii în Tirol, Bavaria și Austria Inferioară",
+      "url" : "https://kurier.at/chronik/oesterreich/suedafrika-mutation-kam-moeglicherweise-aus-noe-nach-tirol/401186782"
+    }, {
       "id" : "FT7BK7up",
       "imgUrl" : "https://image.kurier.at/images/original/4651856/20200922-ABD0027-1-1.jpg",
       "titleSource" : "Ministerin Köstinger in Quarantäne",
@@ -98,6 +104,18 @@
       "titleTarget" : "1.731 de noi infecții în Austria",
       "url" : "https://kurier.at/chronik/oesterreich/aktuelle-corona-zahlen-1731-neuinfektionen-in-oesterreich/401186620"
     }, {
+      "id" : "ZJJFfC3F",
+      "imgUrl" : "https://image.kurier.at/images/original/4935463/46-175510581.jpg",
+      "titleSource" : "Corona: Deutsche Bahn stellt Fernverkehr nach Tirol ein",
+      "titleTarget" : "Corona: Deutsche Bahn oprește traficul pe distanțe lungi către Tirol",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-deutsche-bahn-stellt-fernverkehr-nach-tirol-ein/401186947"
+    }, {
+      "id" : "8vn389DL",
+      "imgUrl" : "https://image.kurier.at/images/original/4935625/46-175672506.jpg",
+      "titleSource" : "Deutsches Einreiseverbot für Tirol: Keine Ausnahmen für Pendler",
+      "titleTarget" : "Interzicerea intrării în Germania pentru Tirol: nu există excepții pentru navetiști",
+      "url" : "https://kurier.at/chronik/oesterreich/deutsches-einreiseverbot-fuer-tirol-keine-ausnahmen-fuer-pendler/401187076"
+    }, {
       "id" : "HAt9VSqm",
       "imgUrl" : "https://image.kurier.at/images/original/4935169/46-175456107.jpg",
       "titleSource" : "Deutsche Bahn stellt Fernverkehr nach Tirol ein; 1.731 Neuinfektionen",
@@ -109,39 +127,21 @@
       "titleSource" : "Maßnahmen zur Südafrika-Mutation: Was die Tiroler jetzt erwartet",
       "titleTarget" : "Măsuri de mutație Africa de Sud: la ce se pot aștepta tirolienii acum",
       "url" : "https://kurier.at/chronik/oesterreich/massnahmen-zur-suedafrika-mutation-was-die-tiroler-jetzt-erwartet/401185468"
-    }, {
-      "id" : "rBBmvtcc",
-      "imgUrl" : "https://image.kurier.at/images/original/4934194/20210212-ABD0034-1-1.jpg",
-      "titleSource" : "Südafrika-Mutation: Verworrene Spurensuche in Tirol, Bayern und NÖ",
-      "titleTarget" : "Mutația din Africa de Sud: căutare confuză de indicii în Tirol, Bavaria și Austria Inferioară",
-      "url" : "https://kurier.at/chronik/oesterreich/suedafrika-mutation-kam-moeglicherweise-aus-noe-nach-tirol/401186782"
-    }, {
-      "id" : "5KtudxE7",
-      "imgUrl" : "https://image.kurier.at/images/original/4933483/46-175653033.jpg",
-      "titleSource" : "Warum es jetzt am schönsten ist, Schloss Schönbrunn zu besuchen",
-      "titleTarget" : "De ce este acum cel mai bine să vizitați Palatul Schönbrunn",
-      "url" : "https://kurier.at/chronik/oesterreich/sisi-allein-zu-haus/401185945"
-    }, {
-      "id" : "ZJJFfC3F",
-      "imgUrl" : "https://image.kurier.at/images/original/4935463/46-175510581.jpg",
-      "titleSource" : "Corona: Deutsche Bahn stellt Fernverkehr nach Tirol ein",
-      "titleTarget" : "Corona: Deutsche Bahn oprește traficul pe distanțe lungi către Tirol",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-deutsche-bahn-stellt-fernverkehr-nach-tirol-ein/401186947"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "id" : "aajU4pyk",
-      "imgUrl" : "https://image.kurier.at/images/original/4933492/46-164601190.jpg",
-      "titleSource" : "Buchkritik: Schauspieler Michael Dangl verzichtet aufs Ich",
-      "titleTarget" : "Recenzie de carte: Actorul Michael Dangl renunță la sine",
-      "url" : "https://kurier.at/kultur/buch/buchkritik-schauspieler-michael-dangl-verzichtet-aufs-ich/401185957"
-    }, {
       "id" : "0LJ8qXLR",
       "imgUrl" : "https://image.kurier.at/images/original/4933489/46-173850872.jpg",
       "titleSource" : "Buchkritik: Emil Bobis Befreiungsschlag \"Abara Da Kabar\"",
       "titleTarget" : "Recenzie de carte: Eliberarea lui Emil Bobi „Abara Da Kabar”",
       "url" : "https://kurier.at/kultur/buch/buchkritik-emil-bobis-befreiungsschlag-abara-da-kabar/401185954"
+    }, {
+      "id" : "aajU4pyk",
+      "imgUrl" : "https://image.kurier.at/images/original/4933492/46-164601190.jpg",
+      "titleSource" : "Buchkritik: Schauspieler Michael Dangl verzichtet aufs Ich",
+      "titleTarget" : "Recenzie de carte: Actorul Michael Dangl renunță la sine",
+      "url" : "https://kurier.at/kultur/buch/buchkritik-schauspieler-michael-dangl-verzichtet-aufs-ich/401185957"
     }, {
       "id" : "KHjkVjvL",
       "imgUrl" : "https://image.kurier.at/images/original/4933627/46-175662429.jpg",
@@ -176,23 +176,17 @@
       "titleTarget" : "Vaccinarea previne probabil transmiterea coroanei",
       "url" : "https://kurier.at/wissen/gesundheit/impfung-kann-weitergabe-von-corona-wahrscheinlich-verhindern/401186242"
     }, {
-      "id" : "7x4MCkCS",
-      "imgUrl" : "https://image.kurier.at/images/original/4838154/46-173721719.jpg",
-      "titleSource" : "Weitergabe des Coronavirus wahrscheinlich durch Impfung verhindert",
-      "titleTarget" : "Transmiterea coronavirusului este probabil prevenită prin vaccinare",
-      "url" : "https://kurier.at/wissen/gesundheit/aktuelle-entwicklungen-zu-den-virus-varianten-in-oesterreich/401186242"
+      "id" : "HyDHCjOw",
+      "imgUrl" : "https://image.kurier.at/images/original/4934275/46-175654137.jpg",
+      "titleSource" : "Zweites Medikament kann Covid-19-Todesfälle reduzieren",
+      "titleTarget" : "Al doilea medicament poate reduce decesele Covid-19",
+      "url" : "https://kurier.at/wissen/gesundheit/auch-arthritis-mittel-kann-covid-19-todesfaelle-reduzieren/401186380"
     }, {
       "id" : "6WMkBqoR",
       "imgUrl" : "https://image.kurier.at/images/original/4934314/46-175539990.jpg",
       "titleSource" : "Beschleunigter Prozess zur Zulassung von Curevac-Impfstoff beginnt",
       "titleTarget" : "Începe procesul de aprobare accelerată pentru vaccinul Curevac",
       "url" : "https://kurier.at/wissen/gesundheit/beschleunigter-prozess-zur-zulassung-von-curevac-impfstoff-beginnt/401186449"
-    }, {
-      "id" : "HyDHCjOw",
-      "imgUrl" : "https://image.kurier.at/images/original/4934275/46-175654137.jpg",
-      "titleSource" : "Zweites Medikament kann Covid-19-Todesfälle reduzieren",
-      "titleTarget" : "Al doilea medicament poate reduce decesele Covid-19",
-      "url" : "https://kurier.at/wissen/gesundheit/auch-arthritis-mittel-kann-covid-19-todesfaelle-reduzieren/401186380"
     }, {
       "id" : "UXY1GcWO",
       "imgUrl" : "https://image.kurier.at/images/original/4933096/46-175652468.jpg",
@@ -209,41 +203,41 @@
       "titleTarget" : "Dominic Thiem îl face din nou interesant împotriva lui Nick Kyrgios",
       "url" : "https://kurier.at/sport/tennis/australian-open-so-steht-es-zwischen-dominic-thiem-und-nick-kyrgios/401186167"
     }, {
+      "id" : "SnMxcU1S",
+      "imgUrl" : "https://image.kurier.at/images/original/4935646/wacker.jpg",
+      "titleSource" : "Sieg für Rapid und Party in Innsbruck zum Liga-Auftakt",
+      "titleTarget" : "Victoria pentru Rapid și Party la Innsbruck la începutul ligii",
+      "url" : "https://kurier.at/sport/fussball/sieg-fuer-rapid-und-party-in-innsbruck-zum-liga-auftakt/401187100"
+    }, {
       "id" : "4OiXv9XR",
       "imgUrl" : "https://image.kurier.at/images/original/4933741/46-175649124.jpg",
       "titleSource" : "Corona-Ausbruch: Australian Open werden ohne Zuschauer fortgesetzt",
       "titleTarget" : "Focar de coroană: Australian Open va continua fără spectatori",
       "url" : "https://kurier.at/sport/tennis/corona-ausbruch-australian-open-werden-ohne-zuschauer-fortgesetzt/401186095"
     }, {
-      "id" : "JMY1iGM5",
-      "imgUrl" : "https://image.kurier.at/images/original/4935472/46-174247964.jpg",
-      "titleSource" : "Handball-Teamspieler Hutecek wechselt zum TBV Lemgo",
-      "titleTarget" : "Jucătorul echipei de handbal Hutecek se mută la TBV Lemgo",
-      "url" : "https://kurier.at/sport/handball-teamspieler-hutecek-wechselt-zum-tbv-lemgo/401186950"
+      "id" : "r4C0pPg9",
+      "imgUrl" : "https://image.kurier.at/images/original/4935685/46-175688630.jpg",
+      "titleSource" : "Leipzig besiegt Augsburg und verliert den Abwehrchef",
+      "titleTarget" : "Leipzig îl învinge pe Augsburg și îl pierde pe șeful apărării",
+      "url" : "https://kurier.at/sport/fussball/leipzig-besiegt-augsburg-und-verliert-den-abwehrchef/401187124"
     }, {
-      "id" : "QYOo9v8x",
-      "imgUrl" : "https://image.kurier.at/images/original/4934680/46-175648277.jpg",
-      "titleSource" : "Janine Flock belegte bei der Skeleton-WM Rang 16",
-      "titleTarget" : "Janine Flock a terminat pe locul 16 la Cupa Mondială Skeleton",
-      "url" : "https://kurier.at/sport/wintersport/janine-flock-belegte-bei-der-skeleton-wm-rang-16/401186635"
+      "id" : "MzoAGAFf",
+      "imgUrl" : "https://image.kurier.at/images/original/4935658/46-175672211.jpg",
+      "titleSource" : "Der VSV startet mit einem Sieg in die Qualifikationsrunde",
+      "titleTarget" : "VSV începe cu o victorie în runda de calificare",
+      "url" : "https://kurier.at/sport/wintersport/eishockey-der-vsv-startet-mit-einem-sieg-in-die-qualifikationsrunde/401187109"
     }, {
-      "id" : "8l5yEf1X",
-      "imgUrl" : "https://image.kurier.at/images/original/4933915/dusche.jpg",
-      "titleSource" : "In der Waschstraße für Menschen bei der Ski-WM",
-      "titleTarget" : "În spălătoria auto pentru oamenii de la Campionatele Mondiale de schi",
-      "url" : "https://kurier.at/sport/wintersport/in-der-waschstrasse-fuer-menschen-bei-der-ski-wm/401185822"
+      "id" : "D1jHYoPP",
+      "imgUrl" : "https://image.kurier.at/images/original/4935610/46-175635891.jpg",
+      "titleSource" : "Der WAC muss gegen Tottenham in Budapest spielen",
+      "titleTarget" : "WAC trebuie să joace împotriva lui Tottenham la Budapesta",
+      "url" : "https://kurier.at/sport/fussball/der-wac-muss-gegen-tottenham-in-budapest-spielen/401187073"
     }, {
-      "id" : "InCFNnZT",
-      "imgUrl" : "https://image.kurier.at/images/original/4934356/46-175649910.jpg",
-      "titleSource" : "Die Stars kritisieren die WM-Abfahrt: \"Das sind brutale Kehren\"",
-      "titleTarget" : "Vedetele critică coborârea la Cupa Mondială: „Sunt viraje brutale”",
-      "url" : "https://kurier.at/sport/wintersport/die-stars-kritisieren-die-wm-abfahrt-das-sind-brutale-kehren/401186512"
-    }, {
-      "id" : "kXEPUbvg",
-      "imgUrl" : "https://image.kurier.at/images/original/4934299/46-175662354.jpg",
-      "titleSource" : "Nach Radunfall: Fernando Alonso erfolgreich operiert",
-      "titleTarget" : "După un accident de bicicletă: Fernando Alonso a operat cu succes",
-      "url" : "https://kurier.at/sport/motorsport/nach-radunfall-fernando-alonso-erfolgreich-operiert/401186467"
+      "id" : "DEdAF7S1",
+      "imgUrl" : "https://image.kurier.at/images/original/4935109/46-113224117.jpg",
+      "titleSource" : "Claudia Lösch ist Koglers starke Frau für den Spitzensport",
+      "titleTarget" : "Claudia Lösch este femeia puternică a lui Kogler pentru sportul de top",
+      "url" : "https://kurier.at/sport/claudia-loesch-ist-koglers-starke-frau-fuer-den-spitzensport/401186809"
     } ]
   } ],
   "country" : "austria",
