@@ -2,18 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "id" : "kY5XSbjB",
-      "imgUrl" : "https://image.kurier.at/images/original/4973218/46-176107507.jpg",
-      "titleSource" : "Fernziel Schanigarten: Nicht vor 27. März",
-      "titleTarget" : "Mai mulți pași de deschidere? Tendință spre relaxare regională",
-      "url" : "https://kurier.at/politik/inland/weitere-oeffnungsschritte-tendenz-in-richtung-regionale-lockerungen/401203510"
-    }, {
-      "id" : "ZQ8jkHl2",
-      "imgUrl" : "https://image.kurier.at/images/original/4970956/46-176022132.jpg",
-      "titleSource" : "Kurz fordert EU-Zulassung von Johnson & Johnson",
-      "titleTarget" : "Kurz solicită aprobarea UE de la Johnson & Johnson",
-      "url" : "https://kurier.at/politik/inland/kurz-fordert-eu-zulassung-von-johnson-johnson/401203216"
-    }, {
       "id" : "rRNgfHq2",
       "imgUrl" : "https://image.kurier.at/images/original/4972561/20210301-ABD0076-1-1.jpg",
       "titleSource" : "Gastronomie enttäuscht über angekündigte Öffnungsschritte",
@@ -32,17 +20,23 @@
       "titleTarget" : "Țările vor să se relaxeze - dar cum?",
       "url" : "https://kurier.at/politik/inland/die-laender-wollen-lockern-aber-wie/401204113"
     }, {
-      "id" : "CLFZCrbk",
-      "imgUrl" : "https://image.kurier.at/images/original/691923/1316006198.jpg",
-      "titleSource" : "Korruptionsbekämpfer des Europarates rügen Österreich",
-      "titleTarget" : "Luptătorii corupției din Consiliul Europei mustră Austria",
-      "url" : "https://kurier.at/politik/inland/korruptionsbekaempfer-des-europarates-ruegen-oesterreich/401203312"
+      "id" : "TvOjr0eT",
+      "imgUrl" : "https://image.kurier.at/images/original/4973410/46-146478828.jpg",
+      "titleSource" : "ÖH-Wahl: Wie tief wird die Wahlbeteiligung sinken?",
+      "titleTarget" : "Alegerile ÖH: cât de redusă va scădea prezența la vot?",
+      "url" : "https://kurier.at/politik/inland/oeh-wahl-wie-tief-wird-die-wahlbeteiligung-sinken/401204626"
     }, {
       "id" : "Md2t7KeW",
       "imgUrl" : "https://image.kurier.at/images/original/3732293/78370011350243232_BLD_Online.jpg",
       "titleSource" : "GPA forderte bei Aktion vor Kanzleramt Millionärssteuer",
       "titleTarget" : "GPA a cerut impozite milionare în acțiune în fața Cancelariei",
       "url" : "https://kurier.at/politik/inland/gpa-forderte-bei-aktion-vor-kanzleramt-millionaerssteuer/401203654"
+    }, {
+      "id" : "nLWcms02",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "Welche Regeln aktuell gelten",
+      "titleTarget" : "Ce reguli se aplică în prezent",
+      "url" : "https://kurier.at/politik/inland/diese-regeln-gelten-seit-8-februar/401083170"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -59,44 +53,44 @@
       "titleTarget" : "Austriecii sunt din ce în ce mai preocupați de consecințele economice ale coroanei",
       "url" : "https://kurier.at/wirtschaft/oesterreicher-sorgen-sich-zunehmend-um-corona-wirtschaftsfolgen/401204005"
     }, {
-      "id" : "Ih1yrSmq",
-      "imgUrl" : "https://image.kurier.at/images/original/4945018/20210217-ABD0070-1-1.jpg",
-      "titleSource" : "Nach wie vor über eine halbe Million Arbeitslose",
-      "titleTarget" : "Încă peste jumătate de milion de șomeri",
-      "url" : "https://kurier.at/wirtschaft/nach-wie-vor-ueber-eine-halbe-million-arbeitslose/401203468"
-    }, {
       "id" : "LnJN4yGd",
       "imgUrl" : "https://image.kurier.at/images/original/4516913/20200713-ABD0052-1-1.jpg",
       "titleSource" : "Sechs von zehn Österreichern wollen arbeitsfreien Sonntag behalten",
       "titleTarget" : "Șase din zece austrieci vor să-și păstreze duminica de la muncă",
       "url" : "https://kurier.at/wirtschaft/allianz-fuer-freien-sonntag-gerade-jetzt-umso-wichtiger/401203840"
     }, {
-      "id" : "KC1p0dMD",
-      "imgUrl" : "https://image.kurier.at/images/original/2407759/46-105917105.jpg",
-      "titleSource" : "Lobautunnel: Gegner halten zu Verhandlungsbeginn Demo vor BVwG ab",
-      "titleTarget" : "Tunelul Lobau: Oponenții organizează o demonstrație în fața BVwG la începutul negocierilor",
-      "url" : "https://kurier.at/wirtschaft/lobautunnel-gegner-halten-zu-verhandlungsbeginn-demo-vor-bvwg-ab/401203273"
-    }, {
-      "id" : "4tlTl7Jy",
-      "imgUrl" : "https://image.kurier.at/images/original/4655165/schokolade_image_bild_istock-965487714_bnw_wmaster890.jpg",
-      "titleSource" : "Schweizer Schokoladekonsum bricht auf 40-Jahres-Tief ein",
-      "titleTarget" : "Consumul de ciocolată elvețiană scade la un nivel minim de 40 de ani",
-      "url" : "https://kurier.at/wirtschaft/schweizer-schokoladekonsum-bricht-auf-40-jahres-tief-ein/401203414"
+      "id" : "lf2sar5A",
+      "imgUrl" : "https://image.kurier.at/images/original/4950286/46-175635012.jpg",
+      "titleSource" : "Taxifahren ohne Taxameter: Free Now und Holmi bauen Angebot aus",
+      "titleTarget" : "Conducerea unui taxi fără taximetru: Free Now și Holmi își extind gama",
+      "url" : "https://kurier.at/wirtschaft/taxifahren-ohne-taxameter-free-now-und-holmi-bauen-angebot-aus/401203894"
     }, {
       "id" : "CvrvYMKQ",
       "imgUrl" : "https://image.kurier.at/images/original/4900030/46-174283535.jpg",
       "titleSource" : "Wirte hoffen weiter auf Lockerungen im März",
       "titleTarget" : "Gazdele continuă să spere că se vor relaxa în martie",
       "url" : "https://kurier.at/wirtschaft/wirte-hoffen-weiter-auf-lockerungen-im-maerz/401203759"
+    }, {
+      "id" : "cGtj1To0",
+      "imgUrl" : "https://image.kurier.at/images/original/331386/geld_euro_rendite_zinsen-000_FROG%252B974%252B-%252BFOTOLIA%252B34870028_Frog%252B974_Fotolia.jpg",
+      "titleSource" : "Corona-Lockerungen ab 8. Februar belebten Wirtschaft merklich",
+      "titleTarget" : "Reducerea Coroanei din 8 februarie a reînviat în mod vizibil economia",
+      "url" : "https://kurier.at/wirtschaft/corona-lockerungen-ab-8-februar-belebten-wirtschaft-merklich/401204251"
+    }, {
+      "id" : "be5izcBR",
+      "imgUrl" : "https://image.kurier.at/images/original/3531022/78370011348845062_BLD_Online.jpg",
+      "titleSource" : "Infineon ersetzt Nokia im Eurostoxx 50",
+      "titleTarget" : "Infineon înlocuiește Nokia în Eurostoxx 50",
+      "url" : "https://kurier.at/wirtschaft/infineon-ersetzt-nokia-im-eurostoxx-50/401204638"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "id" : "gxACwAe0",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "titleSource" : "1.409 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "1.409 noi infecții coronare în Austria",
-      "url" : "https://kurier.at/chronik/oesterreich/1409-neue-corona-infektionen-in-oesterreich/401203294"
+      "id" : "mAfgc93H",
+      "imgUrl" : "https://image.kurier.at/images/original/4962679/46-175957158.jpg",
+      "titleSource" : "Weniger als ein Drittel der über 85-Jährigen geimpft",
+      "titleTarget" : "Vaccinat mai puțin de o treime din persoanele cu vârsta peste 85 de ani",
+      "url" : "https://kurier.at/chronik/oesterreich/weniger-als-ein-drittel-der-ueber-85-jaehrigen-geimpft/401204080"
     }, {
       "id" : "ZA73Kgzi",
       "imgUrl" : "https://image.kurier.at/images/original/4971616/46-176014623.jpg",
@@ -104,35 +98,35 @@
       "titleTarget" : "Un mare interes pentru auto-teste în farmacii",
       "url" : "https://kurier.at/chronik/oesterreich/grosses-interesse-an-selbsttests-in-den-apotheken/401203747"
     }, {
-      "id" : "LQsrY0es",
-      "imgUrl" : "https://image.kurier.at/images/original/4972747/46-176021016.jpg",
-      "titleSource" : "Weniger als ein Drittel der über 85-Jährigen geimpft ",
-      "titleTarget" : "Mai puțin de o treime din cei peste 85 de ani au vaccinat + 1.409 de infecții noi în Austria",
-      "url" : "https://kurier.at/chronik/oesterreich/wo-heute-doch-lockerungen-kommen-koennten-kurz-fordert-eu-zulassung-fuer-j-j/401203222"
+      "id" : "GkJwmH7s",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "titleSource" : "1.920 Corona-Neuinfektionen in Österreich",
+      "titleTarget" : "1.920 de noi infecții coronare în Austria",
+      "url" : "https://kurier.at/chronik/oesterreich/1920-corona-neuinfektionen-in-oesterreich/401204614"
     }, {
-      "id" : "mAfgc93H",
-      "imgUrl" : "https://image.kurier.at/images/original/4962679/46-175957158.jpg",
-      "titleSource" : "Weniger als ein Drittel der über 85-Jährigen geimpft",
-      "titleTarget" : "Vaccinat mai puțin de o treime din persoanele cu vârsta peste 85 de ani",
-      "url" : "https://kurier.at/chronik/oesterreich/weniger-als-ein-drittel-der-ueber-85-jaehrigen-geimpft/401204080"
+      "id" : "KZm1rNIc",
+      "imgUrl" : "https://image.kurier.at/images/original/4973422/46-175535219.jpg",
+      "titleSource" : "1.920 Neuinfektionen in Ö + Deutsche Kritik: Österreich lockert in nächste Welle hinein",
+      "titleTarget" : "1.920 de noi infecții în Austria + critici germane: Austria se relaxează în următorul val",
+      "url" : "https://kurier.at/chronik/oesterreich/who-kein-ende-der-pandemie-vor-2022-steiermark-eroeffnet-impfstrassen/401204578"
     }, {
-      "id" : "XWkwbxmv",
-      "imgUrl" : "https://image.kurier.at/images/original/4971460/46-176096647.jpg",
-      "titleSource" : "Kommen weitere Öffnungsschritte? Tendenz in Richtung regionale Lockerungen",
-      "titleTarget" : "Mai sunt pași de deschidere? Tendință spre relaxare regională",
-      "url" : "https://kurier.at/chronik/oesterreich/wo-heute-doch-lockerungen-kommen-koennten/401203213"
+      "id" : "ZXMGJdKN",
+      "imgUrl" : "https://image.kurier.at/images/original/4190177/46-163205685.jpg",
+      "titleSource" : "\"Hochriskant\": Scharfe Kritik an Öffnungen",
+      "titleTarget" : "„Risc ridicat”: critică ascuțită a deschiderilor",
+      "url" : "https://kurier.at/chronik/oesterreich/experte-oesterreich-lockert-in-die-naechste-welle-hinein/401204632"
     }, {
-      "id" : "CD24PnMy",
-      "imgUrl" : "https://image.kurier.at/images/original/4963999/46-175990430.jpg",
-      "titleSource" : "Mehrheit ließe sich für Lokalbesuch testen",
-      "titleTarget" : "Majoritatea ar putea fi testată pentru o vizită locală",
-      "url" : "https://kurier.at/chronik/oesterreich/mehrheit-liesse-sich-fuer-lokalbesuch-testen/401203246"
+      "id" : "lYEXWhWe",
+      "imgUrl" : "https://image.kurier.at/images/original/4068492/46-143628968.jpg",
+      "titleSource" : "Seniorin war zehn Kilometer als Geisterfahrerin unterwegs",
+      "titleTarget" : "Femeia în vârstă se afla la zece kilometri distanță ca șofer fantomă",
+      "url" : "https://kurier.at/chronik/oesterreich/seniorin-war-zehn-kilometer-als-geisterfahrerin-unterwegs/401204503"
     }, {
-      "id" : "g3TdVqA5",
-      "imgUrl" : "https://image.kurier.at/images/original/4969783/20210228-ABD0026-1-1.jpg",
-      "titleSource" : "Kärnten wählt: Alte Bekannte werden zu neuen Konkurrenten",
-      "titleTarget" : "Carintia alege: cunoștințele vechi devin noi concurenți",
-      "url" : "https://kurier.at/chronik/oesterreich/kaernten-waehlt-alte-bekannte-werden-zu-neuen-konkurrenten/401203240"
+      "id" : "ioXJ6n1M",
+      "imgUrl" : "https://image.kurier.at/images/original/4973308/46-175896298.jpg",
+      "titleSource" : "Steiermark eröffnet Impfstraßen",
+      "titleTarget" : "Stiria deschide căi de vaccinare",
+      "url" : "https://kurier.at/chronik/oesterreich/steiermark-eroeffnet-impfstrassen/401204575"
     } ]
   }, {
     "category" : "CULTURE",
@@ -149,11 +143,23 @@
       "titleTarget" : "Globurile de Aur: Netflix a câștigat mare",
       "url" : "https://kurier.at/kultur/medien/golden-globes-netflix-raeumte-mit-the-crown-und-damengambit-gross-ab/401203630"
     }, {
-      "id" : "2mOtHYaP",
-      "imgUrl" : "https://image.kurier.at/images/original/4967824/skyrojo_s01_tamaraarranz.jpg",
-      "titleSource" : "5 Serien, auf die wir uns im März bei Netflix & Co freuen",
-      "titleTarget" : "Seria 5 pe care o așteptăm cu nerăbdare în martie pe Netflix & Co.",
-      "url" : "https://kurier.at/kultur/medien/5-serien-auf-die-wir-uns-im-maerz-bei-netflix-co-freuen/401200318"
+      "id" : "PSsH5LHi",
+      "imgUrl" : "https://image.kurier.at/images/original/4973458/46-100464472.jpg",
+      "titleSource" : "Wiener Rockband Alkbottle löst sich nach mehr als 30 Jahren auf",
+      "titleTarget" : "Trupa rock vieneză Alkbottle s-a desființat după mai bine de 30 de ani",
+      "url" : "https://kurier.at/kultur/wiener-rockband-alkbottle-loest-sich-nach-mehr-als-30-jahren-auf/401204671"
+    }, {
+      "id" : "Sgh9dvEW",
+      "imgUrl" : "https://image.kurier.at/images/original/4973473/46-167519953.jpg",
+      "titleSource" : "Raimundspiele Gutenstein: Johannes Krisch übernimmt die Leitung",
+      "titleTarget" : "Raimundspiele Gutenstein: Johannes Krisch preia conducerea",
+      "url" : "https://kurier.at/kultur/raimundspiele-gutenstein-johannes-krisch-uebernimmt-die-leitung/401204683"
+    }, {
+      "id" : "oxThpKZj",
+      "imgUrl" : "https://image.kurier.at/images/original/4973446/46-173827985.jpg",
+      "titleSource" : "Popstar Taylor Swift wirft Netflix-Serie Sexismus vor",
+      "titleTarget" : "Starul pop Taylor Swift acuză seria Netflix de sexism",
+      "url" : "https://kurier.at/kultur/medien/popstar-taylor-swift-wirft-netflix-serie-sexismus-vor/401204662"
     }, {
       "id" : "NqWzZUqK",
       "imgUrl" : "https://image.kurier.at/images/original/4972801/46-176097397.jpg",
@@ -166,27 +172,27 @@
       "titleSource" : "\"Wurst\"-Gag und Fonda-Kritik: Golden Globes im Zeichen der Diversität",
       "titleTarget" : "Gagul „Wurst” și critica Fonda: Globurile de Aur sub semnul diversității",
       "url" : "https://kurier.at/kultur/wurst-gag-und-fonda-kritik-78-golden-globes-im-zeichen-der-diversitaet/401203990"
-    }, {
-      "id" : "mzC4ApTt",
-      "imgUrl" : "https://image.kurier.at/images/original/4971190/46-176044642.jpg",
-      "titleSource" : "Filmkritik zu \"Kajillionaire\": Die schlechtesten Eltern der Welt",
-      "titleTarget" : "Recenzie de film pentru \"Kajillionaire\": Cei mai răi părinți din lume",
-      "url" : "https://kurier.at/kultur/filmkritik-zu-kajillionaire-die-schlechtesten-eltern-der-welt/401203432"
-    }, {
-      "id" : "ap1OeELL",
-      "imgUrl" : "https://image.kurier.at/images/original/4967164/46-176040633.jpg",
-      "titleSource" : "Schlafende Riesen als Symbol des Stillstands",
-      "titleTarget" : "Giganții adormiți ca simbol al opririi",
-      "url" : "https://kurier.at/kultur/schlafende-riesen-als-symbol-des-stillstands/401201656"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "id" : "j8BBRicJ",
-      "imgUrl" : "https://image.kurier.at/images/original/4971358/46-175883374.jpg",
-      "titleSource" : "Impfung: Astra Zeneca-Vakzin vorerst weiter nur für unter 65-Jährige",
-      "titleTarget" : "Vaccinarea: Deocamdată, vaccinul Astra Zeneca va fi disponibil numai pentru persoanele cu vârsta sub 65 de ani",
-      "url" : "https://kurier.at/wissen/gesundheit/impfung-astra-zeneca-vakzin-vorerst-weiter-nur-fuer-unter-65-jaehrige/401203528"
+      "id" : "D2q2VcPC",
+      "imgUrl" : "https://image.kurier.at/images/original/4973455/46-176098053.jpg",
+      "titleSource" : "Sputnik V reicht nicht für Russlands Eigenbedarf",
+      "titleTarget" : "Sputnik V nu este suficient pentru utilizarea Rusiei",
+      "url" : "https://kurier.at/wissen/gesundheit/sputnik-v-reicht-nicht-fuer-russlands-eigenbedarf/401204677"
+    }, {
+      "id" : "b0OAQ2ED",
+      "imgUrl" : "https://image.kurier.at/images/original/4973545/46-175975443.jpg",
+      "titleSource" : "Britische Preprint-Studie stellt Astra Zeneca und Biontech gutes Zeugnis aus",
+      "titleTarget" : "Studiul de preimprimare britanic acordă Astra Zeneca și Biontech note bune",
+      "url" : "https://kurier.at/wissen/gesundheit/britische-preprint-studie-stellt-astra-zeneca-und-biontech-gutes-zeugnis-aus/401204737"
+    }, {
+      "id" : "KTde7jQM",
+      "imgUrl" : "https://image.kurier.at/images/original/4973524/46-51610347.jpg",
+      "titleSource" : "Zuhören! Schwerhörigkeit ist vermeidbar",
+      "titleTarget" : "A asculta! Surditatea poate fi prevenită",
+      "url" : "https://kurier.at/wissen/gesundheit/zuhoeren-schwerhoerigkeit-ist-vermeidbar/401204728"
     }, {
       "id" : "aoR10uVD",
       "imgUrl" : "https://image.kurier.at/images/original/4971583/46-88637874.jpg",
@@ -194,44 +200,26 @@
       "titleTarget" : "Neurodermatită: Peptidele antimicrobiene ar trebui să îmbunătățească terapia",
       "url" : "https://kurier.at/wissen/gesundheit/neurodermitis-antimikrobielle-peptide-sollen-therapie-verbessern/401203708"
     }, {
-      "id" : "YtL0Y61h",
-      "imgUrl" : "https://image.kurier.at/images/original/4941466/46-175738856.jpg",
-      "titleSource" : "Impfung: EU soll Astra-Zeneca-Produktion in Indien überprüfen",
-      "titleTarget" : "Vaccinarea: UE va revizui producția Astra Zeneca din India",
-      "url" : "https://kurier.at/wissen/gesundheit/impfung-eu-soll-astra-zeneca-produktion-in-indien-ueberpruefen/401203552"
+      "id" : "aJJb90rN",
+      "imgUrl" : "https://image.kurier.at/images/original/3649169/46-147712103.jpg",
+      "titleSource" : "Gut jeder sechste Jugendliche hat in der Pandemie Suizid-Gedanken",
+      "titleTarget" : "Un tânăr bun din fiecare șase are gânduri de sinucidere în pandemie",
+      "url" : "https://kurier.at/wissen/gesundheit/gut-jeder-sechste-jugendliche-hat-in-der-pandemie-selbstmord-gedanken/401204896"
     }, {
-      "id" : "DIUwz77w",
-      "imgUrl" : "https://image.kurier.at/images/original/4971325/46-151199566.jpg",
-      "titleSource" : "Corona: Warum Fettleibigkeit oder Diabetes zu schwerem Verlauf führen könnten",
-      "titleTarget" : "Corona: De ce obezitatea sau diabetul ar putea duce la un curs sever",
-      "url" : "https://kurier.at/wissen/gesundheit/corona-warum-fettleibigkeit-oder-diabetes-zu-schwerem-verlauf-fuehren-koennten/401203501"
+      "id" : "41idCRvB",
+      "imgUrl" : "https://image.kurier.at/images/original/4754241/78350011457458328_BLD_Online.jpg",
+      "titleSource" : "Warum Joe Biden zwei Masken trägt",
+      "titleTarget" : "De ce Joe Biden poartă două măști",
+      "url" : "https://kurier.at/wissen/gesundheit/warum-joe-biden-zwei-masken-traegt/401204947"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "id" : "hrHNJYjo",
-      "imgUrl" : "https://image.kurier.at/images/original/4972840/46-176099233.jpg",
-      "titleSource" : "Zlatko Kranjčar: Abschied vom grün-weißen Legionär Nummer 1",
-      "titleTarget" : "Zlatko Kranjčar: Adio legionarului verde și alb numărul 1",
-      "url" : "https://kurier.at/sport/fussball/rapid-legende-zlatko-kranjcar-mit-65-jahren-gestorben/401203615"
-    }, {
       "id" : "WMiYbKpL",
       "imgUrl" : "https://image.kurier.at/images/original/4972537/46-176102265.jpg",
       "titleSource" : "Julia Dujmovits holt Bronze bei der Snowoard-Parallel-WM",
       "titleTarget" : "Julia Dujmovits ia bronz la Campionatele Mondiale Snowoard Paralel",
       "url" : "https://kurier.at/sport/wintersport/julia-dujmovits-holt-vor-claudia-riegler-bronze-bei-der-snowoard-parallel-wm/401204119"
-    }, {
-      "id" : "3FvSotNC",
-      "imgUrl" : "https://image.kurier.at/images/original/4971223/46-175933383.jpg",
-      "titleSource" : "310 Wochen Nummer eins: Djokovic stellt den Federer-Rekord ein",
-      "titleTarget" : "310 săptămâni numărul unu: Djokovic stabilește recordul lui Federer",
-      "url" : "https://kurier.at/sport/tennis/310-wochen-nummer-eins-tennis-star-djokovic-stellte-den-federer-rekord-ein/401203438"
-    }, {
-      "id" : "Viz24Mu5",
-      "imgUrl" : "https://image.kurier.at/images/original/4971097/46-175987693.jpg",
-      "titleSource" : "Woods nach Horror-Unfall: \"Ihr helft mir durch diese schwere Zeit\"",
-      "titleTarget" : "Woods după un accident de groază: „Mă ajuți în acest moment dificil”",
-      "url" : "https://kurier.at/sport/golf-star-tiger-woods-nach-horror-unfall-ihr-helft-mir-durch-diese-schwere-zeit/401203324"
     }, {
       "id" : "fXXC27qL",
       "imgUrl" : "https://image.kurier.at/images/original/1418226/46-79604701.jpg",
@@ -239,17 +227,35 @@
       "titleTarget" : "Copiii și tinerii vor putea să facă din nou sport din 15 martie",
       "url" : "https://kurier.at/sport/kinder-und-jugendliche-duerfen-ab-15-maerz-wieder-sport-treiben/401204455"
     }, {
-      "id" : "hvMSO0r2",
-      "imgUrl" : "https://image.kurier.at/images/original/4972846/46-173724689.jpg",
-      "titleSource" : "Ex-Rapid Coach Büskens als vorläufiger Schalke-Rettungsanker",
-      "titleTarget" : "Fostul antrenor rapid Büskens ca linie de salvare temporară Schalke",
-      "url" : "https://kurier.at/sport/fussball/deutsche-bundesliga-ex-rapid-coach-bueskens-als-vorlaeufiger-schalke-rettungsanker/401204308"
+      "id" : "GvCEQzZd",
+      "imgUrl" : "https://image.kurier.at/images/original/4972543/46-176061410.jpg",
+      "titleSource" : "ÖSV-Ass Stadlober als Einzelkämpferin für den Langlaufsport",
+      "titleTarget" : "ÖSV-Ass Stadlober ca luptător singuratic pentru schi fond",
+      "url" : "https://kurier.at/sport/wintersport/oesv-ass-theresa-stadlober-die-einzelkaempferin-fuer-den-langlaufsport/401204152"
     }, {
-      "id" : "1DSYD5pf",
-      "imgUrl" : "https://image.kurier.at/images/original/4972774/46-148182746.jpg",
-      "titleSource" : "Fußball-Splitter: Salzburg verleiht Diarra nach New York",
-      "titleTarget" : "Așchii de fotbal: Salzburg îl împrumută pe Diarra la New York",
-      "url" : "https://kurier.at/sport/fussball/fussball-splitter-salzburg-verleiht-diarra-nach-new-york/401040881"
+      "id" : "eMkfKRWI",
+      "imgUrl" : "https://image.kurier.at/images/original/4973533/46-144910489.jpg",
+      "titleSource" : "Federer verzichtet auch auf ATP-Turnier in Miami",
+      "titleTarget" : "De asemenea, Federer renunță la turneul ATP de la Miami",
+      "url" : "https://kurier.at/sport/tennis/tennis-roger-federer-verzichtet-auch-auf-atp-turnier-in-miami/401204731"
+    }, {
+      "id" : "6mFZadRy",
+      "imgUrl" : "https://image.kurier.at/images/original/4973557/46-151454795.jpg",
+      "titleSource" : "Johnson will Fußball-WM 2030 nach Großbritannien holen",
+      "titleTarget" : "Johnson vrea să aducă Cupa Mondială în Marea Britanie în 2030",
+      "url" : "https://kurier.at/sport/fussball/johnson-will-fussball-wm-2030-nach-grossbritannien-holen/401204743"
+    }, {
+      "id" : "moRIiVus",
+      "imgUrl" : "https://image.kurier.at/images/original/4973416/46-176111937.jpg",
+      "titleSource" : "Pöltl erreicht bei Spurs-Niederlage persönlichen Meilenstein",
+      "titleTarget" : "Pöltl atinge un reper personal după înfrângerea lui Spurs",
+      "url" : "https://kurier.at/sport/nba-jakob-poeltl-erreicht-bei-spurs-niederlage-persoenlichen-meilenstein/401204623"
+    }, {
+      "id" : "qKR4sQLm",
+      "imgUrl" : "https://image.kurier.at/images/original/4972822/46-176082473.jpg",
+      "titleSource" : "Zwei aus vier: Wer im Punkte-Kampf um die Top 6 im Vorteil ist",
+      "titleTarget" : "Două din patru: Oricine are avantajul în luptă pentru puncte pentru primii 6",
+      "url" : "https://kurier.at/sport/fussball/zwei-aus-vier-wer-im-punkte-kampf-um-die-top-6-in-der-bundesliga-im-vorteil-ist/401204338"
     } ]
   } ],
   "country" : "austria",
