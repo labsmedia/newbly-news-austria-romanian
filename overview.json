@@ -2,136 +2,148 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 3184,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 408,
-      "id" : "Quv6WG5q",
+      "articleLength" : 1859,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 257,
+      "id" : "FG9rP52z",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/0/2/5946626/pen_1614934041480121_v0_h.jpg",
       "publisher" : "www.diepresse.com",
-      "titleSource" : "Neos \"schockiert\" über Pläne für leichter zu verhängende Ausgangsbeschränkungen",
-      "titleTarget" : "Neos „șocat” de planurile de restricții mai ușoare de ieșire",
-      "url" : "https://www.diepresse.com/5946116/Covid-19Massnahmengesetz_Neos-schockiert-ueber-Plaene-fuer?from=rss"
+      "titleSource" : "Run auf Hacklerregelung",
+      "titleTarget" : "Executați regulamentul hackerilor",
+      "url" : "https://www.diepresse.com/5946626/Run-auf-Hacklerregelung?from=rss"
     }, {
-      "articleLength" : 3655,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 492,
-      "id" : "YFqKaYea",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/f/d/5946109/IBIZA-U-AUSSCHUSS-SPIEGELFELD_1614850427520866_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Unternehmerin Spiegelfeld:  \"Das Spenden war völlig nebensächlich\"",
-      "titleTarget" : "Antreprenorul Spiegelfeld: „Donația a fost complet irelevantă”",
-      "url" : "https://www.diepresse.com/5946109/UAusschuss_Unternehmerin-Spiegelfeld_Das-Spenden-war-voellig?from=rss"
-    }, {
-      "articleLength" : 1849,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 259,
-      "id" : "fcCcRk1N",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "FPÖ Burgenland schließt früheren Klubchef Molnar aus",
-      "titleTarget" : "FPÖ Burgenland îl exclude pe fostul șef al clubului Molnar",
-      "url" : "https://www.diepresse.com/5946144/Landespartei_FPOe-Burgenland-schliesst-frueheren-Klubchef-Molnar-aus?from=rss"
-    }, {
-      "articleLength" : 3606,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 495,
-      "id" : "LXgIKVp3",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/7/f/5945983/EU-leaders-summit-in-Brussels_1614849475906413_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Kurz und Frederiksen in Israel: Neue Impfstoff-Wege ohne EU",
-      "titleTarget" : "Kurz și Frederiksen în Israel: noi căi de vaccinare fără UE",
-      "url" : "https://www.diepresse.com/5945983/Covid19_Kurz-und-Frederiksen-in-Israel_Neue-ImpfstoffWege-ohne-EU?from=rss"
-    }, {
-      "articleLength" : 1443,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 192,
-      "id" : "ltVptFvV",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/a/7/5946023/BD73E8C3-7F25-46DA-B3FC-918CF11F2040_v0_l.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Klagenfurts ÖVP-Chef nach Niederlage zurückgetreten",
-      "titleTarget" : "Șeful ÖVP al lui Klagenfurt și-a dat demisia după înfrângere",
-      "url" : "https://www.diepresse.com/5946023/KaerntenWahl_Klagenfurts-OeVPChef-nach-Niederlage-zurueckgetreten?from=rss"
-    }, {
-      "articleLength" : 3178,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 442,
-      "id" : "Qaq0HKF6",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/9/2/5946002/E972F382-0EEC-45B1-B89C-35C9B2C18444_v0_l.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Bürgermeisterinnen sind in Österreich immer noch die Ausnahme",
-      "titleTarget" : "Primarii sunt încă excepția în Austria",
-      "url" : "https://www.diepresse.com/5946002/In-Maennerhand_Buergermeisterinnen-sind-in-Oesterreich-immer-noch?from=rss"
-    }, {
-      "articleLength" : 1652,
+      "articleLength" : 1405,
       "articlePartsSize" : 7,
-      "articleWordCount" : 210,
-      "id" : "W6Zm0prd",
-      "imgUrl" : "https://image.kurier.at/images/original/4714365/81731350857099944_BLD_Online.jpg",
+      "articleWordCount" : 195,
+      "id" : "rc08MIZP",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/3/5/5946677/PANAMA-HEALTH-VIRUS-VACCINE_1614937370295975_v0_h.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Österreichischer Impfstoff-Zulieferer Polymun steigert Produktion",
+      "titleTarget" : "Furnizorul austriac de vaccinuri Polymun crește producția",
+      "url" : "https://www.diepresse.com/5946677/CoronaImpfung_Oesterreichischer-ImpfstoffZulieferer-Polymun?from=rss"
+    }, {
+      "articleLength" : 2250,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 334,
+      "id" : "IKQCUEgB",
+      "imgUrl" : "https://image.kurier.at/images/original/4943098/20210216-ABD0130-1-1.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Lehrer: FFP2-Maske kein Ersatz mehr fürs Freitesten",
-      "titleTarget" : "Profesor: masca FFP2 nu mai este un substitut pentru testarea gratuită",
-      "url" : "https://kurier.at/politik/inland/lehrer-ffp2-maske-kein-ersatz-mehr-fuers-freitesten/401207095"
+      "titleSource" : "Hausdurchsuchung bei Blümel: Ein Spaziergang mit dem Laptop im Kinderwagen",
+      "titleTarget" : "Căutare în casă la Blümel: O plimbare cu laptopul în cărucior",
+      "url" : "https://kurier.at/politik/inland/hausdurchsuchung-bei-bluemel-ein-spaziergang-mit-dem-laptop-im-kinderwagen/401208151"
+    }, {
+      "articleLength" : 3444,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 467,
+      "id" : "cDrxwlWG",
+      "imgUrl" : "https://image.kurier.at/images/original/4764921/46-168942936.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Ausgangssperre künftig schon, wenn Contact Tracing scheitert?",
+      "titleTarget" : "Stocarea de timp în viitor dacă urmărirea contactelor eșuează?",
+      "url" : "https://kurier.at/politik/inland/corona-ausgangssperre-kuenftig-schon-wenn-contact-tracing-scheitert/401207578"
+    }, {
+      "articleLength" : 1859,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 257,
+      "id" : "FtO3jq95",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/0/2/5946626/pen_1614934041480121_v0_h.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Run auf Hacklerregelung",
+      "titleTarget" : "Executați regulamentul hackerilor",
+      "url" : "https://www.diepresse.com/5946626/Pension_Run-auf-Hacklerregelung?from=rss"
+    }, {
+      "articleLength" : 1212,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 187,
+      "id" : "tMYeYhE7",
+      "imgUrl" : "https://image.kurier.at/images/original/4979965/20210304-ABD0087-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Was Kurz, Frederiksen und Netanjahu beschlossen haben",
+      "titleTarget" : "Ce au decis Kurz, Frederiksen și Netanyahu",
+      "url" : "https://kurier.at/politik/inland/was-kurz-frederiksen-und-netanjahu-beschlossen-haben/401208004"
+    }, {
+      "articleLength" : 3930,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 545,
+      "id" : "i7MFEATP",
+      "imgUrl" : "https://image.kurier.at/images/original/4921414/46-175091561.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Hofer: \"Wie hoch ist 7-Tages-Inzidenz bei ÖVP-Skandalen?\"",
+      "titleTarget" : "Hofer: \"Cât de mare este incidența de 7 zile a scandalurilor ÖVP?\"",
+      "url" : "https://kurier.at/politik/inland/hofer-wie-hoch-ist-7-tages-inzidenz-bei-oevp-skandalen/401207350"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 3615,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 567,
-      "id" : "FcvhSmsD",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/b/c/4/5946308/74CB7680-289A-49EA-818D-6AD9FFC47424_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "AUA: \"Ohne Rettungpaket würden wir nicht mehr existieren\"",
-      "titleTarget" : "AUA: „Fără pachetul de salvare nu am mai exista”",
-      "url" : "https://www.diepresse.com/5946308/Luftfahrt_AUA_Ohne-Rettungpaket-wuerden-wir-nicht-mehr-existieren?from=rss"
-    }, {
-      "articleLength" : 1195,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 161,
-      "id" : "Y2kb7ciT",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/c/5/8/5946456/11365612jpg_161487327664756_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Wie viel Österreich in Made in Austria steckt",
-      "titleTarget" : "Cât este Austria în Made in Austria",
-      "url" : "https://www.diepresse.com/5946456/Etikettenschwindel_Wie-viel-Oesterreich-in-Made-in-Austria-steckt?from=rss"
-    }, {
-      "articleLength" : 3615,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 567,
-      "id" : "P0XgJq2Z",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/b/c/4/5946308/74CB7680-289A-49EA-818D-6AD9FFC47424_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "AUA: \"Ohne Rettungspaket würden wir nicht mehr existieren\"",
-      "titleTarget" : "AUA: „Fără salvare nu am mai exista”",
-      "url" : "https://www.diepresse.com/5946308/Luftfahrt_AUA_Ohne-Rettungspaket-wuerden-wir-nicht-mehr-existieren?from=rss"
-    }, {
       "articleLength" : 2195,
       "articlePartsSize" : 11,
       "articleWordCount" : 292,
-      "id" : "1I6ARzg5",
+      "id" : "6YxzQFHj",
       "imgUrl" : "https://image.kurier.at/images/original/4977271/20210303-ABD0162-1-1.jpg",
       "publisher" : "kurier.at",
       "titleSource" : "Spar, Rewe, Hofer und dm stoppen Verkauf von Hygiene-Austria-Masken",
       "titleTarget" : "Spar, Rewe, Hofer și dm încetează să mai vândă măști Hygiene Austria",
       "url" : "https://kurier.at/wirtschaft/spar-nimmt-hygiene-austria-masken-aus-dem-sortiment/401207542"
     }, {
-      "articleLength" : 2206,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 296,
-      "id" : "PIRRgn9p",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/b/d/9/5946329/02635D71-1D89-4C3C-911A-2E28135F4387_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Novartis produziert Bestandteile für CureVac-Impfstoff in Tirol",
-      "titleTarget" : "Novartis produce componente pentru vaccinul CureVac în Tirol",
-      "url" : "https://www.diepresse.com/5946329/Coronavirus_Novartis-produziert-Bestandteile-fuer-CureVacImpfstoff?from=rss"
+      "articleLength" : 2217,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 301,
+      "id" : "pt7hjXqb",
+      "imgUrl" : "https://image.kurier.at/images/original/4977277/20210303-ABD0164-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Masken von Hygiene Austria nicht in Österreich zertifiziert",
+      "titleTarget" : "Măștile de igienă Austria nu sunt certificate în Austria",
+      "url" : "https://kurier.at/wirtschaft/masken-von-hygiene-austria-nicht-in-oesterreich-zertifiziert/401207881"
     }, {
-      "articleLength" : 3692,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 549,
-      "id" : "N3NV6lwb",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/b/2/5/5946149/E3930E8C-6502-4AB8-B158-8F33B13C8E43_v0_h_v0.jpg",
+      "articleLength" : 1528,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 209,
+      "id" : "IBWcEGfV",
+      "imgUrl" : "https://image.kurier.at/images/original/4541711/81670356455678804_BLD_Online.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Novartis will in Tirol mRNA für Covid-19-Impfstoff herstellen",
+      "titleTarget" : "Novartis vrea să producă ARNm pentru vaccinul Covid-19 în Tirol",
+      "url" : "https://kurier.at/wirtschaft/novartis-will-impfstoff-in-tirol-herstellen/401207794"
+    }, {
+      "articleLength" : 1844,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 240,
+      "id" : "lghzU0dR",
+      "imgUrl" : "https://image.kurier.at/images/original/4647896/46-166403358.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Corona: Versicherung muss nur Teil von Hotel-Betriebsausfall bezahlen",
+      "titleTarget" : "Corona: Asigurarea trebuie să plătească doar pentru o parte din timpul de nefuncționare al hotelului",
+      "url" : "https://kurier.at/wirtschaft/corona-versicherung-muss-nur-teil-von-hotel-betriebsausfall-bezahlen/401208415"
+    }, {
+      "articleLength" : 805,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 113,
+      "id" : "kMB2GxPj",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/c/d/2/5946578/061686C9-33F0-4402-90AC-90BC0BE0D4B2_v0_h.jpg",
       "publisher" : "www.diepresse.com",
-      "titleSource" : "Flughafen fordert Kurzarbeit bis Ende 2022",
-      "titleTarget" : "Aeroportul solicită o muncă scurtă până la sfârșitul anului 2022",
-      "url" : "https://www.diepresse.com/5946149/Luftfahrt_Flughafen-fordert-Kurzarbeit-bis-Ende-2022?from=rss"
+      "titleSource" : "Die Rückkehr der Inflation",
+      "titleTarget" : "Revenirea inflației",
+      "url" : "https://www.diepresse.com/5946578/Teuerung_Die-Rueckkehr-der-Inflation?from=rss"
+    }, {
+      "articleLength" : 3942,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 571,
+      "id" : "HiU63dfS",
+      "imgUrl" : "https://image.kurier.at/images/original/4521425/46-164217571.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "AUA und Flughafen: Große Hoffnung auf den „Grünen Pass“",
+      "titleTarget" : "AUA și aeroport: mare speranță pentru „Green Pass”",
+      "url" : "https://kurier.at/wirtschaft/aua-und-flughafen-grosse-hoffnung-auf-den-gruenen-pass/401207968"
+    }, {
+      "articleLength" : 2780,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 379,
+      "id" : "eQlN1Gf0",
+      "imgUrl" : "https://image.kurier.at/images/original/4981120/46-176182517.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "China will 2021 \"mehr als sechs Prozent\" wachsen",
+      "titleTarget" : "China dorește să crească „mai mult de șase procente” în 2021",
+      "url" : "https://kurier.at/wirtschaft/china-will-2021-mehr-als-sechs-prozent-wachsen/401208352"
     } ]
   }, {
     "category" : "CHRONICLE",
@@ -139,7 +151,7 @@
       "articleLength" : 1910,
       "articlePartsSize" : 9,
       "articleWordCount" : 276,
-      "id" : "ENrn0YEC",
+      "id" : "uM2Ne02j",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/3/9/5946425/FB6A5870-AF88-46BF-96B6-F2BA68A0333E_v0_h.jpg",
       "publisher" : "www.diepresse.com",
       "titleSource" : "Virus \"erwischt\" immer mehr Kinder und Jugendliche",
@@ -149,111 +161,112 @@
       "articleLength" : 1858,
       "articlePartsSize" : 9,
       "articleWordCount" : 238,
-      "id" : "IOQD96rm",
+      "id" : "3uHCZGnS",
       "publisher" : "www.diepresse.com",
       "titleSource" : "Zwei Vorarlberger Lehrer wegen Masken-Verweigerung entlassen",
       "titleTarget" : "Doi profesori din Vorarlberg au fost demiși pentru că au refuzat să folosească o mască",
       "url" : "https://www.diepresse.com/5946235/Coronavirus_Zwei-Vorarlberger-Lehrer-wegen-MaskenVerweigerung?from=rss"
     }, {
+      "articleLength" : 1038,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 130,
+      "id" : "ppwpWARK",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/d/9/5946585/COVID-COVID-19-SELBSTTESTS_1614928999935139_v0_l.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Wohnzimmertests in drei Vierteln der Apotheken vergriffen",
+      "titleTarget" : "Testele din camera de zi s-au epuizat în trei sferturi din farmacii",
+      "url" : "https://www.diepresse.com/5946585/Covid_Wohnzimmertests-in-drei-Vierteln-der-Apotheken-vergriffen?from=rss"
+    }, {
       "articleLength" : 1535,
       "articlePartsSize" : 7,
       "articleWordCount" : 204,
-      "id" : "zRugsWKX",
+      "id" : "GbDVAmyv",
       "publisher" : "www.diepresse.com",
       "titleSource" : "Ausreisekontrollen im Bezirk Hermagor ab Dienstag",
       "titleTarget" : "Controlul de ieșire din districtul Hermagor de marți",
       "url" : "https://www.diepresse.com/5946385/Kaernten_Ausreisekontrollen-im-Bezirk-Hermagor-ab-Dienstag?from=rss"
     }, {
-      "articleLength" : 2891,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 414,
-      "id" : "getrTsxR",
-      "imgUrl" : "https://image.kurier.at/images/original/4725852/20201028-ABD0091-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "20 Prozent mehr Corona-Patienten auf Intensivstationen",
-      "titleTarget" : "Cu 20% mai mulți pacienți corona în unitățile de terapie intensivă",
-      "url" : "https://kurier.at/chronik/oesterreich/20-prozent-mehr-corona-patienten-auf-intensivstationen/401207512"
-    }, {
       "articleLength" : 1526,
       "articlePartsSize" : 7,
       "articleWordCount" : 216,
-      "id" : "tt5CXQHd",
+      "id" : "UhKcvKzm",
       "publisher" : "www.diepresse.com",
       "titleSource" : "70 Prozent der Mayrhofner ließen sich testen",
       "titleTarget" : "70 la sută dintre rezidenții Mayrhofen s-au testat",
       "url" : "https://www.diepresse.com/5946223/Zillertal_70-Prozent-der-Mayrhofner-liessen-sich-testen?from=rss"
     }, {
-      "articleLength" : 2039,
+      "articleLength" : 1926,
       "articlePartsSize" : 9,
-      "articleWordCount" : 270,
-      "id" : "7ySJPsxa",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/b/f/5946303/469863EB-E7C4-46D4-AB40-20793EA7B8B3_v0_h.jpg",
+      "articleWordCount" : 256,
+      "id" : "5ZBJlXXo",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/d/3/e/5946686/C70DC9EA-7895-482A-A3FE-2A654AE786E7_v0_h.jpg",
       "publisher" : "www.diepresse.com",
+      "titleSource" : "Impfgremium empfiehlt AstraZeneca nun auch bei über 65-Jährigen",
+      "titleTarget" : "Vaccination Board recomandă acum AstraZeneca pentru persoanele cu vârsta peste 65 de ani",
+      "url" : "https://www.diepresse.com/5946686/CoronaImpfung_Impfgremium-empfiehlt-AstraZeneca-nun-auch-bei-ueber?from=rss"
+    }, {
+      "articleLength" : 1491,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 194,
+      "id" : "PcUgqrIp",
+      "imgUrl" : "https://image.kurier.at/images/original/2255484/westbahn%25252B%252B-001_PETSCHENIG%252B_%252BPICTURENEWS.AT.jpg",
+      "publisher" : "kurier.at",
       "titleSource" : "Corona-Demo: Westbahn droht Unmaskierten mit Rausschmiss",
       "titleTarget" : "Demonstrație Corona: Westbahn amenință persoanele nemascate cu aruncarea afară",
-      "url" : "https://www.diepresse.com/5946303/CoronaMassnahmen_CoronaDemo_Westbahn-droht-Unmaskierten-mit?from=rss"
-    }, {
-      "articleLength" : 3098,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 439,
-      "id" : "rT870OEJ",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Zahl der Neuinfektionen mit 2324 weiter auf hohem Niveau",
-      "titleTarget" : "Numărul de noi infecții rămâne la un nivel ridicat la 2324",
-      "url" : "https://www.diepresse.com/5946251/Coronavirus_Zahl-der-Neuinfektionen-mit-2324-weiter-auf-hohem-Niveau?from=rss"
+      "url" : "https://kurier.at/chronik/oesterreich/corona-demo-westbahn-droht-unmaskierten-mit-rausschmiss/401207812"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleLength" : 2155,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 300,
-      "id" : "i6LIWhAM",
-      "imgUrl" : "https://image.kurier.at/images/original/4300118/46-144846113.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Katharina Stemberger und Daniel Gawlowski ermitteln als \"Soko Linz\"",
-      "titleTarget" : "Katharina Stemberger și Daniel Gawlowski se identifică drept „Soko Linz”",
-      "url" : "https://kurier.at/kultur/medien/katharina-stemberger-und-daniel-gawlowski-ermitteln-als-soko-linz/401207344"
-    }, {
-      "articleLength" : 2050,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 302,
-      "id" : "EsKveHyK",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/9/a/5946010/Mart3B-0846-4A0A-8658-44D4860496D3_1614849074898656_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Martha Jungwirth von Ropac vertreten",
-      "titleTarget" : "Martha Jungwirth reprezentată de Ropac",
-      "url" : "https://www.diepresse.com/5946010/Kunstmarkt_Martha-Jungwirth-von-Ropac-vertreten?from=rss"
-    }, {
       "articleLength" : 1510,
       "articlePartsSize" : 7,
       "articleWordCount" : 237,
-      "id" : "KcLjKv5w",
+      "id" : "wxLofKjX",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/6/f/5946479/61E0BED7-F0CB-4618-9E35-36CB0C10A109_v0_h.jpg",
       "publisher" : "www.diepresse.com",
       "titleSource" : "Er erklärte die Welt aus der Ferne: Klaus Emmerich gestorben",
       "titleTarget" : "El a explicat lumea de departe: Klaus Emmerich a murit",
       "url" : "https://www.diepresse.com/5946479/Er-erklaerte-die-Welt-aus-der-Ferne_Klaus-Emmerich-gestorben?from=rss"
     }, {
-      "articleLength" : 2718,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 363,
-      "id" : "gWYDOjqM",
-      "imgUrl" : "https://image.kurier.at/images/original/4965304/orf_kurier_20210225191503.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "\"Starmania 21\": Nach Corona-Ausfall darf Kandidatin doch singen",
-      "titleTarget" : "„Starmania 21”: După eșecul Corona, candidatului i se permite să cânte",
-      "url" : "https://kurier.at/kultur/medien/starmania-21-nach-corona-ausfall-bekommt-kandidatin-zweite-chance/401207746"
-    }, {
       "articleLength" : 1384,
       "articlePartsSize" : 7,
       "articleWordCount" : 201,
-      "id" : "b21fl0AL",
+      "id" : "O9j6tNp5",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/7/4/f/5818191/orf_1590398964071991_v0_h.jpg",
       "publisher" : "www.diepresse.com",
       "titleSource" : "ORF-Publikum mag Comedy am liebsten",
       "titleTarget" : "Publicului ORF îi place cel mai bine comedia",
       "url" : "https://www.diepresse.com/5946189/Publikumsrat_ORFPublikum-mag-Comedy-am-liebsten?from=rss"
+    }, {
+      "articleLength" : 1686,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 234,
+      "id" : "IkQpzmIQ",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/e/b/5946603/A-suspected-new-mural-by-artist-Banksy-on-a-wall-at-HM-Reading-Prison_1614931192778322.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Banksy bekannte sich zu Graffito auf ehemaligem Gefängnis",
+      "titleTarget" : "Banksy a recunoscut graffiti pe o fostă închisoare",
+      "url" : "https://www.diepresse.com/5946603/StreetArt_Banksy-bekannte-sich-zu-Graffito-auf-ehemaligem-Gefaengnis?from=rss"
+    }, {
+      "articleLength" : 2695,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 418,
+      "id" : "tBn9Ptrx",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/7/4/5946228/ginnyAufm_1614857522427961.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "\"Ginny & Georgia\" auf Netflix: Sind das die neuen Gilmore Girls?",
+      "titleTarget" : "„Ginny & Georgia” pe Netflix: Sunt noile fete Gilmore?",
+      "url" : "https://www.diepresse.com/5946228/Serie_Ginny-Georgia-auf-Netflix_Sind-das-die-neuen-Gilmore-Girls?from=rss"
+    }, {
+      "articleLength" : 1391,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 230,
+      "id" : "Zk0kVwPY",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/e/1/5946593/FILE-PHOTO-Britains-Prince-Harry-and-Meghan-Duchess-of-Sussex-look-on-before-departing-from-Fuaamotu-International-Airport-in-Tonga_1614929898530772.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "ORF zeigt Oprah-Interview mit Meghan und Harry am 8. März",
+      "titleTarget" : "ORF arată interviul Oprah cu Meghan și Harry pe 8 martie",
+      "url" : "https://www.diepresse.com/5946593/Royal-TV_ORF-zeigt-OprahInterview-mit-Meghan-und-Harry-am-8-Maerz?from=rss"
     }, {
       "articleLength" : 3487,
       "articlePartsSize" : 14,
@@ -265,48 +278,88 @@
       "titleTarget" : "Jurnalistul ORF Klaus Emmerich a murit de Corona",
       "url" : "https://kurier.at/kultur/medien/orf-journalist-klaus-emmerich-starb-an-corona/401208058"
     }, {
-      "articleLength" : 2640,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 364,
-      "id" : "Ec0tS3p1",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/4/7/5946439/CB9C3235-B990-4760-90E1-7CB9BAD6E945_v0_l.jpg",
+      "articleLength" : 1686,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 234,
+      "id" : "q7yS7EZA",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/e/b/5946603/A-suspected-new-mural-by-artist-Banksy-on-a-wall-at-HM-Reading-Prison_1614931192778322.jpg",
       "publisher" : "www.diepresse.com",
-      "titleSource" : "\"Moxie\": Wie Retrofeminismus eine Highschool aufrüttelt",
-      "titleTarget" : "„Moxie”: Cum agită retrofeminismul unui liceu",
-      "url" : "https://www.diepresse.com/5946439/Film-auf-Netflix_Moxie_Wie-Retrofeminismus-eine-Highschool?from=rss"
+      "titleSource" : "Graffito auf ehemaligem Gefängnis stammt von Banksy",
+      "titleTarget" : "Graffito-ul din fosta închisoare este al lui Banksy",
+      "url" : "https://www.diepresse.com/5946603/StreetArt_Graffito-auf-ehemaligem-Gefaengnis-stammt-von-Banksy?from=rss"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "articleLength" : 2208,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 316,
-      "id" : "wLhhVV6h",
-      "imgUrl" : "https://image.kurier.at/images/original/4914640/46-175379772.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Wieso auch Ältere mit Astra Zeneca geimpft werden können",
-      "titleTarget" : "De ce persoanele în vârstă pot fi vaccinate și cu Astra Zeneca",
-      "url" : "https://kurier.at/wissen/gesundheit/wieso-auch-aeltere-mit-astra-zeneca-geimpft-werden-koennen/401207341"
-    }, {
       "articleLength" : 2624,
       "articlePartsSize" : 11,
       "articleWordCount" : 353,
-      "id" : "3N1ZwIJN",
+      "id" : "2r110MLH",
       "imgUrl" : "https://image.kurier.at/images/original/4979365/46-167654931.jpg",
       "publisher" : "kurier.at",
       "titleSource" : "Experte: Corona führt auch zum \"Gebrochenes-Herz-Syndrom\"",
       "titleTarget" : "Expert: Corona duce, de asemenea, la „sindromul inimii sparte”",
       "url" : "https://kurier.at/wissen/gesundheit/corona-fuehrt-laut-expertem-auch-zum-gebrochenes-herz-syndrom/401207605"
     }, {
-      "articleLength" : 1324,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 179,
-      "id" : "DW8wmTbd",
-      "imgUrl" : "https://image.kurier.at/images/original/4979077/46-176091550.jpg",
+      "articleLength" : 1456,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 188,
+      "id" : "t6QDRCRJ",
+      "imgUrl" : "https://image.kurier.at/images/original/4981207/46-176182164.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "EMA prüft Sputnik V - was hinter diesem Impfstoff steckt",
-      "titleTarget" : "EMA examinează Sputnik V - ce se află în spatele acestui vaccin",
-      "url" : "https://kurier.at/wissen/gesundheit/ema-prueft-sputnik-v-was-hinter-diesem-impfstoff-steckt/401207473"
+      "titleSource" : "Vermehrt Daten zu Astra-Zeneca-Wirksamkeit über 65 Jahren",
+      "titleTarget" : "Creșterea datelor despre eficacitatea Astra-Zeneca peste 65 de ani",
+      "url" : "https://kurier.at/wissen/gesundheit/vermehrt-daten-zu-astra-zeneca-wirksamkeit-ueber-65-jahren/401208448"
+    }, {
+      "articleLength" : 1176,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 167,
+      "id" : "2TLoX5Jn",
+      "imgUrl" : "https://image.kurier.at/images/original/4979860/46-176111009.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Verringerte Wirksamkeit von Novavax-Impfung bei Südafrika-Variante",
+      "titleTarget" : "Eficacitate scăzută a vaccinării cu Novavax în varianta din Africa de Sud",
+      "url" : "https://kurier.at/wissen/gesundheit/verringerte-wirksamkeit-von-novavax-impfung-bei-suedafrika-variante/401207755"
+    }, {
+      "articleLength" : 1760,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 257,
+      "id" : "ibstk3Ny",
+      "imgUrl" : "https://image.kurier.at/images/original/4830315/46-89076992.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Coronavirus trifft immer mehr Kinder und Jugendliche",
+      "titleTarget" : "Coronavirusul afectează tot mai mulți copii și adolescenți",
+      "url" : "https://kurier.at/wissen/gesundheit/coronavirus-trifft-immer-mehr-kinder-und-jugendliche/401208253"
+    }, {
+      "articleLength" : 3514,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 466,
+      "id" : "MmicwGyE",
+      "imgUrl" : "https://image.kurier.at/images/original/4981327/46-71112935.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Häufigkeit und Intensität von Essstörungen nehmen durch Corona stark zu",
+      "titleTarget" : "Corona crește frecvența și intensitatea tulburărilor alimentare",
+      "url" : "https://kurier.at/wissen/gesundheit/haeufigkeit-und-intensitaet-von-essstoerungen-nehmen-durch-corona-stark-zu/401208529"
+    }, {
+      "articleLength" : 928,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 125,
+      "id" : "t5iGLLKi",
+      "imgUrl" : "https://image.kurier.at/images/original/4981546/46-176152752.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Pandemie forderte weltweit 17.000 Tote im Gesundheitswesen",
+      "titleTarget" : "Pandemia a declarat 17.000 de decese în îngrijirile medicale din întreaga lume",
+      "url" : "https://kurier.at/wissen/gesundheit/pandemie-forderte-weltweit-17000-tote-im-gesundheitswesen/401208736"
+    }, {
+      "articleLength" : 1096,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 145,
+      "id" : "8fNfi8mO",
+      "imgUrl" : "https://image.kurier.at/images/original/4981207/46-176182164.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Impfgremium empfiehlt AstraZeneca nun auch über 65-Jährige",
+      "titleTarget" : "Vaccination Board recomandă acum AstraZeneca persoanelor cu vârsta peste 65 de ani",
+      "url" : "https://kurier.at/wissen/gesundheit/impfgremium-empfiehlt-astrazeneca-nun-auch-ueber-65-jaehrige/401208739"
     } ]
   }, {
     "category" : "SPORT",
@@ -314,67 +367,67 @@
       "articleLength" : 3507,
       "articlePartsSize" : 16,
       "articleWordCount" : 471,
-      "id" : "vsGv424j",
+      "id" : "wxWoisdw",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/4/c/5946444/498961A0-2A72-4AC3-BF70-A163D66856C1_v0_l.jpg",
       "publisher" : "www.diepresse.com",
       "titleSource" : "Austria Wien: Der Aufbruch in eine neue Ära",
       "titleTarget" : "Austria Wien: Începutul unei noi ere",
       "url" : "https://www.diepresse.com/5946444/Bundesliga_Austria-Wien_Der-Aufbruch-in-eine-neue-Aera?from=rss"
     }, {
+      "articleLength" : 2043,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 261,
+      "id" : "vqCOkkhU",
+      "imgUrl" : "https://image.kurier.at/images/original/4978903/46-174138944.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Initiative wird härter: \"Sofortige Öffnung der Tennis-Hallen\"",
+      "titleTarget" : "Inițiativa devine din ce în ce mai dură: „Deschiderea imediată a sălilor de tenis”",
+      "url" : "https://kurier.at/sport/tennis/initiative-wird-haerter-sofortige-oeffnung-der-tennis-hallen/401207503"
+    }, {
       "articleLength" : 542,
       "articlePartsSize" : 3,
       "articleWordCount" : 71,
-      "id" : "t3pBCZgy",
+      "id" : "fj8lfRIP",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/9/0/5946256/748725FD-06DE-4A8D-8DC6-ED93C36D8AEB_v0_l.jpg",
       "publisher" : "www.diepresse.com",
       "titleSource" : "Austria präsentiert Insignia als neuen Investor",
       "titleTarget" : "Austria prezintă Insignia ca un nou investitor",
       "url" : "https://www.diepresse.com/5946256/Bundesliga_Austria-praesentiert-Insignia-als-neuen-Investor?from=rss"
     }, {
-      "articleLength" : 4550,
-      "articlePartsSize" : 22,
-      "articleWordCount" : 668,
-      "id" : "3PMkkFgO",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/6/9/5945961/00C41CC5-7CB9-4850-A0B9-0538A75398D6_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Arbeitssieg des Lask, Salzburger Final-Abo und WAC-Eklat",
-      "titleTarget" : "Victoria lui Lask, abonamentul final de la Salzburg și scandalul WAC",
-      "url" : "https://www.diepresse.com/5945961/OeFBCup_Arbeitssieg-des-Lask-Salzburger-FinalAbo-und-WACEklat?from=rss"
-    }, {
       "articleLength" : 3258,
       "articlePartsSize" : 15,
       "articleWordCount" : 480,
-      "id" : "3cSYU3C0",
+      "id" : "Cu0YSDjt",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/c/3/f/5946431/22CD6189-C765-4713-8F7A-2D658F8B793B_v0_l.jpg",
       "publisher" : "www.diepresse.com",
       "titleSource" : "Teenager als neuer König der Kombinierer",
       "titleTarget" : "Adolescenții ca noul rege al combinatorilor",
       "url" : "https://www.diepresse.com/5946431/Nordische-WM_Teenager-als-neuer-Koenig-der-Kombinierer?from=rss"
     }, {
-      "articleLength" : 1090,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 149,
-      "id" : "ccHvXkR1",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/9/2/5946258/52639831-C090-4BE4-A8B4-3A28469EEF29_v0_l.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Johannes Lamparter ist Kombinierer-Weltmeister",
-      "titleTarget" : "Johannes Lamparter este campion mondial combinat",
-      "url" : "https://www.diepresse.com/5946258/Nordische-WM_Johannes-Lamparter-ist-KombiniererWeltmeister?from=rss"
-    }, {
       "articleLength" : 2567,
       "articlePartsSize" : 11,
       "articleWordCount" : 376,
-      "id" : "oguhdMAy",
+      "id" : "TZK9cY4O",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/c/f/5946063/D5EE0D04-C68A-4E62-8ABA-2380AB3707BB_v0_l.jpg",
       "publisher" : "www.diepresse.com",
       "titleSource" : "Nach Disput: Feldhofer verlässt WAC",
       "titleTarget" : "După dispută: Feldhofer părăsește WAC",
       "url" : "https://www.diepresse.com/5946063/Bundesliga_Nach-Disput_Feldhofer-verlaesst-WAC?from=rss"
     }, {
+      "articleLength" : 3568,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 503,
+      "id" : "Vi8Rs3v4",
+      "imgUrl" : "https://image.kurier.at/images/original/4980235/46-176170529.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Lamparter gewinnt sensationell WM-Gold für Österreich",
+      "titleTarget" : "Lamparter câștigă senzațional aurul Cupei Mondiale pentru Austria",
+      "url" : "https://kurier.at/sport/wintersport/nordische-wm-oesv-kombinierer-lamparter-gewinnt-sensationell-wm-gold/401207659"
+    }, {
       "articleLength" : 2365,
       "articlePartsSize" : 11,
       "articleWordCount" : 342,
-      "id" : "sA5cFlk2",
+      "id" : "wERDX10o",
       "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/a/4/5946276/C6FF2B89-3635-4FF4-B974-6FFF949C47FF_v0_l.jpg",
       "publisher" : "www.diepresse.com",
       "titleSource" : "Schlammschlacht um das Erbe von Diego Maradona",
