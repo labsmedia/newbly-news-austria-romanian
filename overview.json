@@ -2,26 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 2961,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 401,
-      "id" : "03DkURHB",
-      "imgUrl" : "https://image.kurier.at/images/original/4984474/46-176106904.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Anschober warnt vor \"Pandemie in der Pandemie\"",
-      "titleTarget" : "Anschober avertizează asupra „pandemiei în cadrul unei pandemii”",
-      "url" : "https://kurier.at/politik/inland/anschober-warnt-vor-pandemie-in-der-pandemie/401210002"
-    }, {
-      "articleLength" : 1893,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 258,
-      "id" : "SOYo4xOg",
-      "imgUrl" : "https://image.kurier.at/images/original/4984150/46-88559288.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Hofer blitzte in \"Causa Tempelberg\" auch beim VwGH gegen ORF ab",
-      "titleTarget" : "Hofer a clipit și în „Causa Tempelberg” la VwGH împotriva ORF",
-      "url" : "https://kurier.at/politik/inland/hofer-blitzte-in-causa-tempelberg-auch-beim-vwgh-gegen-orf-ab/401209858"
-    }, {
       "articleLength" : 2499,
       "articlePartsSize" : 12,
       "articleWordCount" : 345,
@@ -32,6 +12,16 @@
       "titleTarget" : "Ieșiți din zona cu risc ridicat doar cu un test corona",
       "url" : "https://www.diepresse.com/5947350/Wiener-Neustadt_Nur-mit-Coronatest-raus-aus-dem-Hochrisikogebiet?from=rss"
     }, {
+      "articleLength" : 2961,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 401,
+      "id" : "03DkURHB",
+      "imgUrl" : "https://image.kurier.at/images/original/4984474/46-176106904.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Anschober warnt vor \"Pandemie in der Pandemie\"",
+      "titleTarget" : "Anschober avertizează asupra „pandemiei în cadrul unei pandemii”",
+      "url" : "https://kurier.at/politik/inland/anschober-warnt-vor-pandemie-in-der-pandemie/401210002"
+    }, {
       "articleLength" : 2189,
       "articlePartsSize" : 10,
       "articleWordCount" : 317,
@@ -41,58 +31,28 @@
       "titleSource" : "AK-Präsidentin Anderl: \"Ohne Kurzarbeit wird es auch im Herbst nicht gehen\"",
       "titleTarget" : "Președintele AK Anderl: \"Fără muncă scurtă, nu va funcționa nici toamna\"",
       "url" : "https://kurier.at/politik/inland/ak-praesidentin-anderl-ohne-kurzarbeit-wird-es-auch-im-herbst-nicht-gehen/401209957"
-    }, {
-      "articleLength" : 2321,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 309,
-      "id" : "sfiWoJcR",
-      "imgUrl" : "https://image.kurier.at/images/original/4980049/20210304-ABD0100-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Justiz-Krach prägt U-Ausschuss kommende Woche",
-      "titleTarget" : "Accidentul justiției caracterizează U-Committee săptămâna viitoare",
-      "url" : "https://kurier.at/politik/inland/justiz-krach-praegt-u-ausschuss-kommende-woche/401209723"
-    }, {
-      "articleLength" : 721,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 102,
-      "id" : "il8yRWwX",
-      "imgUrl" : "https://image.kurier.at/images/original/4985161/46-163456272.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Gebühren für Pass und Führerschein bleiben gleich",
-      "titleTarget" : "Taxele pentru pașaport și permisul de conducere rămân aceleași",
-      "url" : "https://kurier.at/politik/inland/gebuehren-fuer-pass-und-fuehrerschein-bleiben-gleich/401210143"
-    }, {
-      "articleLength" : 4993,
-      "articlePartsSize" : 22,
-      "articleWordCount" : 718,
-      "id" : "DcHIKox9",
-      "publisher" : "www.derstandard.at",
-      "titleSource" : "Die türkisen Nerven liegen blank",
-      "titleTarget" : "Nervii turcoaz sunt goi",
-      "url" : "https://www.derstandard.at/story/2000124701894/die-tuerkisen-nerven-liegen-blank?ref=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 2740,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 387,
-      "id" : "xO8QhYMM",
-      "imgUrl" : "https://image.kurier.at/images/original/4794477/78370011357763208_BLD_Online.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Wirecard könnte bei ÖBB-Auftrag Insiderwissen gehabt haben",
-      "titleTarget" : "Wirecard ar fi putut avea cunoștințe privilegiate despre ordinul ÖBB",
-      "url" : "https://kurier.at/wirtschaft/wirecard-koennte-bei-oebb-auftrag-insiderwissen-gehabt-haben/401209837"
+      "articleLength" : 4709,
+      "articlePartsSize" : 21,
+      "articleWordCount" : 682,
+      "id" : "rERA8VM4",
+      "publisher" : "www.derstandard.at",
+      "titleSource" : "Tino Wieser: Meister des Maskenspiels bei Hygiene Austria",
+      "titleTarget" : "Tino Wieser: Maestrul jocului de mască la Hygiene Austria",
+      "url" : "https://www.derstandard.at/story/2000124714065/tino-wieser-meister-des-maskenspiels-bei-hygiene-austria?ref=rss"
     }, {
-      "articleLength" : 1388,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 198,
-      "id" : "zDBnu7nH",
-      "imgUrl" : "https://image.kurier.at/images/original/4984045/46-175782090.jpg",
+      "articleLength" : 2121,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 283,
+      "id" : "U4xrLOiu",
+      "imgUrl" : "https://image.kurier.at/images/original/3644042/46-119318933.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "AK-Präsidentin gegen Rücknahme der Öffnungen",
-      "titleTarget" : "Președintele AK împotriva retragerii deschiderilor",
-      "url" : "https://kurier.at/wirtschaft/ak-praesidentin-gegen-ruecknahme-der-oeffnungen/401209813"
+      "titleSource" : "Frauenquote in Aufsichtsräten zeigt Wirkung",
+      "titleTarget" : "Cota de femei în consiliile de supraveghere are un efect",
+      "url" : "https://kurier.at/wirtschaft/frauenquote-in-aufsichtsraeten-zeigt-wirkung/401209963"
     }, {
       "articleLength" : 2771,
       "articlePartsSize" : 12,
@@ -103,46 +63,20 @@
       "titleSource" : "Wiener Architektin bietet digitale Raumplanung an",
       "titleTarget" : "Arhitectul vienez oferă planificarea spațiului digital",
       "url" : "https://kurier.at/wirtschaft/immobiz/wiener-architektin-bietet-digitale-raumplanung-an/401209162"
-    }, {
-      "articleLength" : 4709,
-      "articlePartsSize" : 21,
-      "articleWordCount" : 682,
-      "id" : "rERA8VM4",
-      "publisher" : "www.derstandard.at",
-      "titleSource" : "Tino Wieser: Meister des Maskenspiels bei Hygiene Austria",
-      "titleTarget" : "Tino Wieser: Maestrul jocului de mască la Hygiene Austria",
-      "url" : "https://www.derstandard.at/story/2000124714065/tino-wieser-meister-des-maskenspiels-bei-hygiene-austria?ref=rss"
-    }, {
-      "articleLength" : 966,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 144,
-      "id" : "Lx81hFB2",
-      "publisher" : "www.derstandard.at",
-      "titleSource" : "Erneuter Vorfall mit Boeing 737 Max – aber sichere Landung in Newark",
-      "titleTarget" : "Un alt incident cu Boeing 737 Max - dar aterizare sigură în Newark",
-      "url" : "https://www.derstandard.at/story/2000124720742/erneuter-vorfall-mit-boeing-737-max-aber-sichere-landung-in?ref=rss"
-    }, {
-      "articleLength" : 5940,
-      "articlePartsSize" : 26,
-      "articleWordCount" : 847,
-      "id" : "a4eQlAJl",
-      "publisher" : "www.derstandard.at",
-      "titleSource" : "Wer soll den Schuldenberg bezahlen?",
-      "titleTarget" : "Cine ar trebui să plătească muntele datoriilor?",
-      "url" : "https://www.derstandard.at/story/2000124707180/wer-soll-den-schuldenberg-bezahlen?ref=rss"
-    }, {
-      "articleLength" : 10337,
-      "articlePartsSize" : 45,
-      "articleWordCount" : 1586,
-      "id" : "6qMA5Vjk",
-      "publisher" : "www.derstandard.at",
-      "titleSource" : "Seilbahnchefin Schultz: \"Danke, dass ihr offen habt, haben uns die Leute geschrieben\"",
-      "titleTarget" : "Șeful telecabinei Schultz: „Vă mulțumim că sunteți deschiși, oamenii ne-au scris”",
-      "url" : "https://www.derstandard.at/story/2000124704748/seilbahnchefin-schultz-danke-dass-ihr-offen-habt-haben-uns-die?ref=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
+      "articleLength" : 4220,
+      "articlePartsSize" : 19,
+      "articleWordCount" : 552,
+      "id" : "ZSJ8ftwx",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/1/7/5947415/6DFE0DDE-3171-48CE-A040-1003FCA60073_v0_h.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Tod von Krankenschwester nach AstraZeneca-Impfung wird untersucht",
+      "titleTarget" : "Moartea asistentei medicale după vaccinarea cu AstraZeneca este în curs de investigare",
+      "url" : "https://www.diepresse.com/5947415/Niederoesterreich_Tod-von-Krankenschwester-nach-AstraZenecaImpfung?from=rss"
+    }, {
       "articleLength" : 1613,
       "articlePartsSize" : 8,
       "articleWordCount" : 218,
@@ -153,15 +87,24 @@
       "titleTarget" : "Moarte după vaccinarea cu coroană: autopsie ordonată",
       "url" : "https://kurier.at/chronik/oesterreich/todesfall-nach-corona-impfung-obduktion-angeordnet/401210014"
     }, {
-      "articleLength" : 4220,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 552,
-      "id" : "ZSJ8ftwx",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/1/7/5947415/6DFE0DDE-3171-48CE-A040-1003FCA60073_v0_h.jpg",
+      "articleLength" : 5917,
+      "articlePartsSize" : 28,
+      "articleWordCount" : 800,
+      "id" : "oGowhDv5",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/b/d/5947325/D9A4A766-06C9-4D30-8B10-367C86A14881_v0_h.jpg",
       "publisher" : "www.diepresse.com",
-      "titleSource" : "Tod von Krankenschwester nach AstraZeneca-Impfung wird untersucht",
-      "titleTarget" : "Moartea asistentei medicale după vaccinarea cu AstraZeneca este în curs de investigare",
-      "url" : "https://www.diepresse.com/5947415/Niederoesterreich_Tod-von-Krankenschwester-nach-AstraZenecaImpfung?from=rss"
+      "titleSource" : "Anti-Corona-Demo: Aggressive Stimmung, rechtsextreme Mitmarschierer",
+      "titleTarget" : "Demo anti-Corona: starea de spirit agresivă, marșari extremisti de dreapta",
+      "url" : "https://www.diepresse.com/5947325/AntiCoronaDemo_Aggressive-Stimmung-rechtsextreme-Mitmarschierer?from=rss"
+    }, {
+      "articleLength" : 1360,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 184,
+      "id" : "22hnqKY3",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "\"Corona-Party\" in Wiener Lokal aufgeflogen",
+      "titleTarget" : "„Petrecerea Corona” suflată într-un pub vienez",
+      "url" : "https://www.diepresse.com/5947286/23-Gaeste_CoronaParty-in-Wiener-Lokal-aufgeflogen?from=rss"
     }, {
       "articleLength" : 5014,
       "articlePartsSize" : 24,
@@ -173,79 +116,18 @@
       "titleTarget" : "Numeroase reclame și câteva arestări în timpul demonstrațiilor corona",
       "url" : "https://kurier.at/chronik/oesterreich/corona-demos-in-wien-gestartet/401209981"
     }, {
-      "articleLength" : 3179,
-      "articlePartsSize" : 14,
-      "articleWordCount" : 427,
-      "id" : "Yc0PX5OQ",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "publisher" : "kurier.at",
-      "titleSource" : "2.557 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "2.557 de noi infecții coronare în Austria",
-      "url" : "https://kurier.at/chronik/oesterreich/2557-neue-corona-infektionen-in-oesterreich/401209768"
-    }, {
-      "articleLength" : 4404,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 618,
-      "id" : "UPq3KXJn",
-      "imgUrl" : "https://image.kurier.at/images/original/4951160/20210219-ABD0126-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Neuer \"Rekordtag\" bei Corona-Impfungen",
-      "titleTarget" : "Nouă „zi record” pentru vaccinările împotriva coroanei",
-      "url" : "https://kurier.at/chronik/oesterreich/neuer-rekordtag-bei-corona-impfungen/401210077"
-    }, {
-      "articleLength" : 5917,
-      "articlePartsSize" : 28,
-      "articleWordCount" : 800,
-      "id" : "WJYL5wcy",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/b/d/5947325/D9A4A766-06C9-4D30-8B10-367C86A14881_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "Anti-Corona-Demo: Aggressive Stimmung, rechtsextreme Mitmarschierer",
-      "titleTarget" : "Demo anti-Corona: starea de spirit agresivă, marșari extremisti de dreapta",
-      "url" : "https://www.diepresse.com/5947325/AntiCoronaDemo_Aggressive-Stimmung-rechtsextreme-Mitmarschierer?from=rss"
-    }, {
-      "articleLength" : 1301,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 187,
-      "id" : "nIC3NCjb",
-      "imgUrl" : "https://image.kurier.at/images/original/4951025/20210219-ABD0113-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Bereits 34.000 Anmeldungen für Massenimpfung in Tirol",
-      "titleTarget" : "Deja 34.000 de înregistrări pentru vaccinarea în masă în Tirol",
-      "url" : "https://kurier.at/chronik/oesterreich/bereits-34000-anmeldungen-fuer-massenimpfung-in-tirol/401209789"
+      "articleLength" : 9987,
+      "articlePartsSize" : 45,
+      "articleWordCount" : 1419,
+      "id" : "e2cZFm12",
+      "publisher" : "www.derstandard.at",
+      "titleSource" : "Nach Feuerattacke: \"Frauen sollen bei ersten Anzeichen von Gewalt Hilfe suchen\"",
+      "titleTarget" : "După un atac de incendiu: „Femeile ar trebui să caute ajutor la primele semne de violență”",
+      "url" : "https://www.derstandard.at/story/2000124724239/raab-frauen-ermutigen-bei-ersten-anzeichen-fuer-gewalt-hilfe-zu?ref=rss"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleLength" : 2066,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 282,
-      "id" : "kuj0XBjA",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/6/9/5947241/C1B52136-10B5-4975-8D7B-9D32E185DEFF_v0_h.jpg",
-      "publisher" : "www.diepresse.com",
-      "titleSource" : "\"Causa Tempelberg\": Hofer blitzt auch beim VwGH gegen ORF ab",
-      "titleTarget" : "„Causa Tempelberg”: Hofer clipește și la VwGH împotriva ORF",
-      "url" : "https://www.diepresse.com/5947241/Verwaltungsgerichtshof_Causa-Tempelberg_Hofer-blitzt-auch-beim?from=rss"
-    }, {
-      "articleLength" : 1769,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 265,
-      "id" : "J6rzbMJl",
-      "imgUrl" : "https://image.kurier.at/images/original/4984036/46-176190817.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Millionen für ein Millionen-Publikum: ÖSV schreibt Medienrechte aus",
-      "titleTarget" : "Milioane pentru o audiență de milioane: ÖSV emite drepturi media",
-      "url" : "https://kurier.at/kultur/medien/millionen-fuer-ein-millionen-publikum-oesv-schreibt-medienrechte-aus/401209798"
-    }, {
-      "articleLength" : 1383,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 204,
-      "id" : "m3I2pnAl",
-      "imgUrl" : "https://image.kurier.at/images/original/4983970/46-102816642.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Schweizer Maler und Grafiker Alexander Klee 80-jährig gestorben",
-      "titleTarget" : "Pictorul și graficianul elvețian Alexander Klee a murit la vârsta de 80 de ani",
-      "url" : "https://kurier.at/kultur/schweizer-maler-und-grafiker-alexander-klee-80-jaehrig-gestorben/401209741"
-    }, {
       "articleLength" : 9880,
       "articlePartsSize" : 34,
       "articleWordCount" : 1408,
@@ -259,29 +141,20 @@
       "articleLength" : 2475,
       "articlePartsSize" : 11,
       "articleWordCount" : 360,
-      "id" : "wfOj8cEQ",
+      "id" : "GC1pmIeF",
       "publisher" : "www.derstandard.at",
       "titleSource" : "Festivals 2021: Hoffen und warten",
       "titleTarget" : "Festivaluri 2021: speranță și așteptare",
       "url" : "https://www.derstandard.at/story/2000124700832/festivals-2021-hoffen-und-warten?ref=rss"
     }, {
-      "articleLength" : 1668,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 247,
-      "id" : "wbvW3JfP",
-      "publisher" : "www.derstandard.at",
-      "titleSource" : "Hallo, wie geht's?",
-      "titleTarget" : "Salut ce mai faci?",
-      "url" : "https://www.derstandard.at/story/2000124684277/hallo-wie-gehts?ref=rss"
-    }, {
-      "articleLength" : 3557,
+      "articleLength" : 4000,
       "articlePartsSize" : 16,
-      "articleWordCount" : 528,
-      "id" : "DqhZ2PP5",
+      "articleWordCount" : 552,
+      "id" : "8KMnqEqt",
       "publisher" : "www.derstandard.at",
-      "titleSource" : "Weibliche Philosophiegeschichte: Harriet Taylor statt John Stuart Mill",
-      "titleTarget" : "Istoria filozofiei feminine: Harriet Taylor în locul lui John Stuart Mill",
-      "url" : "https://www.derstandard.at/story/2000124685478/weibliche-philosophiegeschichte-harriet-taylor-statt-john-stuart-mill?ref=rss"
+      "titleSource" : "Jägerin, Jodlerin, Älplerin: Frauen vom Berg und Frauen vom Tal",
+      "titleTarget" : "Vânător, yodeleri, fermieri alpini: femei din munți și femei din vale",
+      "url" : "https://www.derstandard.at/story/2000124688215/jaegerin-jodlerin-aelplerin-frauen-vom-berg-und-frauen-vom-tal?ref=rss"
     } ]
   }, {
     "category" : "HEALTH",
@@ -296,10 +169,20 @@
       "titleTarget" : "Medicament: Compania farmaceutică Merck publică rezultate pozitive",
       "url" : "https://kurier.at/wissen/gesundheit/medikament-pharmakonzern-merck-veroeffentlicht-positive-ergebnisse/401209960"
     }, {
+      "articleLength" : 1224,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 161,
+      "id" : "vgO6wTKh",
+      "imgUrl" : "https://image.kurier.at/images/original/3239999/46-90930662.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Corona-Schutzmasken können bei Heuschnupfen helfen",
+      "titleTarget" : "Măștile de protecție Corona pot ajuta la febra fânului",
+      "url" : "https://kurier.at/wissen/gesundheit/corona-schutzmasken-koennen-bei-heuschnupfen-helfen/401210311"
+    }, {
       "articleLength" : 4010,
       "articlePartsSize" : 17,
       "articleWordCount" : 522,
-      "id" : "VXdTZCHG",
+      "id" : "uKh3Komp",
       "imgUrl" : "https://image.kurier.at/images/original/4985674/46-172020729.jpg",
       "publisher" : "kurier.at",
       "titleSource" : "Diabetespatienten erkranken schwerer an Corona",
@@ -309,46 +192,6 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 2600,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 376,
-      "id" : "ydfWT48r",
-      "imgUrl" : "https://image.kurier.at/images/original/4984267/46-176211409.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "ÖSV-Ass Vincent Kriechmayr gewinnt Abfahrt in Saalbach",
-      "titleTarget" : "Ace de la ÖSV Vincent Kriechmayr câștigă în jos la Saalbach",
-      "url" : "https://kurier.at/sport/wintersport/kein-zufallsweltmeister-oesv-ass-kriechmayr-gewinnt-heim-abfahrt-in-saalbach/401209927"
-    }, {
-      "articleLength" : 4700,
-      "articlePartsSize" : 21,
-      "articleWordCount" : 689,
-      "id" : "tuxuRZJC",
-      "imgUrl" : "https://image.kurier.at/images/original/4984993/46-176215313.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "ÖSV-Kombinierer krönen die WM mit der nächsten Goldmedaille",
-      "titleTarget" : "Combinatorii ÖSV încoronează Cupa Mondială cu următoarea medalie de aur",
-      "url" : "https://kurier.at/sport/wintersport/nordische-wm-oesv-jungstar-lamparter-und-greiderer-holen-gold-im-team-sprint/401209834"
-    }, {
-      "articleLength" : 2276,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 317,
-      "id" : "TBzYc9ZX",
-      "imgUrl" : "https://image.kurier.at/images/original/4985419/46-176219264.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Verdienter Medaillen-Lohn: ÖSV-Adler springen zu WM-Silber",
-      "titleTarget" : "Recompensă meritată pentru medalie: vulturii ÖSV sar în argintul Cupei Mondiale",
-      "url" : "https://kurier.at/sport/wintersport/verdienter-medaillen-lohn-oesv-adler-springen-zu-wm-silber-im-teambewerb/401210191"
-    }, {
-      "articleLength" : 1586,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 247,
-      "id" : "mcu2s0J2",
-      "imgUrl" : "https://image.kurier.at/images/original/4984885/46-176214219.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Heroischer Kampf von Langläuferin Stadlober blieb unbelohnt",
-      "titleTarget" : "Lupta eroică a schiorosului Stadlober a rămas neremunerată",
-      "url" : "https://kurier.at/sport/wintersport/heroischer-kampf-von-langlaeuferin-stadlober-blieb-unbelohnt/401210017"
-    }, {
       "articleLength" : 4744,
       "articlePartsSize" : 21,
       "articleWordCount" : 693,
@@ -359,25 +202,45 @@
       "titleTarget" : "Cupa Mondială Nordică: următoarea medalie de aur pentru combinatori",
       "url" : "https://www.diepresse.com/5947332/TeamSprint_Nordische-WM_Naechste-Goldmedaille-fuer-Kombinierer?from=rss"
     }, {
-      "articleLength" : 3014,
+      "articleLength" : 2716,
       "articlePartsSize" : 12,
-      "articleWordCount" : 443,
-      "id" : "I9dBGVCI",
-      "imgUrl" : "https://image.kurier.at/images/original/4984822/46-173664895.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Vor dem Wiener Derby: Zwischen Königsklasse und Kanonenfutter",
-      "titleTarget" : "Înainte de Derby-ul de la Viena: Între clasa superioară și furajul de tun",
-      "url" : "https://kurier.at/sport/fussball/vor-wiener-derby-austria-gegen-rapid-zwischen-koenigsklasse-und-kanonenfutter/401210041"
+      "articleWordCount" : 389,
+      "id" : "7JiT4jXc",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/8/a/5947274/28FA63A9-4BE5-4C94-9B75-3639B6C5EF6F_v0_h.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Kriechmayr gewinnt Saalbach-Abfahrt",
+      "titleTarget" : "Kriechmayr câștigă cursa Saalbach la vale",
+      "url" : "https://www.diepresse.com/5947274/Ski_Kriechmayr-gewinnt-SaalbachAbfahrt?from=rss"
     }, {
-      "articleLength" : 1466,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 215,
-      "id" : "W3BxAe6Z",
-      "imgUrl" : "https://image.kurier.at/images/original/4984237/46-175712753.jpg",
+      "articleLength" : 940,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 137,
+      "id" : "HRW97fBw",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/a/9/5947305/8493C0E0-761F-4C3B-803A-9EF6A19CFE67_v0_l.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Stadlober nach starkem 30-Km-Rennen Fünfte",
+      "titleTarget" : "Stadlober al cincilea după o cursă puternică de 30 km",
+      "url" : "https://www.diepresse.com/5947305/Nordische-WM_Stadlober-nach-starkem-30KmRennen-Fuenfte?from=rss"
+    }, {
+      "articleLength" : 1166,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 169,
+      "id" : "6SB9kVpW",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/a/4/5947300/F2427A9C-0052-4047-ACB8-3F7B73973EA1_v0_l.jpg",
+      "publisher" : "www.diepresse.com",
+      "titleSource" : "Biathlon: Hauser in Nove Mesto abgeschlagen",
+      "titleTarget" : "Biathlon: Hauser a bătut în Nove Mesto",
+      "url" : "https://www.diepresse.com/5947300/Weltcup_Biathlon_Hauser-in-Nove-Mesto-abgeschlagen?from=rss"
+    }, {
+      "articleLength" : 2600,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 376,
+      "id" : "ydfWT48r",
+      "imgUrl" : "https://image.kurier.at/images/original/4984267/46-176211409.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Tennis-Star Dominic Thiem: \"Das hinterließ Spuren\"",
-      "titleTarget" : "Vedeta de tenis Dominic Thiem: „Asta și-a lăsat amprenta”",
-      "url" : "https://kurier.at/sport/tennis/tennis-star-dominic-thiem-nach-australian-open-aus-das-hinterliess-spuren/401209915"
+      "titleSource" : "ÖSV-Ass Vincent Kriechmayr gewinnt Abfahrt in Saalbach",
+      "titleTarget" : "Ace de la ÖSV Vincent Kriechmayr câștigă în jos la Saalbach",
+      "url" : "https://kurier.at/sport/wintersport/kein-zufallsweltmeister-oesv-ass-kriechmayr-gewinnt-heim-abfahrt-in-saalbach/401209927"
     } ]
   } ],
   "country" : "austria",
