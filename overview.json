@@ -12,6 +12,16 @@
       "titleTarget" : "Schimb de lovituri între Nehammer și FPÖ după demonstrații corona",
       "url" : "https://kurier.at/politik/inland/schlagabtausch-zwischen-nehammer-und-fpoe-nach-corona-demos/401210509"
     }, {
+      "articleLength" : 1714,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 240,
+      "id" : "3cKzn46s",
+      "imgUrl" : "https://image.kurier.at/images/original/4986886/46-176230732.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Korosec: \"Wer geimpft ist, muss aus der Isolation“",
+      "titleTarget" : "Korosec: \"Oricine este vaccinat trebuie să iasă din izolare\"",
+      "url" : "https://kurier.at/politik/inland/korosec-wer-geimpft-ist-muss-aus-der-isolation/401210692"
+    }, {
       "articleLength" : 882,
       "articlePartsSize" : 4,
       "articleWordCount" : 124,
@@ -22,23 +32,15 @@
       "titleTarget" : "SPÖ dorește „funcționarea normală” în școli după Paști: Cum să o faci",
       "url" : "https://kurier.at/politik/inland/spoe-will-normalbetrieb-an-schulen-nach-ostern-wie-das-gehen-soll/401210305"
     }, {
-      "articleLength" : 3443,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 524,
-      "id" : "2Yoly3Md",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Student: \"Ich sehe in den Seminararbeiten keinen Sinn\"",
-      "titleTarget" : "Student: „Nu văd niciun punct în termenul de lucrări”",
-      "url" : "https://www.derstandard.at/story/2000124651592/student-ich-sehe-in-den-seminararbeiten-keinen-sinn?ref=rss"
-    }, {
-      "articleLength" : 4903,
-      "articlePartsSize" : 23,
-      "articleWordCount" : 636,
-      "id" : "Max251M9",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Wieso Studierende ghostwriten lassen",
-      "titleTarget" : "De ce studenții scriu fantomă",
-      "url" : "https://www.derstandard.at/story/2000124650859/wieso-studierende-ghostwriten-lassen?ref=rss"
+      "articleLength" : 4989,
+      "articlePartsSize" : 22,
+      "articleWordCount" : 714,
+      "id" : "rwJzGB2d",
+      "imgUrl" : "https://image.kurier.at/images/original/4984954/46-174290282.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Raab über Feminismus: \"Begrifflichkeiten derzeit nicht am wichtigsten\"",
+      "titleTarget" : "Raab despre feminism: „Terminologia nu este în prezent cea mai importantă”",
+      "url" : "https://kurier.at/politik/inland/raab-ueber-feminismus-begrifflichkeiten-derzeit-nicht-am-wichtigsten/401210074"
     }, {
       "articleLength" : 721,
       "articlePartsSize" : 3,
@@ -49,20 +51,28 @@
       "titleSource" : "Pass und Führerschein: Gebührenerhöhung ausgesetzt",
       "titleTarget" : "Taxele pentru pașaport și permisul de conducere rămân aceleași",
       "url" : "https://kurier.at/politik/inland/gebuehren-fuer-pass-und-fuehrerschein-bleiben-gleich/401210143"
+    }, {
+      "articleLength" : 3443,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 524,
+      "id" : "3GbYeMX7",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Student: \"Ich sehe in den Seminararbeiten keinen Sinn\"",
+      "titleTarget" : "Student: „Nu văd niciun punct în termenul de lucrări”",
+      "url" : "https://www.derstandard.at/story/2000124651592/student-ich-sehe-in-den-seminararbeiten-keinen-sinn?ref=rss"
+    }, {
+      "articleLength" : 4903,
+      "articlePartsSize" : 23,
+      "articleWordCount" : 636,
+      "id" : "0wf7oeX2",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Wieso Studierende ghostwriten lassen",
+      "titleTarget" : "De ce studenții scriu fantomă",
+      "url" : "https://www.derstandard.at/story/2000124650859/wieso-studierende-ghostwriten-lassen?ref=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 669,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 91,
-      "id" : "A9mW49wg",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/0/7/9/5947513/9D3062A9-28E8-40C8-A22E-316EB496A96C_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Reisepass, Führerschein oder Baubewilligung: Gebühren auch heuer nicht erhöht",
-      "titleTarget" : "Pașaport, permis de conducere sau autorizație de construire: taxele nu au crescut nici în acest an",
-      "url" : "https://www.diepresse.com/5947513/Bund_Reisepass-Fuehrerschein-oder-Baubewilligung_Gebuehren-auch?from=rss"
-    }, {
       "articleLength" : 2121,
       "articlePartsSize" : 10,
       "articleWordCount" : 283,
@@ -73,15 +83,6 @@
       "titleTarget" : "Cota de femei în consiliile de supraveghere are un efect",
       "url" : "https://kurier.at/wirtschaft/frauenquote-in-aufsichtsraeten-zeigt-wirkung/401209963"
     }, {
-      "articleLength" : 5940,
-      "articlePartsSize" : 26,
-      "articleWordCount" : 847,
-      "id" : "vBWnEfqr",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Wer soll den Schuldenberg bezahlen?",
-      "titleTarget" : "Cine ar trebui să plătească muntele datoriilor?",
-      "url" : "https://www.derstandard.at/story/2000124707180/wer-soll-den-schuldenberg-bezahlen?ref=rss"
-    }, {
       "articleLength" : 2771,
       "articlePartsSize" : 12,
       "articleWordCount" : 424,
@@ -91,6 +92,35 @@
       "titleSource" : "Wiener Architektin bietet digitale Raumplanung an",
       "titleTarget" : "Arhitectul vienez oferă planificarea spațiului digital",
       "url" : "https://kurier.at/wirtschaft/immobiz/wiener-architektin-bietet-digitale-raumplanung-an/401209162"
+    }, {
+      "articleLength" : 1384,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 183,
+      "id" : "aWL7b2Dz",
+      "imgUrl" : "https://image.kurier.at/images/original/4909978/mediamarkt-innsbruck_c_mediamarkt_jan_hetfleisch.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "MediaMarktSaturn-Chef geht",
+      "titleTarget" : "Șeful MediaMarktSaturn pleacă",
+      "url" : "https://kurier.at/wirtschaft/mediamarktsaturn-chef-geht/401210740"
+    }, {
+      "articleLength" : 5940,
+      "articlePartsSize" : 26,
+      "articleWordCount" : 847,
+      "id" : "vBWnEfqr",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Wer soll den Schuldenberg bezahlen?",
+      "titleTarget" : "Cine ar trebui să plătească muntele datoriilor?",
+      "url" : "https://www.derstandard.at/story/2000124707180/wer-soll-den-schuldenberg-bezahlen?ref=rss"
+    }, {
+      "articleLength" : 669,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 91,
+      "id" : "ryhS6TA5",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/0/7/9/5947513/9D3062A9-28E8-40C8-A22E-316EB496A96C_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Reisepass, Führerschein oder Baubewilligung: Gebühren auch heuer nicht erhöht",
+      "titleTarget" : "Pașaport, permis de conducere sau autorizație de construire: taxele nu au crescut nici în acest an",
+      "url" : "https://www.diepresse.com/5947513/Bund_Reisepass-Fuehrerschein-oder-Baubewilligung_Gebuehren-auch?from=rss"
     }, {
       "articleLength" : 10337,
       "articlePartsSize" : 45,
@@ -104,6 +134,16 @@
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
+      "articleLength" : 5492,
+      "articlePartsSize" : 24,
+      "articleWordCount" : 716,
+      "id" : "AZN9F5NP",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/a/5/5947557/CORONA-KUNDGEBUNG-DER-FP_1615119048115932_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Festnahmen, Anzeigen und Schlagabtausch zwischen Nehammer und FPÖ nach Demos in Wien",
+      "titleTarget" : "Arestări, rapoarte și schimburi de lovituri între Nehammer și FPÖ după demonstrații de la Viena",
+      "url" : "https://www.diepresse.com/5947557/AntiCorona_Festnahmen-Anzeigen-und-Schlagabtausch-zwischen?from=rss"
+    }, {
       "articleLength" : 1697,
       "articlePartsSize" : 8,
       "articleWordCount" : 216,
@@ -114,63 +154,54 @@
       "titleTarget" : "Decesul asistentei medicale: 3700 de doze din lotul afectat au fost inoculate",
       "url" : "https://kurier.at/chronik/oesterreich/nach-todesfall-kaernten-stoppt-impfung-mit-astra-zeneca-charge/401210506"
     }, {
+      "articleLength" : 6582,
+      "articlePartsSize" : 30,
+      "articleWordCount" : 861,
+      "id" : "P3PxW62K",
+      "publisher" : "derstandard.at",
+      "titleSource" : "42 Festnahmen, 3.000 verwaltungsrechtliche und 60 Strafanzeigen bei Corona-Demos",
+      "titleTarget" : "42 de arestări, 3.000 de acuzații administrative și 60 de acuzații penale în demonstrații corona",
+      "url" : "https://www.derstandard.at/story/2000124733120/42-festnahmen-3-000-verwaltungsrechtliche-und-60-strafanzeigen-bei-corona?ref=rss"
+    }, {
+      "articleLength" : 3705,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 502,
+      "id" : "dKvnnGbm",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/7/b/5947515/C17FA8F5-CC73-4ADC-936A-4BCD736325EA_1615121331839300_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Grüne wollen Pflicht zur Einkommenstransparenz",
+      "titleTarget" : "Verzii doresc obligația de transparență a veniturilor",
+      "url" : "https://www.diepresse.com/5947515/Unternehmen_Gruene-wollen-Pflicht-zur-Einkommenstransparenz?from=rss"
+    }, {
       "articleLength" : 3621,
       "articlePartsSize" : 16,
       "articleWordCount" : 465,
-      "id" : "t6q4B8T6",
+      "id" : "3ppQI2CH",
       "imgUrl" : "https://image.kurier.at/images/original/4985731/46-176197223.jpg",
       "publisher" : "kurier.at",
       "titleSource" : "Todesfall nach Corona-Impfung: Impfstoffcharge wurde gestoppt",
       "titleTarget" : "Moarte după vaccinarea cu corona: lotul de vaccin a fost oprit",
       "url" : "https://kurier.at/chronik/oesterreich/todesfall-nach-corona-impfung-impfstoffcharge-wurde-gestoppt/401210341"
     }, {
-      "articleLength" : 6582,
-      "articlePartsSize" : 30,
-      "articleWordCount" : 861,
-      "id" : "uGZ2kU1Z",
-      "publisher" : "derstandard.at",
-      "titleSource" : "42 Festnahmen, 3.000 verwaltungsrechtliche und 60 Strafanzeigen bei Corona-Demos",
-      "titleTarget" : "42 de arestări, 3.000 de acuzații administrative și 60 de acuzații penale în demonstrații corona",
-      "url" : "https://www.derstandard.at/story/2000124733120/42-festnahmen-3-000-verwaltungsrechtliche-und-60-strafanzeigen-bei-corona?ref=rss"
-    }, {
-      "articleLength" : 1792,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 252,
-      "id" : "v4swGeIY",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Angewandte stiftet Preis in Gedenken an ermordete Studentin",
-      "titleTarget" : "Aplicat dona un premiu în memoria unui student ucis",
-      "url" : "https://www.derstandard.at/story/2000124731664/angewandte-stiftet-preis-in-gedenken-an-ermordete-studentin?ref=rss"
-    }, {
-      "articleLength" : 5492,
-      "articlePartsSize" : 24,
-      "articleWordCount" : 716,
-      "id" : "7syGvv13",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/a/5/5947557/CORONA-KUNDGEBUNG-DER-FP_1615119048115932_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Festnahmen, Anzeigen und Schlagabtausch zwischen Nehammer und FPÖ nach Demos in Wien",
-      "titleTarget" : "Arestări, rapoarte și schimburi de lovituri între Nehammer și FPÖ după demonstrații de la Viena",
-      "url" : "https://www.diepresse.com/5947557/AntiCorona_Festnahmen-Anzeigen-und-Schlagabtausch-zwischen?from=rss"
-    }, {
       "articleLength" : 852,
       "articlePartsSize" : 4,
       "articleWordCount" : 120,
-      "id" : "1rc3lyt5",
+      "id" : "VaY84h1z",
       "imgUrl" : "https://image.kurier.at/images/original/4923142/46-174213631.jpg",
       "publisher" : "kurier.at",
       "titleSource" : "100 Kinder feierten mit Pizza, Polizisten verteilten Masken",
       "titleTarget" : "100 de copii au sărbătorit cu pizza, polițiștii au împărțit măști",
       "url" : "https://kurier.at/chronik/oesterreich/100-kinder-feierten-mit-pizza-polizisten-verteilten-masken/401210404"
     }, {
-      "articleLength" : 5492,
-      "articlePartsSize" : 24,
-      "articleWordCount" : 716,
-      "id" : "c6Pxjs4f",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/a/5/5947557/CORONA-KUNDGEBUNG-DER-FP_1615119048115932_v0_l.jpg",
+      "articleLength" : 1740,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 245,
+      "id" : "avtZCcD2",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/7/c/5947516/Retailers-open-after-third-national-lockdown-was-loosened-in-Austria_1615108141424432_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Demos in Wien: 42 Festnahmen, 3000 Anzeigen und Schlagabtausch zwischen Nehammer und FPÖ",
-      "titleTarget" : "Demonstrații la Viena: 42 de arestări, 3.000 de plângeri și un schimb de lovituri între Nehammer și FPÖ",
-      "url" : "https://www.diepresse.com/5947557/AntiCorona_Demos-in-Wien_42-Festnahmen-3000-Anzeigen-und?from=rss"
+      "titleSource" : "Zweiter Sonntag in diesem Jahr mit über 2000 Neuinfektionen in Österreich",
+      "titleTarget" : "A doua duminică a acestui an, cu peste 2000 de noi infecții în Austria",
+      "url" : "https://www.diepresse.com/5947516/Covid19_Zweiter-Sonntag-in-diesem-Jahr-mit-ueber-2000?from=rss"
     } ]
   }, {
     "category" : "CULTURE",
@@ -178,7 +209,7 @@
       "articleLength" : 1176,
       "articlePartsSize" : 5,
       "articleWordCount" : 183,
-      "id" : "zIetOs9r",
+      "id" : "FQoEs2xY",
       "imgUrl" : "https://image.kurier.at/images/original/4985749/orf_noberbuch_20210307100243.jpg",
       "publisher" : "kurier.at",
       "titleSource" : "Er folgt auf Ribarski: Martin Gruber wird neuer \"Soko Donau\"-Cop",
@@ -195,37 +226,57 @@
       "titleTarget" : "Aceștia sunt nominalizați pentru ROMY 2021",
       "url" : "https://kurier.at/kultur/das-sind-die-nominierten-fuer-die-romy-2021/401210098"
     }, {
+      "articleLength" : 2325,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 304,
+      "id" : "N8gyOI3h",
+      "imgUrl" : "https://image.kurier.at/images/original/4805610/20201207-ABD0088-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Gratis-Eintritt und Spezial-Führungen: Am Frauentag ins Museum",
+      "titleTarget" : "Intrare gratuită și tururi speciale: la muzeu de Ziua Femeii",
+      "url" : "https://kurier.at/kultur/gratis-eintritt-und-spezial-fuehrungen-am-frauentag-ins-museum/401210551"
+    }, {
+      "articleLength" : 4016,
+      "articlePartsSize" : 18,
+      "articleWordCount" : 623,
+      "id" : "Ely5Vx9C",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Die Musik ist es nicht: Was das Gefühl Festival ausmacht",
+      "titleTarget" : "Nu este muzica: ceea ce face să se simtă un festival",
+      "url" : "https://www.derstandard.at/story/2000124696955/die-musik-ist-es-nicht-was-das-gefuehl-festival-ausmacht?ref=rss"
+    }, {
       "articleLength" : 1463,
       "articlePartsSize" : 7,
       "articleWordCount" : 197,
-      "id" : "yMjxHZGO",
+      "id" : "afOJ7tWs",
       "imgUrl" : "https://image.kurier.at/images/original/4986964/gettyimages-454259166.jpg",
       "publisher" : "kurier.at",
       "titleSource" : "Klingonisch hat jetzt neue Wörter für die Corona-Pandemie",
       "titleTarget" : "Klingonienii au acum cuvinte noi pentru pandemia de coronavirus",
       "url" : "https://kurier.at/kultur/klingonisch-hat-jetzt-neue-woerter-fuer-die-corona-pandemie/401210359"
     }, {
-      "articleLength" : 4016,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 623,
-      "id" : "1iOdXjMy",
+      "articleLength" : 7191,
+      "articlePartsSize" : 32,
+      "articleWordCount" : 1054,
+      "id" : "Y1U61UBm",
       "publisher" : "derstandard.at",
-      "titleSource" : "Die Musik ist es nicht: Was das Gefühl Festival ausmacht",
-      "titleTarget" : "Nu este muzica: ceea ce face să se simtă un festival",
-      "url" : "https://www.derstandard.at/story/2000124696955/die-musik-ist-es-nicht-was-das-gefuehl-festival-ausmacht?ref=rss"
-    }, {
-      "articleLength" : 5188,
-      "articlePartsSize" : 23,
-      "articleWordCount" : 728,
-      "id" : "oVmBS5aW",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Entschleunigung & mehr Teilen: Theaterfestivals nach der Pandemie",
-      "titleTarget" : "Încetinirea și împărtășirea mai mult: festivaluri de teatru după pandemie",
-      "url" : "https://www.derstandard.at/story/2000124718511/entschleunigung-mehr-teilen-theaterfestivals-nach-der-pandemie?ref=rss"
+      "titleSource" : "Vergesst eure Jugend! Warum wir eine neue Erinnerungskultur brauchen",
+      "titleTarget" : "Uită-ți tinerețea! De ce avem nevoie de o nouă cultură a amintirii",
+      "url" : "https://www.derstandard.at/story/2000124703274/vergesst-eure-jugend-warum-wir-eine-neue-erinnerungskultur-brauchen?ref=rss"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
+      "articleLength" : 1090,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 143,
+      "id" : "F2FbbSNv",
+      "imgUrl" : "https://image.kurier.at/images/original/4984483/20210306-ABD0063-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Studie zeigt, Corona-Demos tragen zur Virusverbreitung bei",
+      "titleTarget" : "Studiul arată că demonstrațiile coroanei contribuie la răspândirea virusului",
+      "url" : "https://kurier.at/wissen/gesundheit/studie-zeigt-corona-demos-tragen-zur-virusverbreitung-bei/401210377"
+    }, {
       "articleLength" : 1224,
       "articlePartsSize" : 6,
       "articleWordCount" : 161,
@@ -249,7 +300,7 @@
       "articleLength" : 5915,
       "articlePartsSize" : 28,
       "articleWordCount" : 863,
-      "id" : "u0VS3CtK",
+      "id" : "NMsrEMNW",
       "publisher" : "derstandard.at",
       "titleSource" : "Wie sich die Corona-Pandemie auf unsere Albträume auswirkt",
       "titleTarget" : "Cum ne afectează pandemia de coroană coșmarurile noastre",
@@ -258,6 +309,36 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "articleLength" : 2434,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 364,
+      "id" : "o8Ej1p1v",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/f/b/5947643/00E15683-193E-49A1-B6E4-6662AE9B02AA_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "0:0 im Derby: Austrias Chancen auf Top sechs schwinden",
+      "titleTarget" : "0-0 în derby: șansele Austriei în top șase scad",
+      "url" : "https://www.diepresse.com/5947643/Bundesliga_0_0-im-Derby_Austrias-Chancen-auf-Top-sechs-schwinden?from=rss"
+    }, {
+      "articleLength" : 2068,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 325,
+      "id" : "efB7fqO4",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/e/0/5947616/ED330F00-E3BA-414D-A5F2-F25E62CEDB6D_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Trainereffekt im Lavanttal",
+      "titleTarget" : "Efect de antrenor în Lavanttal",
+      "url" : "https://www.diepresse.com/5947616/Bundesliga_Trainereffekt-im-Lavanttal?from=rss"
+    }, {
+      "articleLength" : 2706,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 388,
+      "id" : "PVGo1eql",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/d/8/5947608/93265119-42A8-44F4-818D-2C254658DD3B_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "ÖLV zog zufriedenes EM-Fazit, aber: \"Müssen bei Hallen aufholen!\"",
+      "titleTarget" : "ÖLV a tras o concluzie EM mulțumită, dar: „Trebuie să ajungem din urmă cu sălile!”",
+      "url" : "https://www.diepresse.com/5947608/OeLV-zog-zufriedenes-EMFazit-aber_Muessen-bei-Hallen-aufholen?from=rss"
+    }, {
       "articleLength" : 1921,
       "articlePartsSize" : 9,
       "articleWordCount" : 281,
@@ -268,63 +349,33 @@
       "titleTarget" : "Semn rapid Robert Ljubicic de la SKN St. Pölten",
       "url" : "https://kurier.at/sport/fussball/rapid-steht-vor-der-verpflichtung-von-robert-ljubicic-vom-skn/401210512"
     }, {
-      "articleLength" : 2940,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 458,
-      "id" : "jhNCiSi7",
-      "imgUrl" : "https://image.kurier.at/images/original/4986025/46-176171030.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "ÖSV-Jungstar Lamparter nach WM-Gala: \"Hätte ihm eine runtergehaut\"",
-      "titleTarget" : "Tânăra vedetă ÖSV Lamparter după gala Cupei Mondiale: „L-ar fi dat jos”",
-      "url" : "https://kurier.at/sport/wintersport/oesv-jungstar-johannes-lamparter-nach-wm-gala-haette-ihm-eine-runtergehaut/401210494"
-    }, {
       "articleLength" : 1683,
       "articlePartsSize" : 9,
       "articleWordCount" : 236,
-      "id" : "fpLRkB6F",
+      "id" : "aFXvlTQ8",
       "publisher" : "derstandard.at",
       "titleSource" : "LASK startet im Frauenfußball durch",
       "titleTarget" : "LASK decolează în fotbalul feminin",
       "url" : "https://www.derstandard.at/story/2000124735505/lask-startet-im-frauenfussball-durch?ref=rss"
     }, {
+      "articleLength" : 3093,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 464,
+      "id" : "7KyMVJH0",
+      "imgUrl" : "https://image.kurier.at/images/original/4985773/46-176219320.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "WM-Jubel der ÖSV-Adler: \"Bin nervlich fast draufgegangen\"",
+      "titleTarget" : "Jubilarea Cupei Mondiale a vulturului ÖSV: „Aproape că am murit pe nervi”",
+      "url" : "https://kurier.at/sport/wintersport/nordische-wm-jubel-der-oesv-adler-kraft-und-co-bin-nervlich-fast-draufgegangen/401210392"
+    }, {
       "articleLength" : 2716,
       "articlePartsSize" : 12,
       "articleWordCount" : 414,
-      "id" : "LmSTsK7e",
+      "id" : "aEJWVlkC",
       "publisher" : "derstandard.at",
       "titleSource" : "Dortmunder Frust über den Schiedsrichter: \"Keine Eier\"",
       "titleTarget" : "Frustrația de la Dortmund față de arbitru: „Fără ouă”",
       "url" : "https://www.derstandard.at/story/2000124731866/dortmunder-frust-ueber-den-schiedsrichter-keine-eier?ref=rss"
-    }, {
-      "articleLength" : 3715,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 560,
-      "id" : "c7hvsPu7",
-      "imgUrl" : "https://image.kurier.at/images/original/4986913/46-176237690.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Wiener Derby live: So steht es bei der Austria gegen Rapid",
-      "titleTarget" : "Vienna Derby live: Așa este în Austria împotriva Rapidului",
-      "url" : "https://kurier.at/sport/fussball/bundesliga-live-spielstand-so-steht-es-im-wiener-derby-austria-gegen-rapid/401210365"
-    }, {
-      "articleLength" : 2068,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 325,
-      "id" : "1rpMKthh",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/e/0/5947616/ED330F00-E3BA-414D-A5F2-F25E62CEDB6D_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Trainereffekt im Lavanttal",
-      "titleTarget" : "Efect de antrenor în Lavanttal",
-      "url" : "https://www.diepresse.com/5947616/Bundesliga_Trainereffekt-im-Lavanttal?from=rss"
-    }, {
-      "articleLength" : 2706,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 388,
-      "id" : "1cY7Qlo6",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/d/8/5947608/93265119-42A8-44F4-818D-2C254658DD3B_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "ÖLV zog zufriedenes EM-Fazit, aber: \"Müssen bei Hallen aufholen!\"",
-      "titleTarget" : "ÖLV a tras o concluzie EM mulțumită, dar: „Trebuie să ajungem din urmă cu sălile!”",
-      "url" : "https://www.diepresse.com/5947608/OeLV-zog-zufriedenes-EMFazit-aber_Muessen-bei-Hallen-aufholen?from=rss"
     } ]
   } ],
   "country" : "austria",
