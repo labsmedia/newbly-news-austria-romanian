@@ -12,6 +12,26 @@
       "titleTarget" : "Inițiativa „Curaj” face apel la cancelarul fără inimă",
       "url" : "https://kurier.at/politik/inland/fluechtlinge-initiative-courage-affichiert-herzlosen-kanzler/401212621"
     }, {
+      "articleLength" : 1262,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 177,
+      "id" : "oiylzkV3",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/a/a/5948586/FDE3C808-31E5-4F42-8415-FAC91FB81888_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Initiative \"Courage\" affichiert herzlosen Kanzler Kurz",
+      "titleTarget" : "Inițiativa „Curaj” îl afectează pe cancelarul Kurz, fără inimă",
+      "url" : "https://www.diepresse.com/5948586/Fluechtlingspolitik_Initiative-Courage-affichiert-herzlosen?from=rss"
+    }, {
+      "articleLength" : 5494,
+      "articlePartsSize" : 23,
+      "articleWordCount" : 726,
+      "id" : "85Igkld2",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/a/5/5948581/AD705067-6620-4E08-9C7C-F0A46E613887_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Experten setzen auf PCR-Selbsttest für normalen Schulbetrieb",
+      "titleTarget" : "Experții se bazează pe auto-teste PCR pentru operațiuni școlare normale",
+      "url" : "https://www.diepresse.com/5948581/Nachweis_Experten-setzen-auf-PCRSelbsttest-fuer-normalen-Schulbetrieb?from=rss"
+    }, {
       "articleLength" : 953,
       "articlePartsSize" : 4,
       "articleWordCount" : 124,
@@ -22,71 +42,52 @@
       "titleTarget" : "Pe scurt despre numărul de infecții: creșterea era de așteptat",
       "url" : "https://kurier.at/politik/inland/kurz-zu-infektionszahlen-anstieg-erwartbar/401212036"
     }, {
-      "articleLength" : 1262,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 177,
-      "id" : "4mpmGk4y",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/a/a/5948586/FDE3C808-31E5-4F42-8415-FAC91FB81888_v0_l.jpg",
+      "articleLength" : 3173,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 436,
+      "id" : "B2fq2pGN",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/9/c/5948828/2444E311-FA09-41C1-8DAF-05E20CEC4D2E_v0_h.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Initiative \"Courage\" affichiert herzlosen Kanzler Kurz",
-      "titleTarget" : "Inițiativa „Curaj” îl afectează pe cancelarul Kurz, fără inimă",
-      "url" : "https://www.diepresse.com/5948586/Fluechtlingspolitik_Initiative-Courage-affichiert-herzlosen?from=rss"
+      "titleSource" : "Ibiza-Detektiv: \"Übergabe findet heute statt\"",
+      "titleTarget" : "Detectiv din Ibiza: „Transmiterea are loc astăzi”",
+      "url" : "https://www.diepresse.com/5948828/IbizaDetektiv_Uebergabe-findet-heute-statt?from=rss"
     }, {
       "articleLength" : 8999,
       "articlePartsSize" : 39,
       "articleWordCount" : 1353,
-      "id" : "N4Ph1sSm",
+      "id" : "bKwLne0v",
       "publisher" : "derstandard.at",
       "titleSource" : "SMS von Kanzler Kurz an Vizekanzler Strache: \"Verkauf mich nicht für deppert!\"",
       "titleTarget" : "SMS de la cancelarul Kurz către vicecancelul Strache: „Nu mă vinde pentru prost!”",
       "url" : "https://www.derstandard.at/story/2000124779963/kanzler-kurz-an-vizekanzler-strache-verkauf-mich-nicht-fuer-deppert?ref=rss"
     }, {
-      "articleLength" : 5494,
-      "articlePartsSize" : 23,
-      "articleWordCount" : 726,
-      "id" : "yak1Kc7n",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/a/5/5948581/AD705067-6620-4E08-9C7C-F0A46E613887_v0_l.jpg",
+      "articleLength" : 2170,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 275,
+      "id" : "Cqucpcdq",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/a/1/5948321/83AFACC0-C154-476B-B7A1-9CE502A72C11_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Experten setzen auf PCR-Selbsttest für normalen Schulbetrieb",
-      "titleTarget" : "Experții se bazează pe auto-teste PCR pentru operațiuni școlare normale",
-      "url" : "https://www.diepresse.com/5948581/Nachweis_Experten-setzen-auf-PCRSelbsttest-fuer-normalen-Schulbetrieb?from=rss"
-    }, {
-      "articleLength" : 3837,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 538,
-      "id" : "emVUxmys",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/8/8/5948552/62ABBC8E-6208-4AC0-A3BB-0AA39FD09ECF_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "\"Ein Horror\": SMS von Kurz und Strache im U-Ausschuss eingelangt",
-      "titleTarget" : "„O groază”: SMS-urile de la Kurz și Strache au ajuns în U-Committee",
-      "url" : "https://www.diepresse.com/5948552/Ibiza-und-Gluecksspiel_Ein-Horror_SMS-von-Kurz-und-Strache-im?from=rss"
-    }, {
-      "articleLength" : 2834,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 384,
-      "id" : "h3JBhNnf",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Kickl würde Neonazi Küssel \"nicht erkennen\" und wirft Polizei Willkür vor",
-      "titleTarget" : "Kickl „nu recunoaște” Küssel neo-nazist și acuză poliția de arbitrar",
-      "url" : "https://www.derstandard.at/story/2000124782786/kickl-wuerde-neonazi-kuessel-nicht-erkennen-und-wirft-polizei-willkuer?ref=rss"
+      "titleSource" : "33 Millionen Euro: SPÖ kritisiert aufgeblähten Regierungs-Apparat",
+      "titleTarget" : "33 milioane de euro: SPÖ critică aparatul guvernamental umflat",
+      "url" : "https://www.diepresse.com/5948321/Personalkosten_33-Millionen-Euro_SPOe-kritisiert-aufgeblaehten?from=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 9137,
-      "articlePartsSize" : 40,
-      "articleWordCount" : 1179,
-      "id" : "aD4byPtA",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/4/4/9/5948489/A1DED905-43F1-4BD8-935C-580B5F23D35C_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Hygiene Austria: Leihfirma bezog Kurzarbeitsgeld",
-      "titleTarget" : "Hygiene Austria: compania de închiriere a primit o indemnizație de scurtă durată",
-      "url" : "https://www.diepresse.com/5948489/Affaere_Hygiene-Austria_Leihfirma-bezog-Kurzarbeitsgeld?from=rss"
+      "articleLength" : 2138,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 292,
+      "id" : "RmZLOMQB",
+      "imgUrl" : "https://image.kurier.at/images/original/4990048/20210309-ABD0060-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Knapp 480.000 ohne Job, fast 487.000 in Kurzarbeit",
+      "titleTarget" : "Aproape 480.000 fără loc de muncă, aproape 487.000 pentru muncă pe perioadă scurtă",
+      "url" : "https://kurier.at/wirtschaft/knapp-480000-ohne-job-fast-487000-in-kurzarbeit/401212444"
     }, {
       "articleLength" : 2204,
       "articlePartsSize" : 9,
       "articleWordCount" : 309,
-      "id" : "VE8kwYba",
+      "id" : "S11CoTez",
       "imgUrl" : "https://media.diepresse.com/images/uploads/4/5/a/5948506/6DBAC237-A344-4006-B337-9264A563AC6B_v0_l.jpg",
       "publisher" : "diepresse.com",
       "titleSource" : "Betten Reiter investiert Millionen in neue Filialen",
@@ -96,83 +97,54 @@
       "articleLength" : 6065,
       "articlePartsSize" : 27,
       "articleWordCount" : 846,
-      "id" : "DqZdiU2R",
+      "id" : "gSnKemfI",
       "publisher" : "derstandard.at",
       "titleSource" : "Fachkräftemangel trotz Rekordarbeitslosigkeit – kann das sein?",
       "titleTarget" : "Lipsa forței de muncă calificate în ciuda șomajului record - poate fi asta?",
       "url" : "https://www.derstandard.at/story/2000124766211/fachkraeftemangel-trotz-rekordarbeitslosigkeit-kann-das-sein?ref=rss"
     }, {
-      "articleLength" : 1989,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 280,
-      "id" : "fcsvbq8d",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Fondsbranche verwaltet erstmals mehr als 200 Milliarden Euro",
-      "titleTarget" : "Industria fondurilor gestionează pentru prima dată peste 200 de miliarde de euro",
-      "url" : "https://www.diepresse.com/5948557/Veranlagung_Fondsbranche-verwaltet-erstmals-mehr-als-200?from=rss"
-    }, {
-      "articleLength" : 1912,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 245,
-      "id" : "nr2svqR0",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Frühjahrslohnrunde: \"Ein Danke wird nicht reichen\"",
-      "titleTarget" : "Runda salariului de primăvară: „Un singur mulțumesc nu va fi suficient”",
-      "url" : "https://www.diepresse.com/5948604/Kollektivvertragsverhandlungen_Fruehjahrslohnrunde_Ein-Danke?from=rss"
-    }, {
-      "articleLength" : 2138,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 292,
-      "id" : "z3PZfRKM",
-      "imgUrl" : "https://image.kurier.at/images/original/4990048/20210309-ABD0060-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Knapp 480.000 ohne Job, fast 487.000 in Kurzarbeit",
-      "titleTarget" : "Aproape 480.000 fără loc de muncă, aproape 487.000 pentru muncă pe perioadă scurtă",
-      "url" : "https://kurier.at/wirtschaft/knapp-480000-ohne-job-fast-487000-in-kurzarbeit/401212444"
-    }, {
       "articleLength" : 2809,
       "articlePartsSize" : 13,
       "articleWordCount" : 387,
-      "id" : "7mYjM8Ya",
+      "id" : "SayyaTk2",
       "imgUrl" : "https://media.diepresse.com/images/uploads/4/3/a/5948474/00D3F02E-130F-454E-A42B-6939230A8FB4_v0_l.jpg",
       "publisher" : "diepresse.com",
       "titleSource" : "Arbeiterkammer fordert Strategie für die Zeit nach Corona",
       "titleTarget" : "Camera Muncii solicită o strategie pentru perioada de după Corona",
       "url" : "https://www.diepresse.com/5948474/GerechtigkeitsCheck_Arbeiterkammer-fordert-Strategie-fuer-die-Zeit?from=rss"
+    }, {
+      "articleLength" : 1912,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 245,
+      "id" : "C3O7nWeF",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Frühjahrslohnrunde: \"Ein Danke wird nicht reichen\"",
+      "titleTarget" : "Runda salariului de primăvară: „Un singur mulțumesc nu va fi suficient”",
+      "url" : "https://www.diepresse.com/5948604/Kollektivvertragsverhandlungen_Fruehjahrslohnrunde_Ein-Danke?from=rss"
+    }, {
+      "articleLength" : 2870,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 397,
+      "id" : "DV0I6pAG",
+      "imgUrl" : "https://image.kurier.at/images/original/4867410/20210112-ABD0081-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Österreich hätte mehr Moderna-Dosen bestellen können",
+      "titleTarget" : "Austria ar fi putut comanda mai multe cutii Moderna",
+      "url" : "https://kurier.at/wirtschaft/oesterreich-haette-mehr-moderna-dosen-bestellen-koennen/401212111"
+    }, {
+      "articleLength" : 602,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 82,
+      "id" : "4fIFizrm",
+      "imgUrl" : "https://image.kurier.at/images/original/4285403/20200430-ABD0015-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Tesla verliert innerhalb eines Monats 244 Mrd. Dollar an Börsenwert",
+      "titleTarget" : "Tesla pierde valoarea de piață de 244 miliarde de dolari într-o lună",
+      "url" : "https://kurier.at/wirtschaft/tesla-verliert-innerhalb-eines-monats-244-mrd-dollar-an-boersenwert/401212090"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 1289,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 177,
-      "id" : "YgAptMdc",
-      "imgUrl" : "https://image.kurier.at/images/original/4986856/46-176221280.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Corona-Demonstrationen verschlangen mehrere Millionen Euro",
-      "titleTarget" : "Demonstrațiile Corona au devorat câteva milioane de euro",
-      "url" : "https://kurier.at/chronik/oesterreich/corona-demonstrationen-kosten-von-ueber-5-millionen-euro/401212594"
-    }, {
-      "articleLength" : 2881,
-      "articlePartsSize" : 14,
-      "articleWordCount" : 389,
-      "id" : "prDmjrYU",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/5/5948725/42AA639C-083A-44C4-8669-CE80BA001FE2_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Wr. Neustadt weitet Testkapazitäten ab Freitag massiv aus",
-      "titleTarget" : "Wr. Neustadt va extinde masiv capacitățile de testare de vineri",
-      "url" : "https://www.diepresse.com/5948725/Ausreisetests_Wr-Neustadt-weitet-Testkapazitaeten-ab-Freitag?from=rss"
-    }, {
-      "articleLength" : 6141,
-      "articlePartsSize" : 28,
-      "articleWordCount" : 815,
-      "id" : "pZIwVgTu",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/4/c/5948236/12CAD642-7E70-4284-BD50-6A685E14F8C4_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Schwierige Öffnungsgespräche zwischen Vorarlberg und dem Bund",
-      "titleTarget" : "Discuții dificile de deschidere între Vorarlberg și guvernul federal",
-      "url" : "https://www.diepresse.com/5948236/Verhandlungen_Schwierige-Oeffnungsgespraeche-zwischen-Vorarlberg?from=rss"
-    }, {
       "articleLength" : 2194,
       "articlePartsSize" : 10,
       "articleWordCount" : 308,
@@ -183,47 +155,69 @@
       "titleTarget" : "Conexiune neclară: o altă asistentă medicală după vaccinarea Astra-Zeneca în spital",
       "url" : "https://kurier.at/chronik/oesterreich/weitere-krankenschwester-nach-astra-zeneca-impfung-im-spital/401212696"
     }, {
-      "articleLength" : 3883,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 547,
-      "id" : "i40KmEqI",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Die Wiener zieht es wieder an den Donaukanal",
-      "titleTarget" : "Vienezii sunt atrași din nou de Canalul Dunării",
-      "url" : "https://www.derstandard.at/story/2000124767420/die-wiener-zieht-es-wieder-an-den-donaukanal?ref=rss"
+      "articleLength" : 1289,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 177,
+      "id" : "YgAptMdc",
+      "imgUrl" : "https://image.kurier.at/images/original/4986856/46-176221280.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Corona-Demonstrationen verschlangen mehrere Millionen Euro",
+      "titleTarget" : "Demonstrațiile Corona au devorat câteva milioane de euro",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-demonstrationen-kosten-von-ueber-5-millionen-euro/401212594"
     }, {
-      "articleLength" : 5656,
-      "articlePartsSize" : 26,
-      "articleWordCount" : 831,
-      "id" : "e77hAMPr",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Wie das Körpergefühl von Jugendlichen in der Pandemie leidet",
-      "titleTarget" : "Cum suferă corpul tinerilor în timpul pandemiei",
-      "url" : "https://www.derstandard.at/story/2000124683041/wie-das-koerpergefuehl-von-jugendlichen-in-der-pandemie-leidet?ref=rss"
+      "articleLength" : 1276,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 168,
+      "id" : "VCwp3Y81",
+      "imgUrl" : "https://image.kurier.at/images/original/3389608/46-66482862.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Corona-Demo: Polizeigewerkschaft kritisiert Herbert Kickl heftig",
+      "titleTarget" : "Demonstrație Corona: Sindicatul poliției îl critică puternic pe Herbert Kickl",
+      "url" : "https://kurier.at/chronik/oesterreich/corona-demo-polizeigewerkschaft-kritisiert-herbert-kickl-heftig/401212288"
     }, {
-      "articleLength" : 2007,
+      "articleLength" : 1862,
       "articlePartsSize" : 9,
-      "articleWordCount" : 272,
-      "id" : "xhosfyM2",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/6/a/5948266/49902286-0106-4367-8C7D-D478DA4D6441_v0_l.jpg",
+      "articleWordCount" : 251,
+      "id" : "s1FBc1QR",
+      "imgUrl" : "https://image.kurier.at/images/original/4989952/46-176107581.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Vorarlberg öffnet ab 15. März Gastronomie, Kultur und Sport",
+      "titleTarget" : "Din 15 martie, Vorarlberg deschide gastronomie, cultură și sport",
+      "url" : "https://kurier.at/chronik/oesterreich/vorarlberg-informiert-ueber-oeffnungsschritte/401213173"
+    }, {
+      "articleLength" : 3208,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 437,
+      "id" : "WHTuWp0f",
+      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "publisher" : "kurier.at",
+      "titleSource" : "2.411 neue Corona-Infektionen in Österreich",
+      "titleTarget" : "2.411 noi infecții coronare în Austria",
+      "url" : "https://kurier.at/chronik/oesterreich/2411-neue-corona-infektionen-in-oesterreich/401212063"
+    }, {
+      "articleLength" : 3145,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 479,
+      "id" : "Lko6nyxP",
+      "imgUrl" : "https://image.kurier.at/images/original/4990771/46-176248227.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "\"Hilf' mir, er ist hier\": Frau mit sechs Schüssen getötet",
+      "titleTarget" : "„Ajută-mă, este aici”: femeie ucisă cu șase focuri",
+      "url" : "https://kurier.at/chronik/oesterreich/frau-mit-sechs-schuessen-getoetet-ex-freund-angeklagt/401212852"
+    }, {
+      "articleLength" : 2881,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 389,
+      "id" : "oK9GgQXb",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/5/5948725/42AA639C-083A-44C4-8669-CE80BA001FE2_v0_h.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Neue Regeln für Ausreise aus Radstadt und Bad Hofgastein",
-      "titleTarget" : "Noi reguli pentru plecarea din Radstadt și Bad Hofgastein",
-      "url" : "https://www.diepresse.com/5948266/Corona_Neue-Regeln-fuer-Ausreise-aus-Radstadt-und-Bad-Hofgastein?from=rss"
+      "titleSource" : "Wr. Neustadt weitet Testkapazitäten ab Freitag massiv aus",
+      "titleTarget" : "Wr. Neustadt va extinde masiv capacitățile de testare de vineri",
+      "url" : "https://www.diepresse.com/5948725/Ausreisetests_Wr-Neustadt-weitet-Testkapazitaeten-ab-Freitag?from=rss"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleLength" : 1959,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 271,
-      "id" : "R62NpXNJ",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/9/d/5948573/Was-gibt-es-Neues_1615291837997434_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Viktor Gernot präsentiert Freiluftbühne für Kabarett",
-      "titleTarget" : "Viktor Gernot prezintă o scenă în aer liber pentru cabaret",
-      "url" : "https://www.diepresse.com/5948573/Praterbuehne_Viktor-Gernot-praesentiert-Freiluftbuehne-fuer-Kabarett?from=rss"
-    }, {
       "articleLength" : 2819,
       "articlePartsSize" : 14,
       "articleWordCount" : 393,
@@ -234,29 +228,30 @@
       "titleTarget" : "Armin Wolf în „ZiB 2”: „Au fost incluși bărbații”",
       "url" : "https://kurier.at/kultur/medien/armin-wolf-in-zib-2-maenner-waren-mitgemeint/401212399"
     }, {
-      "articleLength" : 1828,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 274,
-      "id" : "oE7pZyy1",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/3/9/2/5948306/Best-Documentary-Feature-winners-Leon-Gast-L-and-David-Sonenberg-R-stand-with-former-heavyweight_1615267791072329_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "US-Filmemacher Leon Gast gestorben",
-      "titleTarget" : "Cineastul american Leon Gast a murit",
-      "url" : "https://www.diepresse.com/5948306/85-Jahre_USFilmemacher-Leon-Gast-gestorben?from=rss"
+      "articleLength" : 1142,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 157,
+      "id" : "PyBhv07x",
+      "imgUrl" : "https://image.kurier.at/images/original/4989691/46-174028928.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Das Ende der Clubkultur naht",
+      "titleTarget" : "Se apropie sfârșitul culturii clubului",
+      "url" : "https://kurier.at/kultur/das-ende-der-clubkultur-naht/401212213"
     }, {
-      "articleLength" : 1603,
+      "articleLength" : 1959,
       "articlePartsSize" : 9,
-      "articleWordCount" : 214,
-      "id" : "HyZIAIWz",
+      "articleWordCount" : 271,
+      "id" : "zN6RpJn5",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/4/9/d/5948573/Was-gibt-es-Neues_1615291837997434_v0_h.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Zum Tod von Dmitri Bashkirov: pianistischer Meister brisanter Rhythmen",
-      "titleTarget" : "La moartea lui Dmitri Bashkirov: maestru pianist al ritmurilor explozive",
-      "url" : "https://www.diepresse.com/5948815/Nachruf_Zum-Tod-von-Dmitri-Bashkirov_pianistischer-Meister?from=rss"
+      "titleSource" : "Viktor Gernot präsentiert Freiluftbühne für Kabarett",
+      "titleTarget" : "Viktor Gernot prezintă o scenă în aer liber pentru cabaret",
+      "url" : "https://www.diepresse.com/5948573/Praterbuehne_Viktor-Gernot-praesentiert-Freiluftbuehne-fuer-Kabarett?from=rss"
     }, {
       "articleLength" : 952,
       "articlePartsSize" : 5,
       "articleWordCount" : 135,
-      "id" : "stwlO5KW",
+      "id" : "C1K5Cmv9",
       "publisher" : "derstandard.at",
       "titleSource" : "Herzloser Sebastian Kurz: Karikatur kritisiert Flüchtlingspolitik",
       "titleTarget" : "Inimicul Sebastian Kurz: desen animat critică politica refugiaților",
@@ -265,7 +260,7 @@
       "articleLength" : 4206,
       "articlePartsSize" : 18,
       "articleWordCount" : 586,
-      "id" : "usd5SMi8",
+      "id" : "84xi35dY",
       "imgUrl" : "https://image.kurier.at/images/original/4990432/46-163074700.jpg",
       "publisher" : "kurier.at",
       "titleSource" : "Presserat: Satire über Nadja Bernhards Brille \"nicht sexistisch\"",
@@ -281,14 +276,34 @@
       "titleSource" : "Oprah-Interview: Top-Quoten für Meghan und Harry",
       "titleTarget" : "Interviul Oprah: cele mai bune ratinguri pentru Meghan și Harry",
       "url" : "https://kurier.at/kultur/medien/oprah-interview-top-quoten-fuer-meghan-und-harry/401212438"
+    }, {
+      "articleLength" : 1900,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 270,
+      "id" : "mVdapqON",
+      "imgUrl" : "https://image.kurier.at/images/original/4991125/46-149283017.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Protestbrief von 1.500 Kulturschaffenden - und Protestaktion",
+      "titleTarget" : "Scrisoare de protest de la 1.500 de lucrători culturali - și acțiune de protest",
+      "url" : "https://kurier.at/kultur/protestbrief-von-1500-kulturschaffenden-und-protestaktion/401213035"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
+      "articleLength" : 1737,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 231,
+      "id" : "fZOsWams",
+      "imgUrl" : "https://image.kurier.at/images/original/4131384/46-144518345.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Erhöht starker Pollenflug das Risiko für Corona-Infektion?",
+      "titleTarget" : "Numărul mare de polen crește riscul infecției cu coroană?",
+      "url" : "https://kurier.at/wissen/gesundheit/erhoeht-starker-pollenflug-das-risiko-fuer-corona-infektion/401212129"
+    }, {
       "articleLength" : 5278,
       "articlePartsSize" : 23,
       "articleWordCount" : 701,
-      "id" : "YB1H6gs1",
+      "id" : "tNwF9l1X",
       "imgUrl" : "https://image.kurier.at/images/original/4734156/46-168062770.jpg",
       "publisher" : "kurier.at",
       "titleSource" : "So könnte ein normaler Schulbetrieb ermöglicht werden",
@@ -308,15 +323,54 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "articleLength" : 1586,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 244,
+      "id" : "n4piZHog",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/d/2/5948882/159F1BEC-8857-4A6B-B902-20833F7D1207_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Haaland schießt Dortmund ins Viertelfinale",
+      "titleTarget" : "Haaland îl împușcă pe Dortmund în sferturile de finală",
+      "url" : "https://www.diepresse.com/5948882/Champions-League_Haaland-schiesst-Dortmund-ins-Viertelfinale?from=rss"
+    }, {
       "articleLength" : 3950,
       "articlePartsSize" : 17,
       "articleWordCount" : 594,
-      "id" : "bosj0ibj",
+      "id" : "XUhdAgYA",
       "imgUrl" : "https://image.kurier.at/images/original/4989946/46-176270612.jpg",
       "publisher" : "kurier.at",
       "titleSource" : "Löw tritt nach EM als DFB-Coach zurück: Klopp als Nachfolger?",
       "titleTarget" : "Löw demisionează ca antrenor DFB după EM: Klopp ca succesor?",
       "url" : "https://kurier.at/sport/fussball/vorzeitiges-aus-jogi-loew-tritt-nach-em-als-dfb-coach-zurueck/401212390"
+    }, {
+      "articleLength" : 656,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 100,
+      "id" : "zGUURY4L",
+      "imgUrl" : "https://image.kurier.at/images/original/4989742/46-174035044.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Video: Ski-Talent raste in der Badehose über die Streif",
+      "titleTarget" : "Video: Talentul la schi a străbătut Streiful în trunchiuri de înot",
+      "url" : "https://kurier.at/sport/wintersport/video-ski-talent-nicolas-hofer-raste-in-der-badehose-ueber-die-streif/401212297"
+    }, {
+      "articleLength" : 5181,
+      "articlePartsSize" : 23,
+      "articleWordCount" : 806,
+      "id" : "NH6Fa8p6",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Julia am Laaer Berg, Julia in Texas: Skateboarden geht immer und überall",
+      "titleTarget" : "Julia am Laaer Berg, Julia în Texas: Skateboard-ul este întotdeauna și peste tot",
+      "url" : "https://www.derstandard.at/story/2000124719914/julia-am-laaer-berg-julia-in-texas-skateboarden-geht-immer?ref=rss"
+    }, {
+      "articleLength" : 1838,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 269,
+      "id" : "9l674s9w",
+      "imgUrl" : "https://image.kurier.at/images/original/4187027/46-90999678.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Der Wiener Verband pfeift auf die Wünsche der Klubs",
+      "titleTarget" : "Scrisoare către asociație: cluburile vieneze își doresc nou-veniți",
+      "url" : "https://kurier.at/sport/fussball/schreiben-an-den-verband-wiener-klubs-wuenschen-sich-aufsteiger/401212681"
     }, {
       "articleLength" : 4866,
       "articlePartsSize" : 20,
@@ -328,16 +382,6 @@
       "titleTarget" : "Fostul star de schi Hirscher: \"Nu există gol după o carieră\"",
       "url" : "https://kurier.at/sport/wintersport/ex-skistar-marcel-hirscher-es-gibt-keine-leere-nach-der-karriere/401212393"
     }, {
-      "articleLength" : 1838,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 269,
-      "id" : "9l674s9w",
-      "imgUrl" : "https://image.kurier.at/images/original/4187027/46-90999678.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Schreiben an den Verband: Wiener Klubs wünschen sich Aufsteiger",
-      "titleTarget" : "Scrisoare către asociație: cluburile vieneze își doresc nou-veniți",
-      "url" : "https://kurier.at/sport/fussball/schreiben-an-den-verband-wiener-klubs-wuenschen-sich-aufsteiger/401212681"
-    }, {
       "articleLength" : 1755,
       "articlePartsSize" : 8,
       "articleWordCount" : 283,
@@ -347,34 +391,6 @@
       "titleSource" : "ServusTV-Experte Hülkenberg: \"Die Saison ist unberechenbar\"",
       "titleTarget" : "Expert ServusTV Hülkenberg: \"Sezonul este imprevizibil\"",
       "url" : "https://kurier.at/sport/motorsport/servustv-experte-huelkenberg-die-saison-ist-unberechenbar/401211583"
-    }, {
-      "articleLength" : 656,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 100,
-      "id" : "X3jJ562Z",
-      "imgUrl" : "https://image.kurier.at/images/original/4989742/46-174035044.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Video: Ski-Talent raste in der Badehose über die Streif",
-      "titleTarget" : "Video: Talentul la schi a străbătut Streiful în trunchiuri de înot",
-      "url" : "https://kurier.at/sport/wintersport/video-ski-talent-nicolas-hofer-raste-in-der-badehose-ueber-die-streif/401212297"
-    }, {
-      "articleLength" : 5181,
-      "articlePartsSize" : 23,
-      "articleWordCount" : 806,
-      "id" : "os6GEf9s",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Julia am Laaer Berg, Julia in Texas: Skateboarden geht immer und überall",
-      "titleTarget" : "Julia am Laaer Berg, Julia în Texas: Skateboard-ul este întotdeauna și peste tot",
-      "url" : "https://www.derstandard.at/story/2000124719914/julia-am-laaer-berg-julia-in-texas-skateboarden-geht-immer?ref=rss"
-    }, {
-      "articleLength" : 2270,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 340,
-      "id" : "tVlElz8q",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Der Schlüssel zum Erfolg: Frontside Double Cork 1080",
-      "titleTarget" : "Cheia succesului: Frontside Double Cork 1080",
-      "url" : "https://www.derstandard.at/story/2000124786021/der-schluessel-zum-erfolg-frontside-double-cork-1080?ref=rss"
     } ]
   } ],
   "country" : "austria",
