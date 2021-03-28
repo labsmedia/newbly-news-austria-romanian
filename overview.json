@@ -2,6 +2,35 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
+      "articleLength" : 3962,
+      "articlePartsSize" : 19,
+      "articleWordCount" : 590,
+      "id" : "0Rb6xOyF",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/2/2/5958178/26205949-D264-4C79-B2B2-F3D1988FB0DE_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "\"Mit mir als Spitzenkandidaten\": Hofer geht von Neuwahl 2022 aus",
+      "titleTarget" : "„Cu mine ca principal candidat”: Hofer se așteaptă la noi alegeri în 2022",
+      "url" : "https://www.diepresse.com/5958178/Koalitionsbruch_Mit-mir-als-Spitzenkandidaten_Hofer-geht-von?from=rss"
+    }, {
+      "articleLength" : 1833,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 249,
+      "id" : "V3jjx1XD",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/1/a/5958170/58ECC51E-5961-4E11-95CB-D0E9F568F210_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Haimbuchner soll Intensivstation verlassen haben",
+      "titleTarget" : "Se spune că Haimbuchner a părăsit unitatea de terapie intensivă",
+      "url" : "https://www.diepresse.com/5958170/Medienbericht_Haimbuchner-soll-Intensivstation-verlassen-haben?from=rss"
+    }, {
+      "articleLength" : 10800,
+      "articlePartsSize" : 47,
+      "articleWordCount" : 1566,
+      "id" : "NvHg3bHc",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Was beim Corona-Management der Regierung schiefläuft – und warum",
+      "titleTarget" : "Ce se întâmplă cu gestionarea coroanei guvernamentale - și de ce",
+      "url" : "https://www.derstandard.at/story/2000125402872/was-beim-corona-management-der-regierung-schieflaeuft-und-warum?ref=rss"
+    }, {
       "articleLength" : 3990,
       "articlePartsSize" : 18,
       "articleWordCount" : 545,
@@ -22,25 +51,6 @@
       "titleTarget" : "Programul de vaccinare pentru al doilea trimestru este: cine îl primește și când",
       "url" : "https://kurier.at/politik/inland/anschober-gibt-impfplan-fuer-2-quartal-bekannt-wer-wann-drankommt/401333919"
     }, {
-      "articleLength" : 1928,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 252,
-      "id" : "I7lPGnrb",
-      "imgUrl" : "https://image.kurier.at/images/original/5932593/46-176580437.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Impfungen sollen schneller gehen: Kocher hebt Arbeitszeitregeln auf",
-      "titleTarget" : "Vaccinările ar trebui să meargă mai repede: Kocher anulează regulile privind timpul de lucru",
-      "url" : "https://kurier.at/politik/inland/impfungen-sollen-schneller-gehen-kocher-hebt-arbeitszeitregeln-auf/401333718"
-    }, {
-      "articleLength" : 10800,
-      "articlePartsSize" : 47,
-      "articleWordCount" : 1566,
-      "id" : "NvHg3bHc",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Was beim Corona-Management der Regierung schiefläuft – und warum",
-      "titleTarget" : "Ce se întâmplă cu gestionarea coroanei guvernamentale - și de ce",
-      "url" : "https://www.derstandard.at/story/2000125402872/was-beim-corona-management-der-regierung-schieflaeuft-und-warum?ref=rss"
-    }, {
       "articleLength" : 7421,
       "articlePartsSize" : 34,
       "articleWordCount" : 998,
@@ -50,25 +60,15 @@
       "titleTarget" : "Demonstrații Corona: Neo-naziștii ies din umbră din nou",
       "url" : "https://www.derstandard.at/story/2000125376601/corona-demos-neonazis-treten-wieder-aus-dem-schatten?ref=rss"
     }, {
-      "articleLength" : 2916,
+      "articleLength" : 2728,
       "articlePartsSize" : 13,
-      "articleWordCount" : 364,
-      "id" : "NwgfyjFf",
-      "imgUrl" : "https://image.kurier.at/images/original/4702230/20201016-ABD0008-1-1.jpg",
+      "articleWordCount" : 345,
+      "id" : "VNHXqkBa",
+      "imgUrl" : "https://image.kurier.at/images/original/5934255/46-168722118.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Infos zu Corona: Neue Video-Kampagne für Migranten",
-      "titleTarget" : "Informații despre Corona: campanie video nouă pentru migranți",
-      "url" : "https://kurier.at/politik/inland/infos-zu-corona-neue-video-kampagne-fuer-migranten/401333382"
-    }, {
-      "articleLength" : 2120,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 263,
-      "id" : "mz6Jl1ex",
-      "imgUrl" : "https://image.kurier.at/images/original/5922750/46-77041858.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Erleichterter Unterhaltsvorschuss bis Ende Juni verlängert",
-      "titleTarget" : "Avans de întreținere ușor prelungit până la sfârșitul lunii iunie",
-      "url" : "https://kurier.at/politik/inland/erleichterter-unterhaltsvorschuss-bis-ende-juni-verlaengert/401333790"
+      "titleSource" : "Regierung will Razzien bei Behörden einschränken",
+      "titleTarget" : "Guvernul vrea să limiteze raidurile asupra autorităților",
+      "url" : "https://kurier.at/politik/inland/regierung-will-razzien-bei-behoerden-einschraenken/401334243"
     } ]
   }, {
     "category" : "ECONOMICS",
@@ -83,55 +83,15 @@
       "titleTarget" : "„ÖsterReis”: cultivarea locală a orezului în Austria crește rapid",
       "url" : "https://kurier.at/wirtschaft/oesterreis-lokaler-reisanbau-in-oesterreich-nimmt-fahrt-auf/401333865"
     }, {
-      "articleLength" : 8814,
-      "articlePartsSize" : 39,
-      "articleWordCount" : 1333,
-      "id" : "ZTeWD2Zg",
-      "imgUrl" : "https://image.kurier.at/images/original/5929530/46-176413074.jpg",
+      "articleLength" : 4990,
+      "articlePartsSize" : 22,
+      "articleWordCount" : 730,
+      "id" : "l6vdYF9N",
+      "imgUrl" : "https://image.kurier.at/images/original/5929455/46-176605407.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Der Finanzmarkt als „Hobby, das fürs Leben bleibt“",
-      "titleTarget" : "Piața financiară ca „hobby care durează pentru viață”",
-      "url" : "https://kurier.at/wirtschaft/karriere/der-finanzmarkt-als-hobby-das-fuers-leben-bleibt/401332560"
-    }, {
-      "articleLength" : 2589,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 383,
-      "id" : "9B5IhN1u",
-      "imgUrl" : "https://image.kurier.at/images/original/5929611/46-101347043.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Es braucht einen „finanziellen Hausverstand“",
-      "titleTarget" : "Este necesar „bunul simț financiar”",
-      "url" : "https://kurier.at/wirtschaft/karriere/es-braucht-einen-finanziellen-hausverstand/401332563"
-    }, {
-      "articleLength" : 5424,
-      "articlePartsSize" : 24,
-      "articleWordCount" : 773,
-      "id" : "2C1gDCuW",
-      "imgUrl" : "https://image.kurier.at/images/original/5925795/46-176596147.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Klassisch oder verspielt: Inspirationen für den Ostertisch",
-      "titleTarget" : "Clasic sau jucăuș: inspirații pentru masa de Paști",
-      "url" : "https://kurier.at/wirtschaft/immobiz/klassisch-oder-verspielt-inspirationen-fuer-den-ostertisch/401332311"
-    }, {
-      "articleLength" : 6311,
-      "articlePartsSize" : 27,
-      "articleWordCount" : 931,
-      "id" : "HuIc02hQ",
-      "imgUrl" : "https://image.kurier.at/images/original/5930427/46-176625307.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Gesundheitsaktien: Eine Auffrischung fürs Portfolio",
-      "titleTarget" : "Stocuri de sănătate: o reîmprospătare pentru portofoliu",
-      "url" : "https://kurier.at/wirtschaft/karriere/gesundheitsaktien-eine-auffrischung-fuers-portfolio/401333130"
-    }, {
-      "articleLength" : 3603,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 504,
-      "id" : "k72lBGRO",
-      "imgUrl" : "https://image.kurier.at/images/original/5924661/46-176559313.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Doppelspitzen in Unternehmen: Wie Chefarbeit zu zweit funktioniert",
-      "titleTarget" : "Dublă conducere în companii: cum funcționează șefii în perechi",
-      "url" : "https://kurier.at/wirtschaft/karriere/doppelspitzen-in-unternehmen-wie-chefarbeit-zu-zweit-funktioniert/401330961"
+      "titleSource" : "Der Traum vom Balkon:  So funktioniert der nachträgliche Anbau",
+      "titleTarget" : "Visul balconului: așa funcționează adaptarea",
+      "url" : "https://kurier.at/wirtschaft/immobiz/der-traum-vom-balkon-so-funktioniert-der-nachtraegliche-anbau/401332614"
     }, {
       "articleLength" : 1947,
       "articlePartsSize" : 10,
@@ -141,10 +101,29 @@
       "titleSource" : "Kocher hebt Arbeitszeitregeln auf, um Impfungen zu beschleunigen",
       "titleTarget" : "Kocher abrogă regulile privind timpul de lucru pentru a accelera vaccinările",
       "url" : "https://www.derstandard.at/story/2000125410759/kocher-hebt-arbeitszeitregeln-auf-um-impfungen-zu-beschleunigen?ref=rss"
+    }, {
+      "articleLength" : 5126,
+      "articlePartsSize" : 24,
+      "articleWordCount" : 720,
+      "id" : "KMrxnMSZ",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Sozialpartner streiten um gleiche Kündigungsfrist für alle",
+      "titleTarget" : "Partenerii sociali susțin aceeași perioadă de preaviz pentru toți",
+      "url" : "https://www.derstandard.at/story/2000125402177/sozialpartner-streiten-um-gleiche-kuendigungsfrist-fuer-alle?ref=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
+      "articleLength" : 2203,
+      "articlePartsSize" : 10,
+      "articleWordCount" : 312,
+      "id" : "wOx8p7KR",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/1/e/5602078/B6F1BA35-7AC1-4736-8701-576E75C6F7F6_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Zeitumstellung: Die Sommerzeit kehrt zurück",
+      "titleTarget" : "Schimbarea orei: revine ora de vară",
+      "url" : "https://www.diepresse.com/5958085/Zeitumstellung_Die-Sommerzeit-kehrt-zurueck?from=rss"
+    }, {
       "articleLength" : 2858,
       "articlePartsSize" : 12,
       "articleWordCount" : 396,
@@ -155,15 +134,24 @@
       "titleTarget" : "Înainte de blocare în Austria de Est: năvăliri în masă în oraș și parcuri",
       "url" : "https://kurier.at/chronik/oesterreich/vor-lockdown-in-ostoesterreich-massenansturm-in-stadt-und-parks/401333961"
     }, {
-      "articleLength" : 2203,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 312,
-      "id" : "wOx8p7KR",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/b/1/e/5602078/B6F1BA35-7AC1-4736-8701-576E75C6F7F6_v0_h.jpg",
+      "articleLength" : 1321,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 197,
+      "id" : "lFzmgMSU",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/a/1/8/5958168/-THEMENBILD--SOMMERZEIT--ZEITUMSTELLUNG_1616913373774553_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Zeitumstellung: Die Sommerzeit kehrt zurück",
-      "titleTarget" : "Schimbarea orei: revine ora de vară",
-      "url" : "https://www.diepresse.com/5958085/Zeitumstellung_Die-Sommerzeit-kehrt-zurueck?from=rss"
+      "titleSource" : "Aufgewacht in der Sommerzeit",
+      "titleTarget" : "M-am trezit vara",
+      "url" : "https://www.diepresse.com/5958168/Zeitumstellung_Aufgewacht-in-der-Sommerzeit?from=rss"
+    }, {
+      "articleLength" : 1461,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 204,
+      "id" : "fyEaudby",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Elf Frachter stecken mit lebenden Tieren wegen Suezkanal-Blockade fest",
+      "titleTarget" : "Unsprezece transportatori sunt blocați cu animale vii din cauza blocadei Canalului Suez",
+      "url" : "https://www.derstandard.at/story/2000125418138/elf-frachter-stecken-mit-lebenden-tieren-wegen-suezkanal-blockade-fest?ref=rss"
     }, {
       "articleLength" : 4491,
       "articlePartsSize" : 20,
@@ -175,34 +163,6 @@
       "titleTarget" : "Aproape 3.500 de noi infecții coronare în Austria",
       "url" : "https://kurier.at/chronik/oesterreich/knapp-3500-corona-neuinfektionen-in-oesterreich/401333754"
     }, {
-      "articleLength" : 2223,
-      "articlePartsSize" : 10,
-      "articleWordCount" : 294,
-      "id" : "DYXRA9vL",
-      "imgUrl" : "https://image.kurier.at/images/original/5932587/46-173507489.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Disziplinarverfahren für Soldat nach Belästigung bei Teststraße",
-      "titleTarget" : "Proceduri disciplinare pentru soldați după hărțuire la Teststrasse",
-      "url" : "https://kurier.at/chronik/oesterreich/disziplinarverfahren-fuer-soldat-nach-belaestigung-bei-teststrasse/401333700"
-    }, {
-      "articleLength" : 28,
-      "articlePartsSize" : 1,
-      "articleWordCount" : 4,
-      "id" : "syqGlvY6",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Mehr als 500 Patienten auf Intensivstation, 3.498 Neuinfektionen",
-      "titleTarget" : "Peste 500 de pacienți aflați în terapie intensivă, 3.498 de infecții noi",
-      "url" : "https://www.derstandard.at/jetzt/livebericht/2000125406364/corona-ampel-kommission-will-ost-massnahmen-auch-im-rest-des?ref=rss"
-    }, {
-      "articleLength" : 4118,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 610,
-      "id" : "EIISDqkV",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Die Zeitumstellung nimmt noch kein Ende",
-      "titleTarget" : "Schimbarea orei nu se termină aici",
-      "url" : "https://www.derstandard.at/story/2000125398118/die-zeitumstellung-nimmt-noch-kein-ende?ref=rss"
-    }, {
       "articleLength" : 712,
       "articlePartsSize" : 3,
       "articleWordCount" : 101,
@@ -212,39 +172,19 @@
       "titleSource" : "Elektroauto geriet gleich mehrmals in Brand",
       "titleTarget" : "Mașina electrică a luat foc de mai multe ori",
       "url" : "https://kurier.at/chronik/oesterreich/elektroauto-geriet-gleich-mehrmals-in-brand/401333862"
+    }, {
+      "articleLength" : 4118,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 610,
+      "id" : "EIISDqkV",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Die Zeitumstellung nimmt noch kein Ende",
+      "titleTarget" : "Schimbarea orei nu se termină aici",
+      "url" : "https://www.derstandard.at/story/2000125398118/die-zeitumstellung-nimmt-noch-kein-ende?ref=rss"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
-      "articleLength" : 1146,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 171,
-      "id" : "kPh1taYX",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/6/e/5957998/maurer_1616837921083117_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Kabarettist Thomas Maurer erzählt vom Corona-Tod seines Vaters",
-      "titleTarget" : "Artistul de cabaret Thomas Maurer povestește despre moartea coroanei tatălui său",
-      "url" : "https://www.diepresse.com/5957998/Kultur_Kabarettist-Thomas-Maurer-erzaehlt-vom-CoronaTod-seines-Vaters?from=rss"
-    }, {
-      "articleLength" : 1410,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 216,
-      "id" : "hI9U0XOJ",
-      "imgUrl" : "https://image.kurier.at/images/original/5929713/46-175326873.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Kriminalrätsel zwischen heißem Wasser und meterhohem Schnee",
-      "titleTarget" : "Puzzle misterios între apă fierbinte și zăpadă de un metru",
-      "url" : "https://kurier.at/kultur/buch/kriminalraetsel-zwischen-heissem-wasser-und-meterhohem-schnee/401332716"
-    }, {
-      "articleLength" : 4494,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 658,
-      "id" : "QZqKYbhB",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Patricia Piccininis hybride Wesen in der Kunsthalle Krems",
-      "titleTarget" : "Creaturile hibride ale Patricia Piccinini în Kunsthalle Krems",
-      "url" : "https://www.derstandard.at/story/2000125397379/patricia-piccininis-hybride-wesen-in-der-kunsthalle-krems?ref=rss"
-    }, {
       "articleLength" : 2543,
       "articlePartsSize" : 11,
       "articleWordCount" : 413,
@@ -255,15 +195,24 @@
       "titleTarget" : "Peter Handke: Alegerea nu funcționează în totalitate fără demoni",
       "url" : "https://kurier.at/kultur/buch/peter-handke-ganz-ohne-daemonen-geht-die-chose-nicht/401334003"
     }, {
-      "articleLength" : 1968,
-      "articlePartsSize" : 9,
-      "articleWordCount" : 302,
-      "id" : "zPcqUUPK",
-      "imgUrl" : "https://image.kurier.at/images/original/5929707/46-145206292.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Christoph Ransmayr: Europa geht den Bach runter",
-      "titleTarget" : "Christoph Ransmayr: Europa coboară",
-      "url" : "https://kurier.at/kultur/buch/christoph-ransmayr-europa-geht-den-bach-runter/401332710"
+      "articleLength" : 1146,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 171,
+      "id" : "kPh1taYX",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/6/e/5957998/maurer_1616837921083117_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Kabarettist Thomas Maurer erzählt vom Corona-Tod seines Vaters",
+      "titleTarget" : "Artistul de cabaret Thomas Maurer povestește despre moartea coroanei tatălui său",
+      "url" : "https://www.diepresse.com/5957998/Kultur_Kabarettist-Thomas-Maurer-erzaehlt-vom-CoronaTod-seines-Vaters?from=rss"
+    }, {
+      "articleLength" : 5136,
+      "articlePartsSize" : 25,
+      "articleWordCount" : 725,
+      "id" : "EqT4kHqx",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Die fünfte Macht im Staat: die Monetative",
+      "titleTarget" : "A cincea putere din stat: cea monetară",
+      "url" : "https://www.derstandard.at/story/2000125378147/die-fuenfte-macht-im-staat-die-monetative?ref=rss"
     }, {
       "articleLength" : 5459,
       "articlePartsSize" : 24,
@@ -287,6 +236,16 @@
       "titleTarget" : "Marea Britanie: Guvernul se așteaptă la creșterea vaccinării din toamnă",
       "url" : "https://kurier.at/wissen/gesundheit/grossbritannien-regierung-rechnet-mit-impf-auffrischungen-ab-herbst/401333817"
     }, {
+      "articleLength" : 1258,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 175,
+      "id" : "9VXYnx9E",
+      "imgUrl" : "https://image.kurier.at/images/original/5934210/46-169262156.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Covid-19-Studie: Sterberate in deutschen Unikliniken 2020 gesunken",
+      "titleTarget" : "Studiu Covid-19: rata deceselor în spitalele universitare germane a scăzut în 2020",
+      "url" : "https://kurier.at/wissen/gesundheit/covid-19-studie-sterberate-in-deutschen-unikliniken-2020-gesunken/401334219"
+    }, {
       "articleLength" : 5328,
       "articlePartsSize" : 23,
       "articleWordCount" : 746,
@@ -299,6 +258,46 @@
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
+      "articleLength" : 1395,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 194,
+      "id" : "NvxCABmH",
+      "imgUrl" : "https://image.kurier.at/images/original/5932749/46-176631860.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Tande nach Horror-Sturz noch im Koma: \"Haben ein bisschen Angst\"",
+      "titleTarget" : "Tande după o groază cade încă în comă: \"Sunt puțin speriat\"",
+      "url" : "https://kurier.at/sport/wintersport/skispringer-tande-nach-horror-sturz-in-planica-noch-im-koma-haben-ein-bisschen-angst/401333841"
+    }, {
+      "articleLength" : 1173,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 179,
+      "id" : "qNAe9pmE",
+      "imgUrl" : "https://image.kurier.at/images/original/5933103/46-173331550.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Österreichs Fußballer tanzen nach der Pfeife von Kateryna Monsul",
+      "titleTarget" : "Fotbaliștii din Austria dansează pe tonul lui Kateryna Monsul",
+      "url" : "https://kurier.at/sport/fussball/oesterreichs-fussballer-tanzen-nach-der-pfeife-von-kateryna-monsul/401334036"
+    }, {
+      "articleLength" : 653,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 101,
+      "id" : "nMFzb8s2",
+      "imgUrl" : "https://image.kurier.at/images/original/5932731/46-176674644.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Nach 13 Jahren: Box-Legende kündigte Comeback im Ring an",
+      "titleTarget" : "După 13 ani: legenda boxului a anunțat o revenire în ring",
+      "url" : "https://kurier.at/sport/nach-13-jahren-box-legende-oscar-de-la-hoya-kuendigte-comeback-im-ring-an/401333820"
+    }, {
+      "articleLength" : 1171,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 175,
+      "id" : "c0ZRxqBA",
+      "imgUrl" : "https://image.kurier.at/images/original/5933232/46-176680800.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Verstappen rast in Bahrain vor Hamilton zur ersten Saison-Pole",
+      "titleTarget" : "Verstappen concurează în Bahrain în fața lui Hamilton pentru primul pol al sezonului",
+      "url" : "https://kurier.at/sport/motorsport/formel-1-in-bahrain-verstappen-holt-die-erste-saison-pole-vor-weltmeister-hamilton/401334072"
+    }, {
       "articleLength" : 3499,
       "articlePartsSize" : 15,
       "articleWordCount" : 514,
@@ -319,53 +318,15 @@
       "titleTarget" : "Antrenorul Feroe speră la o surpriză împotriva echipei ÖFB",
       "url" : "https://www.diepresse.com/5958107/Fussball_FaeroeerCoach-hofft-auf-Ueberraschung-gegen-OeFBTeam?from=rss"
     }, {
-      "articleLength" : 4404,
-      "articlePartsSize" : 18,
-      "articleWordCount" : 646,
-      "id" : "BtAFckNh",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Kogler: Impfung für Olympia-Fixstarter \"sollte sich ausgehen\"",
-      "titleTarget" : "Kogler: vaccinarea pentru începătorii olimpici „ar trebui să dispară”",
-      "url" : "https://www.derstandard.at/story/2000125413216/kogler-impfung-fuer-olympia-fixstarter-sollte-sich-ausgehen?ref=rss"
-    }, {
-      "articleLength" : 6424,
-      "articlePartsSize" : 28,
-      "articleWordCount" : 1021,
-      "id" : "yD2ymbZw",
-      "publisher" : "derstandard.at",
-      "titleSource" : "ORF-Expertin Kamper: \"Die Zeit für Brot und Spiele ist vorbei\"",
-      "titleTarget" : "Expertul ORF Kamper: „Timpul pentru pâine și jocuri s-a încheiat”",
-      "url" : "https://www.derstandard.at/story/2000125400965/orf-expertin-kamper-die-zeit-fuer-brot-und-spiele-ist?ref=rss"
-    }, {
-      "articleLength" : 1395,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 194,
-      "id" : "NvxCABmH",
-      "imgUrl" : "https://image.kurier.at/images/original/5932749/46-176631860.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Tande nach Horror-Sturz noch im Koma: \"Haben ein bisschen Angst\"",
-      "titleTarget" : "Tande după o groază cade încă în comă: \"Sunt puțin speriat\"",
-      "url" : "https://kurier.at/sport/wintersport/skispringer-tande-nach-horror-sturz-in-planica-noch-im-koma-haben-ein-bisschen-angst/401333841"
-    }, {
-      "articleLength" : 1949,
+      "articleLength" : 2130,
       "articlePartsSize" : 9,
-      "articleWordCount" : 303,
-      "id" : "4DIwaSqA",
-      "imgUrl" : "https://image.kurier.at/images/original/5932623/46-176538342.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Eklat um Ski-Star Vlhova: Trainer bezeichnet sie als \"Bügeleisen\"",
-      "titleTarget" : "Scandal despre vedeta de schi Vlhova: antrenorul o numește „fier”",
-      "url" : "https://kurier.at/sport/wintersport/eklat-um-ski-star-petra-vlhova-eigener-trainer-bezeichnet-sie-als-buegeleisen/401333763"
-    }, {
-      "articleLength" : 653,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 101,
-      "id" : "nMFzb8s2",
-      "imgUrl" : "https://image.kurier.at/images/original/5932731/46-176674644.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Nach 13 Jahren: Box-Legende kündigte Comeback im Ring an",
-      "titleTarget" : "După 13 ani: legenda boxului a anunțat o revenire în ring",
-      "url" : "https://kurier.at/sport/nach-13-jahren-box-legende-oscar-de-la-hoya-kuendigte-comeback-im-ring-an/401333820"
+      "articleWordCount" : 314,
+      "id" : "6t4bgetu",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/9/9/0/5958032/Ski-Jumping-World-Cup_1616845223774443_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Teambewerb in Planica wegen Wind-Turbulenzen abgebrochen",
+      "titleTarget" : "Competiția pe echipe din Planica a fost anulată din cauza turbulențelor de vânt",
+      "url" : "https://www.diepresse.com/5958032/Skifliegen_Teambewerb-in-Planica-wegen-WindTurbulenzen-abgebrochen?from=rss"
     } ]
   } ],
   "country" : "austria",
