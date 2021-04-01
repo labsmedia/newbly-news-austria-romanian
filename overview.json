@@ -2,35 +2,55 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 3994,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 551,
-      "id" : "QZtLiVEY",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/e/e/a/5959402/33C106C7-DA2E-408D-80E7-C4E5FACF8523_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Grüne pochen auf Rücktritt, FPÖ auf Öbag-Sondersitzung",
-      "titleTarget" : "Verzii insistă asupra demisiei, FPÖ la sesiunea specială Öbag",
-      "url" : "https://www.diepresse.com/5959402/Postenschacher_Gruene-pochen-auf-Ruecktritt-FPOe-auf?from=rss"
+      "articleLength" : 3154,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 400,
+      "id" : "udgxCCs3",
+      "imgUrl" : "https://image.kurier.at/images/original/5932860/46-176566460.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Anschober warnt: \"Allerletzte Chance für eine Notbremsung\"",
+      "titleTarget" : "Anschober avertizează: „Ultima șansă pentru o oprire de urgență”",
+      "url" : "https://kurier.at/politik/inland/anschober-warnt-allerletzte-chance-fuer-eine-notbremsung/401337414"
     }, {
-      "articleLength" : 3891,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 488,
-      "id" : "DoEbGZU9",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/7/1/5959537/BD7C2248-C976-41DC-B8D4-5A66E36E5EA5_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Rechnungshof drängt auf Kontrolle der Parteien",
-      "titleTarget" : "Curtea de Conturi solicită controlul părților",
-      "url" : "https://www.diepresse.com/5959537/Informationsfreiheit_Rechnungshof-draengt-auf-Kontrolle-der-Parteien?from=rss"
+      "articleLength" : 1771,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 224,
+      "id" : "G7hfJ6lI",
+      "imgUrl" : "https://image.kurier.at/images/original/5946498/46-176560399.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Lockdown bald bundesweit? Heute Gipfeltreffen mit Spitalsvertretern",
+      "titleTarget" : "Închiderea în curând la nivel național? Întâlnirea de astăzi a summitului cu reprezentanții spitalului",
+      "url" : "https://kurier.at/politik/inland/lockdown-bald-bundesweit-heute-gipfeltreffen-mit-spitalsvertretern/401338167"
     }, {
-      "articleLength" : 2263,
+      "articleLength" : 2425,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 342,
+      "id" : "dxyIl4dR",
+      "imgUrl" : "https://image.kurier.at/images/original/5942685/46-176715839.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Doch keine neue FFP2-Maskenpflicht in Innenräumen",
+      "titleTarget" : "Dar nu este necesară o nouă mască FFP2 în interior",
+      "url" : "https://kurier.at/politik/inland/ffp2-maskenpflicht-wird-nun-doch-nicht-ausgeweitet/401337192"
+    }, {
+      "articleLength" : 2542,
       "articlePartsSize" : 11,
-      "articleWordCount" : 314,
-      "id" : "fC3yLOUU",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/f/f/5959679/20210331-Chancellors-working-meeting-with-Russian-ambassador-on-possible-procurement-of-Sputnik-V-VIENNA-AUSTRIA---MAR_1617194238880479.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "\"Auf den letzten Metern\": Noch keine Entscheidung über Sputnik-Ankauf Österreichs",
-      "titleTarget" : "„Pe ultimii câțiva metri”: Nu s-a luat încă nicio decizie cu privire la achiziția Sputnik din Austria",
-      "url" : "https://www.diepresse.com/5959679/Coronavirus_Auf-den-letzten-Metern_Noch-keine-Entscheidung-ueber?from=rss"
+      "articleWordCount" : 334,
+      "id" : "NKOs5v8C",
+      "imgUrl" : "https://image.kurier.at/images/original/5922879/20210324-ABD0027-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Aufholbedarf wegen Corona: Sommerschule wird auf Oberstufe ausgeweitet",
+      "titleTarget" : "Nevoia de recuperare datorită Corona: școala de vară este extinsă la nivelul superior",
+      "url" : "https://kurier.at/politik/inland/aufholbedarf-wegen-corona-sommerschule-wird-auf-oberstufe-ausgeweitet/401337330"
+    }, {
+      "articleLength" : 2968,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 419,
+      "id" : "CQ8Udt4i",
+      "imgUrl" : "https://image.kurier.at/images/original/5943936/46-176760238.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "\"Allerletzte Chance\": Anschober und Kurz begrüßen Lockdown-Verlängerung",
+      "titleTarget" : "„Ultima șansă”: Anschober și Kurz salută extensia de blocare",
+      "url" : "https://kurier.at/politik/inland/allerletzte-chance-anschober-und-kurz-begruessen-lockdown-verlaengerung/401337978"
     }, {
       "articleLength" : 6674,
       "articlePartsSize" : 29,
@@ -41,108 +61,78 @@
       "titleTarget" : "Reuniunea FPÖ din ianuarie a fost interzisă „greșit” de poliție",
       "url" : "https://www.derstandard.at/story/2000125498596/fpoe-versammlung-im-jaenner-wurde-von-polizei-zu-unrecht-untersagt?ref=rss"
     }, {
-      "articleLength" : 3879,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 506,
-      "id" : "weMduNIV",
+      "articleLength" : 3741,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 534,
+      "id" : "dV9WG7qC",
       "publisher" : "derstandard.at",
-      "titleSource" : "Anklage im Eurofighter-Komplex in Sachen \"Dr. Lüssel\", \"Dr. Laider\", \"K.-H. Lasser\"",
-      "titleTarget" : "Taxe în complexul Eurofighter în cazul „Dr. Lüssel”, „Dr. Laider”, „K.-H. Lasser”",
-      "url" : "https://www.derstandard.at/story/2000125505001/anklage-im-eurofighter-komplex-in-sachen-dr-luessel-dr-laider?ref=rss"
-    }, {
-      "articleLength" : 2943,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 423,
-      "id" : "WnIwvHGg",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/1/3/5959443/DD8320F3-256D-4C62-9B44-81B16B2A0561_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Doskozil: Entscheidung über längeren Lockdown am Freitag",
-      "titleTarget" : "Doskozil: Decizie cu privire la un blocaj mai lung vineri",
-      "url" : "https://www.diepresse.com/5959443/Ostoesterreich_Doskozil_Entscheidung-ueber-laengeren-Lockdown-am?from=rss"
-    }, {
-      "articleLength" : 3154,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 400,
-      "id" : "udgxCCs3",
-      "imgUrl" : "https://image.kurier.at/images/original/5932860/46-176566460.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Anschober warnt: \"Allerletzte Chance für eine Notbremsung\"",
-      "titleTarget" : "Anschober avertizează: „Ultima șansă pentru o oprire de urgență”",
-      "url" : "https://kurier.at/politik/inland/anschober-warnt-allerletzte-chance-fuer-eine-notbremsung/401337414"
+      "titleSource" : "Was Strache über die Unterschiede in den Affären Ibiza und Öbag denkt",
+      "titleTarget" : "Ce crede Strache despre diferențele din afacerile din Ibiza și Öbag",
+      "url" : "https://www.derstandard.at/story/2000125510201/was-strache-ueber-die-unterschiede-in-den-affaeren-ibiza-und?ref=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 1278,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 179,
-      "id" : "bAtXGjER",
-      "imgUrl" : "https://image.kurier.at/images/original/5942301/46-176729045.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "USA und Deutschland mit Abstand größte Impfstoff-Investoren",
-      "titleTarget" : "SUA și Germania sunt de departe cei mai mari investitori în vaccinuri",
-      "url" : "https://kurier.at/wirtschaft/usa-und-deutschland-mit-abstand-groesste-impfstoff-investoren/401336892"
-    }, {
-      "articleLength" : 2389,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 346,
-      "id" : "kKhYmBYR",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/e/e/3/5959395/Pellets_Reuters_1617170654564753.jpg",
+      "articleLength" : 3302,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 446,
+      "id" : "3hei0wkh",
+      "imgUrl" : "https://media.diepresse.com/images/uploads/1/1/8/5959960/0D0CCE2C-A28A-4175-8825-A6A8A8A81674_v0_h.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "Der Preisanstieg bei Haushaltsenergie setzt sich fort",
-      "titleTarget" : "Creșterea prețului energiei casnice continuă",
-      "url" : "https://www.diepresse.com/5959395/Statistik_Der-Preisanstieg-bei-Haushaltsenergie-setzt-sich-fort?from=rss"
+      "titleSource" : "Budgetdefizit steigt auf 8,9 Prozent des BIP",
+      "titleTarget" : "Deficitul bugetar crește la 8,9% din PIB",
+      "url" : "https://www.diepresse.com/5959960/Budget_Budgetdefizit-steigt-auf-89-Prozent-des-BIP?from=rss"
     }, {
-      "articleLength" : 496,
-      "articlePartsSize" : 2,
-      "articleWordCount" : 68,
-      "id" : "S9UiG6zl",
-      "imgUrl" : "https://image.kurier.at/images/original/4674265/46-167011006.jpg",
+      "articleLength" : 3519,
+      "articlePartsSize" : 17,
+      "articleWordCount" : 487,
+      "id" : "i67JZXqx",
+      "imgUrl" : "https://image.kurier.at/images/original/3821207/78370011350929452_BLD_Online.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Honda muss weltweit 761.000 Autos zurück rufen",
-      "titleTarget" : "Honda trebuie să-și amintească 761.000 de mașini în întreaga lume",
-      "url" : "https://kurier.at/wirtschaft/honda-muss-weltweit-761000-autos-zurueck-rufen/401336964"
+      "titleSource" : "Raiffeisen verlässt die gemeinsame Einlagensicherung",
+      "titleTarget" : "Raiffeisen părăsește asigurarea comună a depozitelor",
+      "url" : "https://kurier.at/wirtschaft/raiffeisen-verlaesst-die-gemeinsame-einlagensicherung/401338083"
     }, {
-      "articleLength" : 4881,
-      "articlePartsSize" : 24,
-      "articleWordCount" : 682,
-      "id" : "474zoKI8",
+      "articleLength" : 9415,
+      "articlePartsSize" : 41,
+      "articleWordCount" : 1412,
+      "id" : "W9dicLkC",
       "publisher" : "derstandard.at",
-      "titleSource" : "Lockdowns nützen immer weniger – was ist Plan B?",
-      "titleTarget" : "Blocajele sunt din ce în ce mai puțin folosite - ce este Planul B?",
-      "url" : "https://www.derstandard.at/story/2000125483047/lockdowns-nutzen-immer-weniger-was-ist-plan-b?ref=rss"
+      "titleSource" : "Lithiumabbau in Cáceres: Die Angst um das kleine Paradies",
+      "titleTarget" : "Exploatarea litiului în Cáceres: frica pentru micul paradis",
+      "url" : "https://www.derstandard.at/story/2000125431184/lithiumabbau-in-caceres-die-angst-um-das-kleine-paradies?ref=rss"
     }, {
-      "articleLength" : 4568,
-      "articlePartsSize" : 22,
-      "articleWordCount" : 669,
-      "id" : "LpPHEGPh",
+      "articleLength" : 1416,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 184,
+      "id" : "luhFncFA",
+      "imgUrl" : "https://image.kurier.at/images/original/4640861/20200917-ABD0013-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Ab heute gelten neue Regeln für Homeoffice",
+      "titleTarget" : "Începând de astăzi, se aplică noi reguli pentru biroul de acasă",
+      "url" : "https://kurier.at/wirtschaft/ab-heute-gelten-neue-regeln-fuer-homeoffice/401338044"
+    }, {
+      "articleLength" : 2496,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 325,
+      "id" : "6btOYhqU",
       "publisher" : "derstandard.at",
-      "titleSource" : "Schmid-Nachrichten an Mahrer, Druck und ein Rücktritt aus dem OMV-Aufsichtsrat",
-      "titleTarget" : "Mesaje Schmid către Mahrer, presiuni și o demisie din partea Consiliului de Supraveghere OMV",
-      "url" : "https://www.derstandard.at/story/2000125478781/weiterechats-druck-und-ein-ruecktritt-aus-dem-omv-aufsichtsrat?ref=rss"
+      "titleSource" : "Neue arbeitsrechtliche Regeln im Homeoffice ab Donnerstag",
+      "titleTarget" : "Noile reguli ale legislației muncii în biroul de acasă începând de joi",
+      "url" : "https://www.derstandard.at/story/2000125502905/neue-arbeitsrechtliche-regeln-im-homeoffice-ab-1-april?ref=rss"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 2584,
-      "articlePartsSize" : 13,
-      "articleWordCount" : 344,
-      "id" : "M2kBa77u",
-      "imgUrl" : "https://image.kurier.at/images/original/5923017/46-176590368.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Oster-Lockdown: Niederösterreich und das Burgenland verlängern",
-      "titleTarget" : "Închiderea Paștelui: Austria de Jos și Burgenland se extind",
-      "url" : "https://kurier.at/chronik/oesterreich/niederoesterreich-verlaengert-lockdown-ebenfalls-bis-11-april/401337807"
-    }, {
-      "articleLength" : 3375,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 465,
-      "id" : "BOKd6onS",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
-      "publisher" : "kurier.at",
-      "titleSource" : "3.687 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "3.687 de noi infecții coronare în Austria",
-      "url" : "https://kurier.at/chronik/oesterreich/3687-neue-corona-infektionen-in-oesterreich/401336910"
+      "articleLength" : 2513,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 329,
+      "id" : "nUpHm6gP",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/8/e/5959566/072D02EC-DE2A-4490-97D8-79A01E0C1191_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Verwaltungsgericht: Definition von \"Kranke/lnfizierte\" falsch",
+      "titleTarget" : "Instanță administrativă: definiția „bolnav / infectat” este incorectă",
+      "url" : "https://www.diepresse.com/5959566/Begriffsdurcheinander_Verwaltungsgericht_Definition-von?from=rss"
     }, {
       "articleLength" : 6023,
       "articlePartsSize" : 28,
@@ -154,48 +144,69 @@
       "titleTarget" : "Donaukanal & Co: Viena impune o cerință de mască în locurile aglomerate",
       "url" : "https://www.diepresse.com/5959583/Wien_Donaukanal-Co_Wien-verhaengt-Maskenpflicht-an-belebten-Plaetzen?from=rss"
     }, {
-      "articleLength" : 28,
-      "articlePartsSize" : 1,
-      "articleWordCount" : 4,
-      "id" : "0R6Sz2zn",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Ganz Österreich wieder rot auf Corona-Ampel, Ostregion bis 11. April im Lockdown",
-      "titleTarget" : "Burgenland și Austria de Jos extind, de asemenea, blocarea până pe 11 aprilie",
-      "url" : "https://www.derstandard.at/jetzt/livebericht/2000125487589/regierung-beschliesst-schaerfere-testpflicht-fuer-pendler?ref=rss"
+      "articleLength" : 2584,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 344,
+      "id" : "M2kBa77u",
+      "imgUrl" : "https://image.kurier.at/images/original/5923017/46-176590368.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Oster-Lockdown: Niederösterreich und das Burgenland verlängern",
+      "titleTarget" : "Închiderea Paștelui: Austria de Jos și Burgenland se extind",
+      "url" : "https://kurier.at/chronik/oesterreich/niederoesterreich-verlaengert-lockdown-ebenfalls-bis-11-april/401337807"
     }, {
-      "articleLength" : 3928,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 569,
-      "id" : "000nEVHQ",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/4/0/5959488/A9E3E36B-5F81-473D-9EF8-44F94446886D_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "\"Tut mir sehr weh\": Hacker revidiert Wiener Impfplan",
-      "titleTarget" : "„Mă doare foarte mult”: Hacker revizuiește planul de vaccinare Viena",
-      "url" : "https://www.diepresse.com/5959488/Impfung_Tut-mir-sehr-weh_Hacker-revidiert-Wiener-Impfplan?from=rss"
+      "articleLength" : 1733,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 231,
+      "id" : "V9EY5Hul",
+      "imgUrl" : "https://image.kurier.at/images/original/5944098/20210331-ABD0112-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "3.363 Neuinfektionen in Österreich + J&J: Millionen Impf-Dosen unbrauchbar",
+      "titleTarget" : "3.363 de noi infecții în Austria + J&J: milioane de doze de vaccin sunt inutilizabile",
+      "url" : "https://kurier.at/chronik/oesterreich/anschober-und-kurz-begruessen-lockdown-verlaengerung-jj-millionen-impf-dosen-unbrauchbar/401337990"
     }, {
-      "articleLength" : 2513,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 329,
-      "id" : "nUpHm6gP",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/8/e/5959566/072D02EC-DE2A-4490-97D8-79A01E0C1191_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Verwaltungsgericht: Definition von \"Kranke/lnfizierte\" falsch",
-      "titleTarget" : "Instanță administrativă: definiția „bolnav / infectat” este incorectă",
-      "url" : "https://www.diepresse.com/5959566/Begriffsdurcheinander_Verwaltungsgericht_Definition-von?from=rss"
+      "articleLength" : 1643,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 246,
+      "id" : "jSVwRyuS",
+      "imgUrl" : "https://image.kurier.at/images/original/4758903/46-168610613.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Hotelchefin will Corona-Sperre trotzen und Haus öffnen",
+      "titleTarget" : "Șeful hotelului vrea să sfideze încuietoarea Corona și să deschidă casa",
+      "url" : "https://kurier.at/chronik/oesterreich/hotelchefin-will-corona-sperre-trotzen-und-haus-oeffnen/401337933"
     }, {
-      "articleLength" : 3377,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 465,
-      "id" : "6hYrgdYN",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/3/1/5959729/1AF2012D-61F4-4B00-B9AD-D65CFD0BB704_v1_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Bisher zwei Millionen Impfdosen an Österreich ausgeliefert",
-      "titleTarget" : "Până în prezent, două milioane de doze de vaccin au fost livrate în Austria",
-      "url" : "https://www.diepresse.com/5959729/Corona_Bisher-zwei-Millionen-Impfdosen-an-Oesterreich-ausgeliefert?from=rss"
+      "articleLength" : 1472,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 221,
+      "id" : "gpp1zi1n",
+      "imgUrl" : "https://image.kurier.at/images/original/3992340/46-85853028.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Der verschuldete Künstler und sein Freund, der Erbprinz",
+      "titleTarget" : "Artistul îndatorat și prietenul său, Prințul ereditar",
+      "url" : "https://kurier.at/chronik/oesterreich/der-verschuldete-kuenstler-und-sein-freund-der-erbprinz/401337831"
+    }, {
+      "articleLength" : 2133,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 294,
+      "id" : "AzZsIlY2",
+      "imgUrl" : "https://image.kurier.at/images/original/5922882/46-176599586.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Nationales Impfgremium setzt weiterhin auf Astra Zeneca",
+      "titleTarget" : "Consiliul Național de Vaccinare continuă să se bazeze pe Astra Zeneca",
+      "url" : "https://kurier.at/chronik/oesterreich/nationales-impfgremium-setzt-weiterhin-auf-astra-zeneca/401337996"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "articleLength" : 2236,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 304,
+      "id" : "ChYc6rJt",
+      "imgUrl" : "https://image.kurier.at/images/original/5946357/em_01.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "ServusTV sichert sich die Rechte für die Fußball-Europameisterschaft",
+      "titleTarget" : "ServusTV asigură drepturile pentru campionatul european de fotbal",
+      "url" : "https://kurier.at/kultur/medien/servustv-sichert-sich-die-rechte-fuer-fussball-europameisterschaft/401338077"
+    }, {
       "articleLength" : 7732,
       "articlePartsSize" : 34,
       "articleWordCount" : 1116,
@@ -226,36 +237,46 @@
       "titleTarget" : "Literaricum Lech: Un nou festival pentru clasici",
       "url" : "https://www.diepresse.com/5959742/Buch_Literaricum-Lech_Ein-neues-Festival-fuer-Klassiker?from=rss"
     }, {
-      "articleLength" : 1576,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 217,
-      "id" : "WEP836qx",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Corona-Hilfen: Unterstützung für freischaffende Künstler ausgeweitet",
-      "titleTarget" : "Ajutor Corona: sprijin pentru artiștii independenți extins",
-      "url" : "https://www.derstandard.at/story/2000125495170/corona-hilfen-unterstuetzung-fuer-freischaffende-kuenstler-ausgeweitet?ref=rss"
+      "articleLength" : 2001,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 289,
+      "id" : "W7tGLYok",
+      "imgUrl" : "https://image.kurier.at/images/original/5944284/serpent5.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "5 Serien, auf die wir uns im April bei Netflix & Co freuen",
+      "titleTarget" : "5 serii pe care le așteptăm cu nerăbdare în aprilie pe Netflix & Co.",
+      "url" : "https://kurier.at/kultur/medien/5-serien-auf-die-wir-uns-im-april-bei-netflix-co-freuen/401337729"
     }, {
-      "articleLength" : 5621,
-      "articlePartsSize" : 24,
-      "articleWordCount" : 852,
-      "id" : "46PFq4zm",
+      "articleLength" : 5031,
+      "articlePartsSize" : 23,
+      "articleWordCount" : 708,
+      "id" : "cGSYYqHV",
       "publisher" : "derstandard.at",
-      "titleSource" : "Reisereporter Altmann zu Corona: \"Der Mensch braucht Abwechslung\"",
-      "titleTarget" : "Reporter de călătorie Altmann pe Corona: „Oamenii au nevoie de varietate”",
-      "url" : "https://www.derstandard.at/story/2000125475354/reisereporter-altmann-im-lockdown-heimat-als-warmes-gefuehl?ref=rss"
+      "titleSource" : "Jonathan Fine wird neuer Chef im Weltmuseum Wien",
+      "titleTarget" : "Jonathan Fine este noul șef de la Weltmuseum Wien",
+      "url" : "https://www.derstandard.at/story/2000125503738/jonathan-fine-wird-neuer-chef-im-weltmuseum-wien?ref=rss"
+    }, {
+      "articleLength" : 2526,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 363,
+      "id" : "QA6TlK5v",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Allstar-Projekt Elegiac: Strafjazz mit Hupe und Stechapfel",
+      "titleTarget" : "Proiect All-Star Elegiac: jazz punitiv cu corn și măr de spini",
+      "url" : "https://www.derstandard.at/story/2000125481474/allstar-projekt-elegiac-strafjazz-mit-hupe-und-stechapfel?ref=rss"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "articleLength" : 781,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 113,
-      "id" : "2UnbovIR",
-      "imgUrl" : "https://image.kurier.at/images/original/4962583/46-173565526.jpg",
+      "articleLength" : 1414,
+      "articlePartsSize" : 7,
+      "articleWordCount" : 202,
+      "id" : "HgLxwneq",
+      "imgUrl" : "https://image.kurier.at/images/original/5946297/46-176775025.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Brasilianische Corona-Mutation erstmals in Österreich bestätigt",
-      "titleTarget" : "Mutația coronei braziliene confirmată pentru prima dată în Austria",
-      "url" : "https://kurier.at/wissen/gesundheit/brasilianische-corona-mutation-erstmals-in-oesterreich-bestaetigt/401337114"
+      "titleSource" : "J&J: Millionen Impf-Dosen unbrauchbar",
+      "titleTarget" : "J&J: Milioane de doze de vaccin inutilizabile",
+      "url" : "https://kurier.at/wissen/gesundheit/jj-millionen-impf-dosen-unbrauchbar/401337987"
     }, {
       "articleLength" : 2292,
       "articlePartsSize" : 10,
@@ -267,29 +288,19 @@
       "titleTarget" : "Astra Zeneca va comercializa în viitor vaccinul împotriva coronavirusului ca Vaxzevria",
       "url" : "https://kurier.at/wissen/gesundheit/astra-zeneca-vermarktet-coronavirus-impfstoff-kuenftig-als-vaxzevria/401337165"
     }, {
-      "articleLength" : 1084,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 146,
-      "id" : "1AgBrVuW",
-      "imgUrl" : "https://image.kurier.at/images/original/5942385/46-41876442.jpg",
+      "articleLength" : 2239,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 306,
+      "id" : "VDDbwCH9",
+      "imgUrl" : "https://image.kurier.at/images/original/4480832/78350011455232242_BLD_Online.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Hunde können SARS-CoV-2 in Schweiß erschnüffeln",
-      "titleTarget" : "Câinii pot adulmeca SARS-CoV-2 în transpirație",
-      "url" : "https://kurier.at/wissen/gesundheit/hunde-koennen-sars-cov-2-in-schweiss-erschnueffeln/401336937"
+      "titleSource" : "Corona-Hotspot Brasilien: Fast 4.000 Tote und eine neue Mutation",
+      "titleTarget" : "Hotspot Corona Brazilia: Aproape 4.000 de decese și o nouă mutație",
+      "url" : "https://kurier.at/wissen/gesundheit/corona-hotspot-brasilien-fast-4000-tote-und-eine-neue-mutation/401338023"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 3218,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 501,
-      "id" : "RNqkJUBL",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/d/a/5959898/84AAC4E8-5A76-40E5-B5F9-4A0936E8C818_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Deutschland blamiert sich gegen Nordmazedonien",
-      "titleTarget" : "Germania se jenează împotriva Macedoniei de Nord",
-      "url" : "https://www.diepresse.com/5959898/WMQualifikation_Deutschland-blamiert-sich-gegen-Nordmazedonien?from=rss"
-    }, {
       "articleLength" : 3819,
       "articlePartsSize" : 16,
       "articleWordCount" : 566,
@@ -300,25 +311,15 @@
       "titleTarget" : "Faliment istoric: echipa ÖFB suferă o dezmembrare acasă împotriva Danemarcei",
       "url" : "https://kurier.at/sport/fussball/heim-debakel-in-der-wm-qualifikation-oesterreich-verliert-gegen-daenemark-mit-04/401337375"
     }, {
-      "articleLength" : 4024,
-      "articlePartsSize" : 19,
-      "articleWordCount" : 603,
-      "id" : "0M0HAiEu",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/d/3/5959891/816186D5-1181-4035-BB3D-4F3EC6E3B9DC_v0_l.jpg",
+      "articleLength" : 3634,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 540,
+      "id" : "ipsXMMB7",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/f/6/5959926/FUSSBALL-WM-QUALIFIKATION-TRAINING-STERREICH-FODA_1617255164540128_v0_l.jpg",
       "publisher" : "diepresse.com",
-      "titleSource" : "WM-Qualifikation: Österreich geht gegen Dänemark unter",
-      "titleTarget" : "Calificare la Cupa Mondială: Austria cade împotriva Danemarcei",
-      "url" : "https://www.diepresse.com/5959891/Gruppe-F_WMQualifikation_Oesterreich-geht-gegen-Daenemark-unter?from=rss"
-    }, {
-      "articleLength" : 1072,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 152,
-      "id" : "rrL3w3ih",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/f/1/7/5959447/6FF86A40-3AD8-48F0-9716-47E44E73CFCA_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Handball: Fivers scheiden nach Corona-Absage aus",
-      "titleTarget" : "Handbal: Fivers sunt eliminați după anularea Corona",
-      "url" : "https://www.diepresse.com/5959447/European-League_Handball_Fivers-scheiden-nach-CoronaAbsage-aus?from=rss"
+      "titleSource" : "Teamchef Foda will nach 0:4 \"einige Dinge überdenken\"",
+      "titleTarget" : "Șeful echipei Foda vrea să „regândească câteva lucruri” după 4-0",
+      "url" : "https://www.diepresse.com/5959926/Fussball_Teamchef-Foda-will-nach-0_4-einige-Dinge-ueberdenken?from=rss"
     }, {
       "articleLength" : 2591,
       "articlePartsSize" : 11,
@@ -329,24 +330,45 @@
       "titleTarget" : "Echipa ÖFB cu semne către gazda Cupei Mondiale Qatar, jucătorul DFB Kroos alege cuvinte clare",
       "url" : "https://www.derstandard.at/story/2000125516629/oefb-team-mit-zeichen-an-wm-gastgeber-katar-menschenrechte-schuetzen?ref=rss"
     }, {
-      "articleLength" : 616,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 87,
-      "id" : "1xIEXNEg",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Skispringer Tande verlässt Intensivstation",
-      "titleTarget" : "Saltul de schi Tande părăsește unitatea de terapie intensivă",
-      "url" : "https://www.derstandard.at/story/2000125514637/skispringer-tande-verlaesst-intensivstation?ref=rss"
-    }, {
-      "articleLength" : 3819,
-      "articlePartsSize" : 16,
-      "articleWordCount" : 566,
-      "id" : "j7n0hOE3",
-      "imgUrl" : "https://image.kurier.at/images/original/5944287/46-176771635.jpg",
+      "articleLength" : 1816,
+      "articlePartsSize" : 9,
+      "articleWordCount" : 232,
+      "id" : "6VKXxynf",
+      "imgUrl" : "https://image.kurier.at/images/original/5942787/46-176450205.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "WM-Quali live: So steht es bei Österreich gegen Dänemark",
-      "titleTarget" : "Calificarea la Cupa Mondială în direct: Așa este și cu Austria împotriva Danemarcei",
-      "url" : "https://kurier.at/sport/fussball/wm-qualifikation-live-spielstand-bei-oesterreich-gegen-daenemark/401337375"
+      "titleSource" : "Sportpolitik: Kogler präsentierte Gender-Trainee-Programm",
+      "titleTarget" : "Politica sportivă: Kogler a prezentat un program de stagiari de gen",
+      "url" : "https://kurier.at/sport/sportpolitik-kogler-praesentierte-gender-trainee-programm/401337228"
+    }, {
+      "articleLength" : 3325,
+      "articlePartsSize" : 16,
+      "articleWordCount" : 521,
+      "id" : "yrrOhiWR",
+      "imgUrl" : "https://image.kurier.at/images/original/5944410/46-176773808.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "WM-Qualifikation: Deutschland blamiert sich gegen Nordmazedonien",
+      "titleTarget" : "Calificarea la Cupa Mondială: Germania s-a jenat împotriva Macedoniei de Nord",
+      "url" : "https://kurier.at/sport/fussball/wm-qualifikation-deutschland-blamiert-sich-gegen-nordmazedonien-und-verliert-12/401337942"
+    }, {
+      "articleLength" : 1133,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 164,
+      "id" : "5bt8VrVC",
+      "imgUrl" : "https://image.kurier.at/images/original/5944086/46-176745936.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Vom DFB zu Real Madrid? Löw soll möglicher Zidane-Nachfolger sein",
+      "titleTarget" : "De la DFB la Real Madrid? Se spune că Löw este un posibil succesor al lui Zidane",
+      "url" : "https://kurier.at/sport/fussball/vom-dfb-zu-real-madrid-loew-soll-moeglicher-zidane-nachfolger-sein/401337861"
+    }, {
+      "articleLength" : 1062,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 153,
+      "id" : "e5cHixzy",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/f/1/5959921/FILES-GOLF-USPGA-WOODS-LIFESTYLE_161725295458175_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Tiger Woods: Unfallursache bleibt geheim",
+      "titleTarget" : "Tiger Woods: cauza accidentului rămâne secretă",
+      "url" : "https://www.diepresse.com/5959921/Golf_Tiger-Woods_Unfallursache-bleibt-geheim?from=rss"
     } ]
   } ],
   "country" : "austria",
