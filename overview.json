@@ -2,16 +2,6 @@
   "categories" : [ {
     "category" : "POLITICS",
     "newsArticles" : [ {
-      "articleLength" : 1771,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 224,
-      "id" : "G7hfJ6lI",
-      "imgUrl" : "https://image.kurier.at/images/original/5947584/46-176630871.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Kurz nach Gipfeltreffen: \"Wir setzen das regionale Vorgehen fort\"",
-      "titleTarget" : "Închiderea în curând la nivel național? Întâlnirea de astăzi a summitului cu reprezentanții spitalului",
-      "url" : "https://kurier.at/politik/inland/lockdown-bald-bundesweit-heute-gipfeltreffen-mit-spitalsvertretern/401338167"
-    }, {
       "articleLength" : 2455,
       "articlePartsSize" : 10,
       "articleWordCount" : 338,
@@ -32,15 +22,6 @@
       "titleTarget" : "„Virusul nu cunoaște granițe”: Rendi-Wagner solicită măsuri uniforme",
       "url" : "https://kurier.at/politik/inland/virus-kennt-keine-grenzen-rendi-wagner-fordert-einheitliche-massnahmen/401338500"
     }, {
-      "articleLength" : 3741,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 534,
-      "id" : "dV9WG7qC",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Was Strache über die Unterschiede in den Affären Ibiza und Öbag denkt",
-      "titleTarget" : "Ce crede Strache despre diferențele din afacerile din Ibiza și Öbag",
-      "url" : "https://www.derstandard.at/story/2000125510201/was-strache-ueber-die-unterschiede-in-den-affaeren-ibiza-und?ref=rss"
-    }, {
       "articleLength" : 6994,
       "articlePartsSize" : 35,
       "articleWordCount" : 927,
@@ -60,55 +41,84 @@
       "titleTarget" : "Guvernul vrea să sprijine personalul intensiv",
       "url" : "https://www.diepresse.com/5960010/Corona_Regierung-will-IntensivPersonal-unterstuetzen?from=rss"
     }, {
-      "articleLength" : 2726,
-      "articlePartsSize" : 12,
-      "articleWordCount" : 356,
-      "id" : "4gobwOn8",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/c/3/5960387/019E0325-B211-4EEE-AC6D-E64AC97E9C20_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Pilnacek gab Blümel Tipps wegen Hausdurchsuchung",
-      "titleTarget" : "Pilnacek i-a dat lui Blümel sfaturi despre perchezițiile domiciliare",
-      "url" : "https://www.diepresse.com/5960387/Handy_Pilnacek-gab-Bluemel-Tipps-wegen-Hausdurchsuchung?from=rss"
+      "articleLength" : 3305,
+      "articlePartsSize" : 14,
+      "articleWordCount" : 438,
+      "id" : "i3NZKwvS",
+      "imgUrl" : "https://image.kurier.at/images/original/4965727/20210226-ABD0005-1-1.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Neue Pilnacek-Chats: \"Wer vorbereitet (sic!) Gernot auf seine Vernehmung?“",
+      "titleTarget" : "Noi discuții Pilnacek: \"Cine îl pregătește (sic!) Pe Gernot pentru interogatoriu?\"",
+      "url" : "https://kurier.at/politik/inland/neue-pilnacek-chats-wer-vorbereitet-gernot-auf-seine-vernehmung/401338857"
+    }, {
+      "articleLength" : 1259,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 158,
+      "id" : "yEKaIe6x",
+      "imgUrl" : "https://image.kurier.at/images/original/5947191/46-168681171.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Nationalrat: SPÖ, FPÖ und Neos beantragen ÖBAG-Sondersitzung",
+      "titleTarget" : "Consiliul Național: SPÖ, FPÖ și Neos solicită adunarea specială ÖBAG",
+      "url" : "https://kurier.at/politik/inland/nationalrat-spoe-fpoe-und-neos-beantragen-oebag-sondersitzung/401338536"
+    }, {
+      "articleLength" : 13165,
+      "articlePartsSize" : 58,
+      "articleWordCount" : 1968,
+      "id" : "m44NJNvC",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Kinderarzt zur Pandemie: \"Die soziale Isolation ist ein Riesenschaden\"",
+      "titleTarget" : "Pediatru în caz de pandemie: \"Izolarea socială este un prejudiciu imens\"",
+      "url" : "https://www.derstandard.at/story/2000125520301/kinderarzt-zur-pandemie-die-soziale-isolation-ist-ein-riesenschaden?ref=rss"
     } ]
   }, {
     "category" : "ECONOMICS",
     "newsArticles" : [ {
-      "articleLength" : 1948,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 277,
-      "id" : "ST5vSMCY",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/1/3/5/5959989/7418BCA3-109C-4B4F-B167-BD196328CD30_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Deutliche Erholung am Arbeitsmarkt",
-      "titleTarget" : "Redresare semnificativă pe piața muncii",
-      "url" : "https://www.diepresse.com/5959989/Coronakrise_Deutliche-Erholung-am-Arbeitsmarkt?from=rss"
-    }, {
-      "articleLength" : 3085,
-      "articlePartsSize" : 14,
-      "articleWordCount" : 441,
-      "id" : "toYHyAn7",
-      "imgUrl" : "https://image.kurier.at/images/original/4206788/78350011453793954_BLD_Online.jpg",
+      "articleLength" : 2230,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 321,
+      "id" : "PrB8msRu",
+      "imgUrl" : "https://image.kurier.at/images/original/4903246/46-175102609.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Budget-Rekorddefizit mit 8,9 Prozent des BIP",
-      "titleTarget" : "Deficitul bugetar record la 8,9% din PIB",
-      "url" : "https://kurier.at/wirtschaft/budget-rekorddefizit-mit-89-prozent-des-bip/401338155"
+      "titleSource" : "US-Automarkt erholte sich im ersten Quartal deutlich",
+      "titleTarget" : "Piața auto din SUA și-a revenit semnificativ în primul trimestru",
+      "url" : "https://kurier.at/wirtschaft/us-automarkt-erholte-sich-im-ersten-quartal-deutlich/401339256"
     }, {
-      "articleLength" : 3302,
-      "articlePartsSize" : 14,
-      "articleWordCount" : 446,
-      "id" : "3hei0wkh",
-      "imgUrl" : "https://media.diepresse.com/images/uploads/1/1/8/5959960/0D0CCE2C-A28A-4175-8825-A6A8A8A81674_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Budgetdefizit steigt auf 8,9 Prozent des BIP",
-      "titleTarget" : "Deficitul bugetar crește la 8,9% din PIB",
-      "url" : "https://www.diepresse.com/5959960/Budget_Budgetdefizit-steigt-auf-89-Prozent-des-BIP?from=rss"
+      "articleLength" : 3813,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 511,
+      "id" : "EE3ZDmon",
+      "imgUrl" : "https://image.kurier.at/images/original/5946957/46-176608009.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Microsoft-Chefin:  \"Wir möchten niemanden verdrängen\"",
+      "titleTarget" : "Șeful Microsoft: „Nu vrem să deplasăm pe nimeni”",
+      "url" : "https://kurier.at/wirtschaft/microsoft-chefin-wir-moechten-niemanden-verdraengen/401338428"
+    }, {
+      "articleLength" : 3149,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 429,
+      "id" : "wi2DiQ4d",
+      "imgUrl" : "https://image.kurier.at/images/original/5948316/46-176788058.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Wirte sollen ausloben, woher das Schnitzel kommt",
+      "titleTarget" : "Proprietarii ar trebui să facă publicitate de unde provine șnițelul",
+      "url" : "https://kurier.at/wirtschaft/wirte-sollen-ausloben-woher-das-schnitzel-kommt/401339031"
+    }, {
+      "articleLength" : 2808,
+      "articlePartsSize" : 12,
+      "articleWordCount" : 427,
+      "id" : "hHKjtJV6",
+      "imgUrl" : "https://image.kurier.at/images/original/35451/46-70760377.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "E-Commerce wuchs in Österreich im Vorjahr um 17,4 Prozent",
+      "titleTarget" : "Comerțul electronic în Austria a crescut cu 17,4% în anul precedent",
+      "url" : "https://kurier.at/wirtschaft/e-commerce-wuchs-in-oesterreich-im-vorjahr-um-174-prozent/401339274"
     }, {
       "articleLength" : 2021,
       "articlePartsSize" : 9,
       "articleWordCount" : 296,
       "id" : "zut43MEz",
       "publisher" : "derstandard.at",
-      "titleSource" : "Ausseer Hotelrebellin sperrt für Privatgäste auf: \"Es reicht.\"",
+      "titleSource" : "Ausseer Hotelrebellin sperrt für Privatgäste auf: \"Es reicht\"",
       "titleTarget" : "Hotelul rebel Ausseer se deschide oaspeților privați: „Este suficient”.",
       "url" : "https://www.derstandard.at/story/2000125528845/ausseer-hotelrebellin-sperrt-fuer-privatgaeste-auf?ref=rss"
     }, {
@@ -120,40 +130,10 @@
       "titleSource" : "Grüne wollen verpflichtende Herkunftskennzeichnung auch in der Gastronomie",
       "titleTarget" : "Verzii doresc etichetarea obligatorie a originii și în industria de catering",
       "url" : "https://www.derstandard.at/story/2000125539478/gruene-wollen-verpflichtende-herkunftskennzeichnung-auch-in-der-gastronomie?ref=rss"
-    }, {
-      "articleLength" : 3519,
-      "articlePartsSize" : 17,
-      "articleWordCount" : 487,
-      "id" : "i67JZXqx",
-      "imgUrl" : "https://image.kurier.at/images/original/3821207/78370011350929452_BLD_Online.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Raiffeisen verlässt die gemeinsame Einlagensicherung",
-      "titleTarget" : "Raiffeisen părăsește asigurarea comună a depozitelor",
-      "url" : "https://kurier.at/wirtschaft/raiffeisen-verlaesst-die-gemeinsame-einlagensicherung/401338083"
-    }, {
-      "articleLength" : 1416,
-      "articlePartsSize" : 6,
-      "articleWordCount" : 184,
-      "id" : "luhFncFA",
-      "imgUrl" : "https://image.kurier.at/images/original/4640861/20200917-ABD0013-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Ab heute gelten neue Regeln für Homeoffice",
-      "titleTarget" : "Începând de astăzi, se aplică noi reguli pentru biroul de acasă",
-      "url" : "https://kurier.at/wirtschaft/ab-heute-gelten-neue-regeln-fuer-homeoffice/401338044"
     } ]
   }, {
     "category" : "CHRONICLE",
     "newsArticles" : [ {
-      "articleLength" : 1006,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 146,
-      "id" : "Y9Bvqsqj",
-      "imgUrl" : "https://image.kurier.at/images/original/5947194/a1.jpeg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Donaukanal: Brand im Kult-Lokal Flex",
-      "titleTarget" : "Canalul Dunării: Foc în barul de cult Flex",
-      "url" : "https://kurier.at/chronik/oesterreich/donaukanal-brand-im-lokal-flex/401338557"
-    }, {
       "articleLength" : 904,
       "articlePartsSize" : 5,
       "articleWordCount" : 130,
@@ -164,25 +144,25 @@
       "titleTarget" : "Wachau: Caisele vor înflori de Paști",
       "url" : "https://www.diepresse.com/5960275/Wachau_Marillenbaeume-werden-zu-Ostern-aufbluehen?from=rss"
     }, {
-      "articleLength" : 1505,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 222,
-      "id" : "1Z3prqA0",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/e/8/5960424/39287325-3AAD-4D81-B7D5-F7D6419A61AF_v0_h.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Großbrand bei Radatz in Wien-Liesing nach drei Stunden unter Kontrolle",
-      "titleTarget" : "Incendiu major la Radatz din Viena-Liesing controlat după trei ore",
-      "url" : "https://www.diepresse.com/5960424/Grossbrand-bei-Radatz-in-WienLiesing-nach-drei-Stunden-unter-Kontrolle?from=rss"
-    }, {
-      "articleLength" : 3426,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 477,
-      "id" : "fpwiavW7",
-      "imgUrl" : "https://image.kurier.at/images/original/4764708/illu_corona_statistik%20%283%29_0.png",
+      "articleLength" : 1006,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 146,
+      "id" : "Y9Bvqsqj",
+      "imgUrl" : "https://image.kurier.at/images/original/5947194/a1.jpeg",
       "publisher" : "kurier.at",
-      "titleSource" : "3.363 neue Corona-Infektionen in Österreich",
-      "titleTarget" : "3.363 de noi infecții coronare în Austria",
-      "url" : "https://kurier.at/chronik/oesterreich/3363-neue-corona-infektionen-in-oesterreich/401338107"
+      "titleSource" : "Donaukanal: Brand im Kult-Lokal Flex",
+      "titleTarget" : "Canalul Dunării: Foc în barul de cult Flex",
+      "url" : "https://kurier.at/chronik/oesterreich/donaukanal-brand-im-lokal-flex/401338557"
+    }, {
+      "articleLength" : 1562,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 216,
+      "id" : "aRO9W91q",
+      "imgUrl" : "https://image.kurier.at/images/original/5922885/46-176599245.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "3.137 Neuinfektionen in Österreich + Forscher: Kurze, harte Lockdowns wirksamer",
+      "titleTarget" : "3.137 de noi infecții în Austria + cercetători: blocaje scurte și dure mai eficiente",
+      "url" : "https://kurier.at/chronik/oesterreich/usa-koennen-auf-astra-zeneca-verzichten-eu-deal-198815-extra-dosen-fuer-oesterreich/401339178"
     }, {
       "articleLength" : 710,
       "articlePartsSize" : 3,
@@ -193,28 +173,58 @@
       "titleTarget" : "Etna erupe: spațiul aerian peste Catania închis",
       "url" : "https://www.derstandard.at/story/2000125526391/aetna-bricht-ausluftraum-ueber-catania-geschlossen?ref=rss"
     }, {
-      "articleLength" : 1557,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 229,
-      "id" : "W9MGWeKN",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Wie oft machen Sie einen Corona-Test?",
-      "titleTarget" : "Cât de des faceți un test corona?",
-      "url" : "https://www.derstandard.at/story/2000125467979/wie-oft-machen-sie-einen-corona-test?ref=rss"
+      "articleLength" : 4777,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 620,
+      "id" : "K1MrT0Ys",
+      "imgUrl" : "https://image.kurier.at/images/original/5948136/46-175670438.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Terror, Cyberangriffe, Blackouts: Das Ende des „relativen Friedens“",
+      "titleTarget" : "Teroare, atacuri cibernetice, întreruperi: sfârșitul „păcii relative”",
+      "url" : "https://kurier.at/chronik/oesterreich/terror-cyberangriffe-blackouts-das-ende-des-relativen-friedens/401338953"
     }, {
-      "articleLength" : 671,
-      "articlePartsSize" : 3,
-      "articleWordCount" : 97,
-      "id" : "2JI4rJl2",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/6/2/5960290/22DED199-F647-4D21-A642-800932B32F77_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Kleinbrand vor dem Flex sorgt für Aufregung",
-      "titleTarget" : "Un foc mic în fața flexului provoacă emoție",
-      "url" : "https://www.diepresse.com/5960290/Kleinbrand-vor-dem-Flex-sorgt-fuer-Aufregung?from=rss"
+      "articleLength" : 2305,
+      "articlePartsSize" : 11,
+      "articleWordCount" : 308,
+      "id" : "bJrpm0cB",
+      "imgUrl" : "https://image.kurier.at/images/original/5947530/46-176366158.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Grenzkontrollen sind schwer möglich",
+      "titleTarget" : "Controalele la frontieră sunt dificil de realizat",
+      "url" : "https://kurier.at/chronik/oesterreich/grenzkontrollen-sind-schwer-moeglich/401339004"
+    }, {
+      "articleLength" : 1236,
+      "articlePartsSize" : 5,
+      "articleWordCount" : 182,
+      "id" : "v0sP3Je1",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Mindestens 48 Tote bei Zugunglück in Taiwan",
+      "titleTarget" : "Cel puțin 48 de morți într-un accident de tren în Taiwan",
+      "url" : "https://www.derstandard.at/story/2000125548175/mindestens-vier-tote-bei-zugsunglueck-in-taiwan?ref=rss"
     } ]
   }, {
     "category" : "CULTURE",
     "newsArticles" : [ {
+      "articleLength" : 703,
+      "articlePartsSize" : 3,
+      "articleWordCount" : 102,
+      "id" : "2OsNLyDA",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/5/3/2/5899570/Trumpet_160579700904377_v0_h.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Musiksalon Nr. 57: Abenteuer Matthäus-Passion III",
+      "titleTarget" : "Salonul de muzică nr. 57: Aventura Sfântul Matei Pasiunea III",
+      "url" : "https://www.diepresse.com/5959872/Podcast_Musiksalon-Nr-57_Abenteuer-MatthaeusPassion-III?from=rss"
+    }, {
+      "articleLength" : 3992,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 557,
+      "id" : "UakiNpTv",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/2/9/e/5960350/E1DEA982-A5F7-4A6F-A34B-B6248F353701_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Die schwarzen Cowboys aus der Großstadt",
+      "titleTarget" : "Cowboyii negri din marele oraș",
+      "url" : "https://www.diepresse.com/5960350/Film_Die-schwarzen-Cowboys-aus-der-Grossstadt?from=rss"
+    }, {
       "articleLength" : 2796,
       "articlePartsSize" : 12,
       "articleWordCount" : 372,
@@ -244,14 +254,14 @@
       "titleTarget" : "Traducător pentru dezbaterea Gorman: „Nimeni nu a fost anulat aici”",
       "url" : "https://www.derstandard.at/story/2000125539906/uebersetzerin-zur-gorman-debatte-hier-wurde-niemand-gecancelt?ref=rss"
     }, {
-      "articleLength" : 869,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 121,
-      "id" : "UL3Cah1S",
+      "articleLength" : 1224,
+      "articlePartsSize" : 6,
+      "articleWordCount" : 170,
+      "id" : "vxLKIEPj",
       "publisher" : "derstandard.at",
-      "titleSource" : "Von den Nazis gestohlenes Gemälde in Italien sichergestellt",
-      "titleTarget" : "Pictura furată de naziști recuperată în Italia",
-      "url" : "https://www.derstandard.at/story/2000125522741/von-den-nazis-gestohlenes-gemaelde-in-italien-sichergestellt?ref=rss"
+      "titleSource" : "Georg Baselitz schenkt der Albertina 50 Zeichnungen",
+      "titleTarget" : "Georg Baselitz a donat 50 de desene Albertinei",
+      "url" : "https://www.derstandard.at/story/2000125533193/georg-baselitz-schenkt-der-albertina-50-zeichnungen?ref=rss"
     }, {
       "articleLength" : 6231,
       "articlePartsSize" : 29,
@@ -262,40 +272,10 @@
       "titleSource" : "\"Sch*** auf die Quote\": Sieben Stunden TV-Geschichte mit Pflegedoku",
       "titleTarget" : "„Sh *** on the quota”: șapte ore de istorie TV cu documentație de îngrijire",
       "url" : "https://kurier.at/kultur/medien/scheiss-auf-die-quote-mit-pflegenotstand-sieben-stunden-tv-geschichte-mit-joko-klaas-und/401338650"
-    }, {
-      "articleLength" : 1535,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 225,
-      "id" : "BFTnd4s8",
-      "imgUrl" : "https://image.kurier.at/images/original/3890501/46-72254881.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Joko und Klaas widmeten sich auf ProSieben dem Pflegenotstand",
-      "titleTarget" : "Joko și Klaas s-au dedicat urgenței de îngrijire pe ProSieben",
-      "url" : "https://kurier.at/kultur/medien/joko-und-klaas-widmeten-sich-auf-prosieben-dem-pflegenotstand/401338137"
-    }, {
-      "articleLength" : 2236,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 304,
-      "id" : "ChYc6rJt",
-      "imgUrl" : "https://image.kurier.at/images/original/5946357/em_01.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "ServusTV sichert sich die Rechte für die Fußball-Europameisterschaft",
-      "titleTarget" : "ServusTV asigură drepturile pentru campionatul european de fotbal",
-      "url" : "https://kurier.at/kultur/medien/servustv-sichert-sich-die-rechte-fuer-fussball-europameisterschaft/401338077"
     } ]
   }, {
     "category" : "HEALTH",
     "newsArticles" : [ {
-      "articleLength" : 1414,
-      "articlePartsSize" : 7,
-      "articleWordCount" : 202,
-      "id" : "HgLxwneq",
-      "imgUrl" : "https://image.kurier.at/images/original/5946297/46-176775025.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "J&J: Millionen Impf-Dosen unbrauchbar",
-      "titleTarget" : "J&J: Milioane de doze de vaccin inutilizabile",
-      "url" : "https://kurier.at/wissen/gesundheit/jj-millionen-impf-dosen-unbrauchbar/401337987"
-    }, {
       "articleLength" : 5454,
       "articlePartsSize" : 24,
       "articleWordCount" : 740,
@@ -306,15 +286,15 @@
       "titleTarget" : "Președinte de medicină pentru terapie intensivă: „În cel mai rău caz,„ triaj dur ””",
       "url" : "https://kurier.at/wissen/gesundheit/intensivmedizin-praesident-hasibeder-im-schlimmsten-fall-harte-triage/401338554"
     }, {
-      "articleLength" : 2239,
-      "articlePartsSize" : 11,
-      "articleWordCount" : 306,
-      "id" : "VDDbwCH9",
-      "imgUrl" : "https://image.kurier.at/images/original/4480832/78350011455232242_BLD_Online.jpg",
+      "articleLength" : 1877,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 267,
+      "id" : "VpKgzAlX",
+      "imgUrl" : "https://image.kurier.at/images/original/4995342/20210311-ABD0136-1-1.jpg",
       "publisher" : "kurier.at",
-      "titleSource" : "Corona-Hotspot Brasilien: Fast 4.000 Tote und eine neue Mutation",
-      "titleTarget" : "Hotspot Corona Brazilia: Aproape 4.000 de decese și o nouă mutație",
-      "url" : "https://kurier.at/wissen/gesundheit/corona-hotspot-brasilien-fast-4000-tote-und-eine-neue-mutation/401338023"
+      "titleSource" : "Besserer Corona-Schutz durch Kombi-Impfung von Zeneca und Pfizer?",
+      "titleTarget" : "O mai bună protecție împotriva coroanei prin vaccinarea combinată de la Zeneca și Pfizer?",
+      "url" : "https://kurier.at/wissen/gesundheit/besserer-corona-schutz-durch-kombi-impfung-von-astra-zeneca-und-biontechpfizer/401338251"
     }, {
       "articleLength" : 1819,
       "articlePartsSize" : 8,
@@ -325,6 +305,25 @@
       "titleTarget" : "De ce persoanele mai tinere sunt din ce în ce mai afectate de Covid-19",
       "url" : "https://www.derstandard.at/story/2000125505565/warum-verstaerkt-juengere-von-covid-19-betroffen-sind?ref=rss"
     }, {
+      "articleLength" : 1762,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 238,
+      "id" : "w81v021h",
+      "imgUrl" : "https://image.kurier.at/images/original/5948595/46-176765267.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Astrazeneca-Geimpfte sollen anderes Vakzin für Zweitimpfung nehmen",
+      "titleTarget" : "Persoanele vaccinate cu Astrazeneca ar trebui să ia un alt vaccin pentru a doua vaccinare",
+      "url" : "https://kurier.at/wissen/gesundheit/astrazeneca-geimpfte-sollen-anderes-vakzin-fuer-zweitimpfung-nehmen/401339139"
+    }, {
+      "articleLength" : 3642,
+      "articlePartsSize" : 15,
+      "articleWordCount" : 503,
+      "id" : "zXx5A35p",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Warum die Covid-19-Impfung auch für Kinder wichtig ist",
+      "titleTarget" : "De ce vaccinarea Covid-19 este importantă și pentru copii",
+      "url" : "https://www.derstandard.at/story/2000125536591/warum-die-covid-19-impfung-auch-fuer-kinder-wichtig-ist?ref=rss"
+    }, {
       "articleLength" : 3142,
       "articlePartsSize" : 14,
       "articleWordCount" : 439,
@@ -334,77 +333,10 @@
       "titleSource" : "Neue Virus-Variante in Afrika entdeckt - Dritte Welle rollt an",
       "titleTarget" : "Nouă variantă de virus descoperită în Africa - al treilea val se află în circulație",
       "url" : "https://kurier.at/wissen/gesundheit/neue-virus-variante-in-afrika-entdeckt-dritte-welle-rollt-an/401338641"
-    }, {
-      "articleLength" : 2988,
-      "articlePartsSize" : 15,
-      "articleWordCount" : 405,
-      "id" : "71saYV7S",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Wie es mit dem Impfstoff von Astra Zeneca weitergeht",
-      "titleTarget" : "Ce se întâmplă în continuare cu vaccinul Astra Zeneca",
-      "url" : "https://www.derstandard.at/story/2000125530050/wie-es-mit-dem-impfstoff-von-astra-zeneca-weitergeht?ref=rss"
-    }, {
-      "articleLength" : 1877,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 267,
-      "id" : "VpKgzAlX",
-      "imgUrl" : "https://image.kurier.at/images/original/4995342/20210311-ABD0136-1-1.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Besserer Corona-Schutz durch Kombi-Impfung von Zeneca und Pfizer?",
-      "titleTarget" : "O mai bună protecție împotriva coroanei prin vaccinarea combinată de la Zeneca și Pfizer?",
-      "url" : "https://kurier.at/wissen/gesundheit/besserer-corona-schutz-durch-kombi-impfung-von-astra-zeneca-und-biontechpfizer/401338251"
     } ]
   }, {
     "category" : "SPORT",
     "newsArticles" : [ {
-      "articleLength" : 1488,
-      "articlePartsSize" : 8,
-      "articleWordCount" : 203,
-      "id" : "nM6LqPDn",
-      "imgUrl" : "https://image.kurier.at/images/original/5947080/46-176051831.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Sport-Austria-Boss Niessl: „Müssen Verordnung zähneknirschend befolgen“ ",
-      "titleTarget" : "Șeful sportului Niessl din Austria: „Trebuie să urmezi regulamentul cu regret”",
-      "url" : "https://kurier.at/sport/sport-austria-boss-niessl-muessen-verordnung-zaehneknirschend-befolgen/401338491"
-    }, {
-      "articleLength" : 782,
-      "articlePartsSize" : 4,
-      "articleWordCount" : 130,
-      "id" : "l7JEpo4B",
-      "imgUrl" : "https://image.kurier.at/images/original/5946387/46-175712227.jpg",
-      "publisher" : "kurier.at",
-      "titleSource" : "Rätselraten um Thiem - Absage auch in Monte Carlo",
-      "titleTarget" : "Guesswork on Thiem - anulare și în Monte Carlo",
-      "url" : "https://kurier.at/sport/tennis/raetselraten-um-thiem-absage-auch-in-monte-carlo/401338101"
-    }, {
-      "articleLength" : 4553,
-      "articlePartsSize" : 20,
-      "articleWordCount" : 693,
-      "id" : "guKsYz3z",
-      "publisher" : "derstandard.at",
-      "titleSource" : "ÖFB-Team nach 0:4-Debakel: Im Tal der Dänen",
-      "titleTarget" : "Echipa ÖFB după 0: 4 dezastru: În valea danezilor",
-      "url" : "https://www.derstandard.at/story/2000125536044/oefb-team-nach-04-debakel-im-tal-der-daenen?ref=rss"
-    }, {
-      "articleLength" : 4928,
-      "articlePartsSize" : 22,
-      "articleWordCount" : 739,
-      "id" : "EsO5Z3cX",
-      "publisher" : "derstandard.at",
-      "titleSource" : "Teamchef Foda will nach 0:4 \"einige Dinge überdenken\"",
-      "titleTarget" : "Șeful echipei Foda vrea să „regândească câteva lucruri” după 4-0",
-      "url" : "https://www.derstandard.at/story/2000125521214/teamchef-foda-will-nach-04-einige-dinge-ueberdenken?ref=rss"
-    }, {
-      "articleLength" : 1062,
-      "articlePartsSize" : 5,
-      "articleWordCount" : 153,
-      "id" : "e5cHixzy",
-      "imgUrl" : "https://media.diepresse.com/images/uploads_500/0/f/1/5959921/FILES-GOLF-USPGA-WOODS-LIFESTYLE_161725295458175_v0_l.jpg",
-      "publisher" : "diepresse.com",
-      "titleSource" : "Tiger Woods: Unfallursache bleibt geheim",
-      "titleTarget" : "Tiger Woods: cauza accidentului rămâne secretă",
-      "url" : "https://www.diepresse.com/5959921/Golf_Tiger-Woods_Unfallursache-bleibt-geheim?from=rss"
-    }, {
       "articleLength" : 2088,
       "articlePartsSize" : 9,
       "articleWordCount" : 277,
@@ -424,6 +356,44 @@
       "titleSource" : "Mit Baseball kehrt auch die Normalität zurück",
       "titleTarget" : "Baseball-ul revine la normal",
       "url" : "https://www.diepresse.com/5960242/USSport_Mit-Baseball-kehrt-auch-die-Normalitaet-zurueck?from=rss"
+    }, {
+      "articleLength" : 1488,
+      "articlePartsSize" : 8,
+      "articleWordCount" : 203,
+      "id" : "nM6LqPDn",
+      "imgUrl" : "https://image.kurier.at/images/original/5947080/46-176051831.jpg",
+      "publisher" : "kurier.at",
+      "titleSource" : "Sport-Austria-Boss Niessl: „Müssen Verordnung zähneknirschend befolgen“ ",
+      "titleTarget" : "Șeful sportului Niessl din Austria: „Trebuie să urmezi regulamentul cu regret”",
+      "url" : "https://kurier.at/sport/sport-austria-boss-niessl-muessen-verordnung-zaehneknirschend-befolgen/401338491"
+    }, {
+      "articleLength" : 983,
+      "articlePartsSize" : 4,
+      "articleWordCount" : 152,
+      "id" : "s0dB6Bep",
+      "imgUrl" : "https://media.diepresse.com/images/uploads_500/1/8/3/5960067/6691F1DA-6C88-49D6-9B30-B3C0671CCE15_v0_l.jpg",
+      "publisher" : "diepresse.com",
+      "titleSource" : "Thiem verschiebt Start in Sandplatzsaison",
+      "titleTarget" : "Thiem amână începutul sezonului terenului de lut",
+      "url" : "https://www.diepresse.com/5960067/Tennis_Thiem-verschiebt-Start-in-Sandplatzsaison?from=rss"
+    }, {
+      "articleLength" : 4553,
+      "articlePartsSize" : 20,
+      "articleWordCount" : 693,
+      "id" : "guKsYz3z",
+      "publisher" : "derstandard.at",
+      "titleSource" : "ÖFB-Team nach 0:4-Debakel: Im Tal der Dänen",
+      "titleTarget" : "Echipa ÖFB după 0: 4 dezastru: În valea danezilor",
+      "url" : "https://www.derstandard.at/story/2000125536044/oefb-team-nach-04-debakel-im-tal-der-daenen?ref=rss"
+    }, {
+      "articleLength" : 3139,
+      "articlePartsSize" : 13,
+      "articleWordCount" : 481,
+      "id" : "qkZCTULa",
+      "publisher" : "derstandard.at",
+      "titleSource" : "Löw nach Blamage gegen Nordmazedonien wieder in Erklärungsnot",
+      "titleTarget" : "După ce a fost jenat împotriva Macedoniei de Nord, Löw are din nou nevoie de explicații",
+      "url" : "https://www.derstandard.at/story/2000125528552/deutsche-durchhalteparolen-nach-blamage-gegen-nordmazedonien?ref=rss"
     } ]
   } ],
   "country" : "austria",
